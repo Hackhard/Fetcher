@@ -1,0 +1,595 @@
+ 
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/google_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    100068
+Number of Non Tor Nodes :  165
+
+Cookies: 
+[{'name': 'NID', 'value': '213=PPxwPJYwssKYsjN_SXL_qgTnPtaUj-3rg_9LOhTK4JTZKQOKxu8Bc71SJ5XvqgRvxSLzwnUeTIdQAhchMDCa3WWlfZdaqfwenEsmfL9pVw2qrlmPt8YW3EV22pS2AB9lqAfgqYMxROS5Dr73VsJch8y4U4SrJK6Yly2MIzUvogY', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': True, 'expiry': 1634558895, 'sameSite': 'None'}, {'name': '1P_JAR', 'value': '2021-04-18-12', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': False, 'expiry': 1621339697, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'NID', 'value': '213=PPxwPJYwssKYsjN_SXL_qgTnPtaUj-3rg_9LOhTK4JTZKQOKxu8Bc71SJ5XvqgRvxSLzwnUeTIdQAhchMDCa3WWlfZdaqfwenEsmfL9pVw2qrlmPt8YW3EV22pS2AB9lqAfgqYMxROS5Dr73VsJch8y4U4SrJK6Yly2MIzUvogY', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': True, 'expiry': 1634558895, 'sameSite': 'None'}, {'name': '1P_JAR', 'value': '2021-04-18-12', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': False, 'expiry': 1621339697, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    112247
+Number of Tor Nodes :  185
+
+Cookies: 
+[{'name': 'NID', 'value': '213=sLZn-w-aUILbt1YBGBd6CAVpZgTUnJwCCorUtVclKORUlMaFdJRvLqIVNY_F5CApQb3Fk6plB7w4y0B6Ha8XrtCf3hyYXc4QQ30vp3bfC2dHHGNcMJA2jhzaXeRhzsCQgpsFfrBwLZP7zk30uh3gVMmVakz4-L7t3xjDBJtQCcs', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': True, 'expiry': 1634558912, 'sameSite': 'None'}, {'name': '1P_JAR', 'value': '2021-04-18-12', 'path': '/', 'domain': '.google.com', 'secure': True, 'httpOnly': False, 'expiry': 1621339717, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Youtube_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    3573718
+Number of Non Tor Nodes :  6597
+
+Cookies: 
+[{'name': 'GPS', 'value': '1', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1618749539, 'sameSite': 'None'}, {'name': 'YSC', 'value': 'wQlbv3kIXQM', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'VISITOR_INFO1_LIVE', 'value': '7FXpRhpCC6w', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1634299739, 'sameSite': 'None'}, {'name': 'PREF', 'value': 'tz=Asia.Kolkata', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': False, 'expiry': 1681819742, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'GPS', 'value': '1', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1618749539, 'sameSite': 'None'}, {'name': 'YSC', 'value': 'wQlbv3kIXQM', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'VISITOR_INFO1_LIVE', 'value': '7FXpRhpCC6w', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1634299739, 'sameSite': 'None'}, {'name': 'PREF', 'value': 'tz=Asia.Kolkata', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': False, 'expiry': 1681819742, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    3628196
+Number of Tor Nodes :  7576
+
+Cookies: 
+[{'name': 'YSC', 'value': '1h_hWwFW5NI', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'GPS', 'value': '1', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1618749559, 'sameSite': 'None'}, {'name': 'VISITOR_INFO1_LIVE', 'value': 'ojfeeCJRxMo', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': True, 'expiry': 1634299759, 'sameSite': 'None'}, {'name': 'PREF', 'value': 'tz=Asia.Kolkata', 'path': '/', 'domain': '.youtube.com', 'secure': True, 'httpOnly': False, 'expiry': 1681819772, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Facebook_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    193894
+Number of Non Tor Nodes :  256
+
+Cookies: 
+[{'name': 'fr', 'value': '1yiywrNuSg5G8GKYl..BgfCGa.5f.AAA.0.0.BgfCGa.AWUVjnKogW8', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1626523801, 'sameSite': 'None'}, {'name': 'sb', 'value': 'miF8YKyTB9gzbKfqU-FE6EtU', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819802, 'sameSite': 'None'}, {'name': 'wd', 'value': '1312x667', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': False, 'expiry': 1619352604, 'sameSite': 'Lax'}, {'name': 'datr', 'value': 'miF8YOhuCm3iXhSATde1yFet', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819804, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'fr', 'value': '1yiywrNuSg5G8GKYl..BgfCGa.5f.AAA.0.0.BgfCGa.AWUVjnKogW8', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1626523801, 'sameSite': 'None'}, {'name': 'sb', 'value': 'miF8YKyTB9gzbKfqU-FE6EtU', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819802, 'sameSite': 'None'}, {'name': 'wd', 'value': '1312x667', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': False, 'expiry': 1619352604, 'sameSite': 'Lax'}, {'name': 'datr', 'value': 'miF8YOhuCm3iXhSATde1yFet', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819804, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    194166
+Number of Tor Nodes :  255
+
+Cookies: 
+[{'name': 'fr', 'value': '1xyWnKtUITcX3JMyH..BgfCGq.4g.AAA.0.0.BgfCGq.AWWQ2B2CSKE', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1626523817, 'sameSite': 'None'}, {'name': 'sb', 'value': 'qiF8YHByuJkbklHSZJbpkNSJ', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819818, 'sameSite': 'None'}, {'name': 'wd', 'value': '1312x667', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': False, 'expiry': 1619352625, 'sameSite': 'Lax'}, {'name': 'datr', 'value': 'qiF8YGo4shlbMtkVD2CY31OD', 'path': '/', 'domain': '.facebook.com', 'secure': True, 'httpOnly': True, 'expiry': 1681819825, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Amazon_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    457436
+Number of Non Tor Nodes :  1716
+
+Cookies: 
+[{'name': 'i18n-prefs', 'value': 'USD', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283845, 'sameSite': 'None'}, {'name': 'sp-cdn', 'value': '"L5Z9:IN"', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': True, 'expiry': 1650283845, 'sameSite': 'None'}, {'name': 'skin', 'value': 'noskin', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'ubid-main', 'value': '134-1435392-4529928', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-id', 'value': '146-5285361-9328543', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-token', 'value': 'c6jIn1Xulw+eUzae52a48V+5Wk1802VGluFKqULgP1Rx62GGONsobGRB0G4kOU7c2TvFtK1poScvPLFB+swQ1k+AtU4DkjEKKtegiUlRBCtiwsjb1X9RsydXPFE+xySBDFRQaJlKyiPeQisz7RZHaTDS/igzI0npqJpZ/NkqYabv725DQc2e8UWuaBniK4vELNyyhupHWm0QL+cDzp1sNcWBRqfvnYh39YMol07LDgFZLGHZrzulI4vG+WAkcGIr', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'csm-hit', 'value': 'tb:s-C6DW41ARF9TSGMS7R9AK|1618747846352&t:1618747848946&adb:adblk_no', 'path': '/', 'domain': 'www.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1648987848, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'i18n-prefs', 'value': 'USD', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283845, 'sameSite': 'None'}, {'name': 'sp-cdn', 'value': '"L5Z9:IN"', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': True, 'expiry': 1650283845, 'sameSite': 'None'}, {'name': 'skin', 'value': 'noskin', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'ubid-main', 'value': '134-1435392-4529928', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-id', 'value': '146-5285361-9328543', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'session-token', 'value': 'c6jIn1Xulw+eUzae52a48V+5Wk1802VGluFKqULgP1Rx62GGONsobGRB0G4kOU7c2TvFtK1poScvPLFB+swQ1k+AtU4DkjEKKtegiUlRBCtiwsjb1X9RsydXPFE+xySBDFRQaJlKyiPeQisz7RZHaTDS/igzI0npqJpZ/NkqYabv725DQc2e8UWuaBniK4vELNyyhupHWm0QL+cDzp1sNcWBRqfvnYh39YMol07LDgFZLGHZrzulI4vG+WAkcGIr', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283848, 'sameSite': 'None'}, {'name': 'csm-hit', 'value': 'tb:s-C6DW41ARF9TSGMS7R9AK|1618747846352&t:1618747848946&adb:adblk_no', 'path': '/', 'domain': 'www.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1648987848, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    667880
+Number of Tor Nodes :  3186
+
+Cookies: 
+[{'name': 'i18n-prefs', 'value': 'USD', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283863, 'sameSite': 'None'}, {'name': 'skin', 'value': 'noskin', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'csm-hit', 'value': 'tb:s-AHDD2BWBWCX6PH2KTNYY|1618747869807&t:1618747872793&adb:adblk_no', 'path': '/', 'domain': 'www.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1648987872, 'sameSite': 'None'}, {'name': 'ubid-main', 'value': '135-6101651-7536243', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283877, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.com', 'secure': False, 'httpOnly': False, 'expiry': 1650283877, 'sameSite': 'None'}, {'name': 'session-id', 'value': '145-2327409-0533424', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283877, 'sameSite': 'None'}, {'name': 'session-token', 'value': '9M0IJFtuLX8OBYqSqYWE2S+jxCOlXQJROWZrKA9XwLEnYVfhXLq40lEnrBlSmx8UX1pumyAVvpmMwYkIPsH8BWVUw0Q2gRxf3oSq6X329qi0fBo85W9Dr9eVCTI5MaEzMsEFFKs68aWe4ofGoxhiNwqfkKBmTtal0YhJFYBrnNhcDdn9DJRqoNFfpiqVsPJS', 'path': '/', 'domain': '.amazon.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283880, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Yahoo_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    443315
+Number of Non Tor Nodes :  946
+
+Cookies: 
+[{'name': 'A1', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305500, 'sameSite': 'Lax'}, {'name': 'A1S', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64&j=WORLD', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'sameSite': 'Lax'}, {'name': 'cmp', 'value': 't=1618747904&j=0', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283903, 'sameSite': 'None'}, {'name': 'APID', 'value': 'UP42e1a56f-a03f-11eb-9183-02fb8804022e', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1640995199, 'sameSite': 'None'}, {'name': 'APIDTS', 'value': '1618747930', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1618834330, 'sameSite': 'None'}, {'name': 'A3', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305530, 'sameSite': 'None'}, {'name': 'B', 'value': 'f5sc7k9g7o8fs&b=3&s=gp', 'path': '/', 'domain': '.yahoo.com', 'secure': False, 'httpOnly': False, 'expiry': 1650305530, 'sameSite': 'None'}, {'name': 'GUC', 'value': 'AQEBAQFgfXNghkIefARr', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650305530, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'A1', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305500, 'sameSite': 'Lax'}, {'name': 'A1S', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64&j=WORLD', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'sameSite': 'Lax'}, {'name': 'cmp', 'value': 't=1618747904&j=0', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283903, 'sameSite': 'None'}, {'name': 'APID', 'value': 'UP42e1a56f-a03f-11eb-9183-02fb8804022e', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1640995199, 'sameSite': 'None'}, {'name': 'APIDTS', 'value': '1618747930', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1618834330, 'sameSite': 'None'}, {'name': 'A3', 'value': 'd=AQABBPwhfGACEJCUxb884vys6V4kBCWJxoQFEgEBAQFzfWCGYAAAAAAA_eMAAAcI_CF8YKKH8fI&S=AQAAAqXQgEcoGD5Eba4yXaxiC64', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305530, 'sameSite': 'None'}, {'name': 'B', 'value': 'f5sc7k9g7o8fs&b=3&s=gp', 'path': '/', 'domain': '.yahoo.com', 'secure': False, 'httpOnly': False, 'expiry': 1650305530, 'sameSite': 'None'}, {'name': 'GUC', 'value': 'AQEBAQFgfXNghkIefARr', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650305530, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    863566
+Number of Tor Nodes :  1109
+
+Cookies: 
+[{'name': 'A1', 'value': 'd=AQABBCUifGACEHl6SGmZowXtX5OsCF-ch4YFEgEBAQFzfWCGYAAAAAAA_eMAAAcIIyJ8YIt--hg&S=AQAAAnCN-PADMopYEutN966YEzo', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305542, 'sameSite': 'Lax'}, {'name': 'A1S', 'value': 'd=AQABBCUifGACEHl6SGmZowXtX5OsCF-ch4YFEgEBAQFzfWCGYAAAAAAA_eMAAAcIIyJ8YIt--hg&S=AQAAAnCN-PADMopYEutN966YEzo&j=US', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'sameSite': 'Lax'}, {'name': 'yhcstamp', 'value': '6db38e1cc739d952c9a34ae1d9da7949', 'path': '/', 'domain': 'www.yahoo.com', 'secure': False, 'httpOnly': False, 'expiry': 1619352746, 'sameSite': 'None'}, {'name': 'FPNC', 'value': 'B7O5_Q4BDWNQ9jY1yna7R1v689VFgLIkN70-~B', 'path': '/', 'domain': 'www.yahoo.com', 'secure': False, 'httpOnly': False, 'expiry': 1618834346, 'sameSite': 'None'}, {'name': 'cmp', 'value': 't=1618747953&j=0', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650283953, 'sameSite': 'None'}, {'name': 'A3', 'value': 'd=AQABBCUifGACEHl6SGmZowXtX5OsCF-ch4YFEgEBAQFzfWCGYAAAAAAA_eMAAAcIIyJ8YIt--hg&S=AQAAAnCN-PADMopYEutN966YEzo', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': True, 'expiry': 1650305575, 'sameSite': 'None'}, {'name': 'B', 'value': '1hujuhdg7o8h3&b=3&s=hc', 'path': '/', 'domain': '.yahoo.com', 'secure': False, 'httpOnly': False, 'expiry': 1650305575, 'sameSite': 'None'}, {'name': 'GUC', 'value': 'AQEBAQFgfXNghkIhkgSa', 'path': '/', 'domain': '.yahoo.com', 'secure': True, 'httpOnly': False, 'expiry': 1650305575, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Wikipedia_org
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    65199
+Number of Non Tor Nodes :  925
+
+Cookies: 
+[{'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'WMF-Last-Access-Global', 'value': '18-Apr-2021', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'GeoIP', 'value': 'IN:JH:Jamshedpur:22.81:86.18:v4', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'www.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'WMF-Last-Access-Global', 'value': '18-Apr-2021', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'GeoIP', 'value': 'IN:JH:Jamshedpur:22.81:86.18:v4', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'www.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    65199
+Number of Tor Nodes :  925
+
+Cookies: 
+[{'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'WMF-Last-Access-Global', 'value': '18-Apr-2021', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}, {'name': 'GeoIP', 'value': ':::::v4', 'path': '/', 'domain': '.wikipedia.org', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'WMF-Last-Access', 'value': '18-Apr-2021', 'path': '/', 'domain': 'www.wikipedia.org', 'secure': True, 'httpOnly': True, 'expiry': 1621512000, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Live_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    41638
+Number of Non Tor Nodes :  446
+
+Cookies: 
+[{'name': 'ClientId', 'value': '7E98851C0C034F9D999E2ACF402D19E4', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284030, 'sameSite': 'None'}, {'name': 'logonLatency', 'value': 'LGN01=637543448307725233', 'path': '/', 'domain': '.live.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=155f0514534b48dda2b4d497a1520811&HASH=155f&LV=202104&V=4&LU=1618748031479', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284031, 'sameSite': 'None'}, {'name': 'OWAPF', 'value': 'p:00&v:15.20.4042.16&l:mouse&', 'path': '/', 'domain': 'outlook.live.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'ClientId', 'value': '7E98851C0C034F9D999E2ACF402D19E4', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284030, 'sameSite': 'None'}, {'name': 'logonLatency', 'value': 'LGN01=637543448307725233', 'path': '/', 'domain': '.live.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=155f0514534b48dda2b4d497a1520811&HASH=155f&LV=202104&V=4&LU=1618748031479', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284031, 'sameSite': 'None'}, {'name': 'OWAPF', 'value': 'p:00&v:15.20.4042.16&l:mouse&', 'path': '/', 'domain': 'outlook.live.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    41638
+Number of Tor Nodes :  446
+
+Cookies: 
+[{'name': 'ClientId', 'value': 'E4B705CF171F4D88B5D95B2CA5D14AB9', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284046, 'sameSite': 'None'}, {'name': 'logonLatency', 'value': 'LGN01=637543448463679600', 'path': '/', 'domain': '.live.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=aaa6c45f9cf745d9b501779736200030&HASH=aaa6&LV=202104&V=4&LU=1618748050724', 'path': '/', 'domain': 'outlook.live.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284050, 'sameSite': 'None'}, {'name': 'OWAPF', 'value': 'p:00&v:15.20.4042.23&l:mouse&', 'path': '/', 'domain': 'outlook.live.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Reddit_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    856851
+Number of Non Tor Nodes :  5418
+
+Cookies: 
+[{'name': 'loid', 'value': '0000000000bm4k67lq.2.1618748078000.Z0FBQUFBQmdmQ0t1eFd3dDFnNWd1TlpBcjMzaFpzYThINExZZmN4VExKQWhFU3VIN1ZzQnhVaDRWLUtObG9Vb1VGVTI2eWlxOHJDR05zZFZHelVZOEZXaFpaLUtEamtLbHRhaWhlNExSWHBxVE1xcktpdUNIOGh2OTF4dXFCYlQyaENQUFZMRFNsWkw', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'token_v2', 'value': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTg3NTE1NTgsInN1YiI6Ii1ycUFsMzNOdDc4YWhKR3d6R2JTZFJzWmp6bmMiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.3g8e9f_qzZthHMTG6Dqc1Y1Rm0EEu4vfaoZ9nxR8mmI', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': True, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'csv', 'value': '1', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820079, 'sameSite': 'None'}, {'name': 'edgebucket', 'value': 'owr8vHrNVnvriE6MVg', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'aasd', 'value': '1%7C1618748085717', 'path': '/', 'domain': 'www.reddit.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': '__aaxsc', 'value': '2', 'path': '/', 'domain': 'www.reddit.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'session_tracker', 'value': 'qpindrpoffhpgipgbk.0.1618748090802.Z0FBQUFBQmdmQ0s2M2Jpb0dVd2FBTkJOclpENUdFZmJ0UzF1eGZNWThFZlRtcndYR1hHSFRacllGdVA4amFmYXprbE9iSDRXeWJxckJJdVN1NTh3Z2U5R0Q4eXZiblc0OFMydE9ORkZlWGE2V3NkdnE4TmVtenhHNTBxZUZlSENtRVVvMklqYVYtQTc', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1618755289, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'loid', 'value': '0000000000bm4k67lq.2.1618748078000.Z0FBQUFBQmdmQ0t1eFd3dDFnNWd1TlpBcjMzaFpzYThINExZZmN4VExKQWhFU3VIN1ZzQnhVaDRWLUtObG9Vb1VGVTI2eWlxOHJDR05zZFZHelVZOEZXaFpaLUtEamtLbHRhaWhlNExSWHBxVE1xcktpdUNIOGh2OTF4dXFCYlQyaENQUFZMRFNsWkw', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'token_v2', 'value': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTg3NTE1NTgsInN1YiI6Ii1ycUFsMzNOdDc4YWhKR3d6R2JTZFJzWmp6bmMiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.3g8e9f_qzZthHMTG6Dqc1Y1Rm0EEu4vfaoZ9nxR8mmI', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': True, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'csv', 'value': '1', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820079, 'sameSite': 'None'}, {'name': 'edgebucket', 'value': 'owr8vHrNVnvriE6MVg', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820078, 'sameSite': 'None'}, {'name': 'aasd', 'value': '1%7C1618748085717', 'path': '/', 'domain': 'www.reddit.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': '__aaxsc', 'value': '2', 'path': '/', 'domain': 'www.reddit.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'session_tracker', 'value': 'qpindrpoffhpgipgbk.0.1618748090802.Z0FBQUFBQmdmQ0s2M2Jpb0dVd2FBTkJOclpENUdFZmJ0UzF1eGZNWThFZlRtcndYR1hHSFRacllGdVA4amFmYXprbE9iSDRXeWJxckJJdVN1NTh3Z2U5R0Q4eXZiblc0OFMydE9ORkZlWGE2V3NkdnE4TmVtenhHNTBxZUZlSENtRVVvMklqYVYtQTc', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1618755289, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    829736
+Number of Tor Nodes :  5313
+
+Cookies: 
+[{'name': 'loid', 'value': '0000000000bm4kc9gy.2.1618748102000.Z0FBQUFBQmdmQ0xHZnlNd2RGMnFvX2pSVnFtWjZfSXNlRHNSbl9MNG5LckRjR2Zia19MRWtmbDBvTWZTT3R5dVkxZm1yTkItb1o3ZENJZkhYdXVCQ092M0lvYXJhT1ZjYmhJUWdIanc5V2ZLVW5lUW9BM0xkTHlGM00wWkZlemNFdGF4QkRQWlZEaEc', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820102, 'sameSite': 'None'}, {'name': 'token_v2', 'value': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTg3NTE1ODIsInN1YiI6Ii1WMDR5Ymxzamh5eWJ0NXY3amNHT3J0OHVjTEUiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.DjEgHus60GL6coBM6MgsjXMA17c6Hp_ruwxsCJn8fR0', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': True, 'expiry': 1681820102, 'sameSite': 'None'}, {'name': 'csv', 'value': '1', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820104, 'sameSite': 'None'}, {'name': 'edgebucket', 'value': 'VlcDLrKUDYiOUAcjBy', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820103, 'sameSite': 'None'}, {'name': 'aasd', 'value': '1%7C1618748127797', 'path': '/', 'domain': 'www.reddit.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'session_tracker', 'value': 'oqdmakfmlorhonfknr.0.1618748125615.Z0FBQUFBQmdmQ0xlbERNOWtCYnQxZzhrNWY2TWxfazN5Y2Zyd0c4M3JPNldtSHhmX1FuS203M0NsVUVpdEllWWs1dGFuY01leXBlMTVBeVVXUldpcTVUZlIybFNWQnRFMllRcTdhS01xbllaeFNZT2dPOFo4UTZIUTY4eEJGelk4MTNUSlNtTzU3Tlo', 'path': '/', 'domain': '.reddit.com', 'secure': True, 'httpOnly': False, 'expiry': 1618755328, 'sameSite': 'None'}, {'name': '__aaxsc', 'value': '2', 'path': '/', 'domain': 'www.reddit.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Netflix_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    317097
+Number of Non Tor Nodes :  259
+
+Cookies: 
+[{'name': 'nfvdid', 'value': 'BQFmAAEBEJoMWwyVH_U3Wui0zIqg5EVAVxzvlmWp3qWDRCUKPXv75holJf1e0rQUPQJ66wL-EfWNUZd7fkAT9iuNuoPFbpiQd9INgTJX1hTuSTFChf9Dhg%3D%3D', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284212, 'sameSite': 'None'}, {'name': 'flwssn', 'value': '0e56a91c-4a5d-428e-97f7-157eff279cb0', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1618759013, 'sameSite': 'None'}, {'name': 'clSharedContext', 'value': '364b5970-bb08-4682-ae07-079e68124c7f', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'SecureNetflixId', 'value': 'v%3D2%26mac%3DAQEAEQABABRXLkBDOEHkuAXwwA0LYVSTrhBB4wEt3p0.%26dt%3D1618748213243', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284213, 'sameSite': 'Strict'}, {'name': 'NetflixId', 'value': 'v%3D2%26ct%3DBQAOAAEBENC3CbfN0E4jSKKzpNMWBGSBALwdUpEgoSEB2OUex1FM4H_q4YnXBFU8dzukp-qOQ9sild1Bc5TSo7KOtxQFFBwCJhVLlNTrT7AJTFnTjs9eQvroYaU7dPIpy9L96p--YXgzJSTm2JnC_6B7_Tuj73Ep90unbmC-FxAX8-YpkR2qAxqNKpfLswwUO-Bv1uQMH9Y7h_GNFMPGrXDXLDRhrzL_aiseTn5AF73846N-cwKCa2CD0lySukJkBiU1bnXEOq01hV5deGRfdlVzg5CuvjHmRjHGASd24MRWCK6k33o2TWMkQoZALB5cK_g_Wuk7w7W5I9gJHGejimOONlCOFnRn2Kr6LifWfrubiR7fQ5Qww4M.%26bt%3Ddev%26mac%3DAQEAEAABABScY-xXpBlQlr3W7sZOHASuIZhr899Ukzo.', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284213, 'sameSite': 'Lax'}, {'name': 'memclid', 'value': 'TkZDREZGLUxYLUg3UjhUTkExNFVOV0U5UFhMSjhVOTFXVENZUThERw', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284214, 'sameSite': 'None'}, {'name': 'cL', 'value': '1618748214953%7C161874821427975424%7C161874821489449171%7C%7C4%7Cnull', 'path': '/', 'domain': '.www.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'OptanonConsent', 'value': 'isIABGlobal=false&datestamp=Sun+Apr+18+2021+17%3A46%3A55+GMT%2B0530+(India+Standard+Time)&version=6.6.0&consentId=515830fd-0159-443a-877f-57c4e148686b&interactionCount=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2F&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH2%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284215, 'sameSite': 'Lax'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'nfvdid', 'value': 'BQFmAAEBEJoMWwyVH_U3Wui0zIqg5EVAVxzvlmWp3qWDRCUKPXv75holJf1e0rQUPQJ66wL-EfWNUZd7fkAT9iuNuoPFbpiQd9INgTJX1hTuSTFChf9Dhg%3D%3D', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284212, 'sameSite': 'None'}, {'name': 'flwssn', 'value': '0e56a91c-4a5d-428e-97f7-157eff279cb0', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1618759013, 'sameSite': 'None'}, {'name': 'clSharedContext', 'value': '364b5970-bb08-4682-ae07-079e68124c7f', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'SecureNetflixId', 'value': 'v%3D2%26mac%3DAQEAEQABABRXLkBDOEHkuAXwwA0LYVSTrhBB4wEt3p0.%26dt%3D1618748213243', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284213, 'sameSite': 'Strict'}, {'name': 'NetflixId', 'value': 'v%3D2%26ct%3DBQAOAAEBENC3CbfN0E4jSKKzpNMWBGSBALwdUpEgoSEB2OUex1FM4H_q4YnXBFU8dzukp-qOQ9sild1Bc5TSo7KOtxQFFBwCJhVLlNTrT7AJTFnTjs9eQvroYaU7dPIpy9L96p--YXgzJSTm2JnC_6B7_Tuj73Ep90unbmC-FxAX8-YpkR2qAxqNKpfLswwUO-Bv1uQMH9Y7h_GNFMPGrXDXLDRhrzL_aiseTn5AF73846N-cwKCa2CD0lySukJkBiU1bnXEOq01hV5deGRfdlVzg5CuvjHmRjHGASd24MRWCK6k33o2TWMkQoZALB5cK_g_Wuk7w7W5I9gJHGejimOONlCOFnRn2Kr6LifWfrubiR7fQ5Qww4M.%26bt%3Ddev%26mac%3DAQEAEAABABScY-xXpBlQlr3W7sZOHASuIZhr899Ukzo.', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284213, 'sameSite': 'Lax'}, {'name': 'memclid', 'value': 'TkZDREZGLUxYLUg3UjhUTkExNFVOV0U5UFhMSjhVOTFXVENZUThERw', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284214, 'sameSite': 'None'}, {'name': 'cL', 'value': '1618748214953%7C161874821427975424%7C161874821489449171%7C%7C4%7Cnull', 'path': '/', 'domain': '.www.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'OptanonConsent', 'value': 'isIABGlobal=false&datestamp=Sun+Apr+18+2021+17%3A46%3A55+GMT%2B0530+(India+Standard+Time)&version=6.6.0&consentId=515830fd-0159-443a-877f-57c4e148686b&interactionCount=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2F&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH2%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284215, 'sameSite': 'Lax'}]
+
+---------------HTML(TOR)-----------------
+
+Length    297799
+Number of Tor Nodes :  263
+
+Cookies: 
+[{'name': 'nfvdid', 'value': 'BQFmAAEBEEH_AiH8NLBMfkXsEU6FUe9ABExnriCueL8oI-ZyQ8f6tyjK1KfiQQVoW1zZ9tx3737laI7A1e5S3qpOfmZd7R6YX3h0RIINTyNbLobmaLXbGw%3D%3D', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284225, 'sameSite': 'None'}, {'name': 'flwssn', 'value': '65ad643b-e801-42a6-aceb-040bc85511a6', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1618759027, 'sameSite': 'None'}, {'name': 'clSharedContext', 'value': 'ba9f99a3-e0d1-4490-8865-3b31fe73148a', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'SecureNetflixId', 'value': 'v%3D2%26mac%3DAQEAEQABABR15iB96Yd-cltR1SBf1JRCf8Lj48G2jXE.%26dt%3D1618748227585', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284227, 'sameSite': 'Strict'}, {'name': 'NetflixId', 'value': 'v%3D2%26ct%3DBQAOAAEBEPHoPe_cCDxZXSRNc0XlNsKBAPspwcUyQCD4iJoMofT19bFw5dnrqfixNDUZyiupHMXAd5A2CstlUGwnmQI5djidmgYBiJl89izfnq7RdfjJPLBUYhRKmG9q4SH_tmYAWJGiu_6avGlXDjuJc-syHX4YCx-wVGOa2fjTaCiC8QRFpDAKu7EL9bTkvVJRBYZiVIjhFh-Rpus1Qpxrz4xfmHkPG1sDYhqYALxgnJLhtWMQvj7CzjxNtR1mFu9o0V0zWBnxCaWPnMmHZi3TgkFxFvrNL-LWjdfwki7P3Op3GVk3XVyY5_byHaf01H4yFfTNx3PbvYF2_h1w0vdWkM2n7KXu4svxX6ip3lRundONfa2B1MA.%26bt%3Ddev%26mac%3DAQEAEAABABSw-LAb1VTmPPcv_t-I_DWXPPUh4QNeibI.', 'path': '/', 'domain': '.netflix.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284227, 'sameSite': 'Lax'}, {'name': 'cL', 'value': '1618748231972%7C161874823153746189%7C161874823116263690%7C%7C4%7Cnull', 'path': '/', 'domain': '.www.netflix.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'memclid', 'value': 'TkZDREZGLUxYLUg3UjhVM1BDQTZQODI0REE3UEE5SzJXM1hOQzk2Qw', 'path': '/', 'domain': '.netflix.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284242, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Microsoft_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    254836
+Number of Non Tor Nodes :  625
+
+Cookies: 
+[{'name': 'isFirstSession', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '3C7921F2A06F64641B0D31EFA1A76555', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1652876277, 'sameSite': 'None'}, {'name': 'akacd_OneRF', 'value': '1626524277~rv=55~id=611210a4fc4993817a3f98bdffe021c7', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1626524277, 'sameSite': 'None'}, {'name': 'at_check', 'value': 'true', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'MC1', 'value': 'GUID=413996242627472484e325869a100ac5&HASH=4139&LV=202104&V=4&LU=1618748278784', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284278, 'sameSite': 'None'}, {'name': 'MS0', 'value': '86b2c33f90af46c695daf194f3d39014', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1618750078, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=413996242627472484e325869a100ac5&HASH=4139&LV=202104&V=4&LU=1618748278784', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284278, 'sameSite': 'None'}, {'name': 'AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1585540135%7CMCIDTS%7C18736%7CMCMID%7C54946527760784187333676071901402152316%7CMCAAMLH-1619353078%7C12%7CMCAAMB-1619353078%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1618755479s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18743%7CvVersion%7C4.4.0', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681820279, 'sameSite': 'None'}, {'name': 'mbox', 'value': 'session#756d3978290f40b3808e58b1b3ed4bd0#1618750138|PC#756d3978290f40b3808e58b1b3ed4bd0.31_0#1681993080', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681993080, 'sameSite': 'None'}, {'name': 'mboxEdgeCluster', 'value': '31', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750139, 'sameSite': 'None'}, {'name': 'ONERFSSO', 'value': '1', 'path': '/en-in', 'domain': 'www.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'X-FD-FEATURES', 'value': 'ids=sfwaaa%2catperf680t2%2c10312t2%2c10210t1%2ctasmigration010%2ccartemberpl%2cdisablenorefunds%2cdaconvertenabled%2cenablescarlettmetadata&imp=3e9b1ffb-50b6-4fbc-86cf-879d405a7c74', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1650284280, 'sameSite': 'None'}, {'name': 'X-FD-Time', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1618748580, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'isFirstSession', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '3C7921F2A06F64641B0D31EFA1A76555', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1652876277, 'sameSite': 'None'}, {'name': 'akacd_OneRF', 'value': '1626524277~rv=55~id=611210a4fc4993817a3f98bdffe021c7', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1626524277, 'sameSite': 'None'}, {'name': 'at_check', 'value': 'true', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'MC1', 'value': 'GUID=413996242627472484e325869a100ac5&HASH=4139&LV=202104&V=4&LU=1618748278784', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284278, 'sameSite': 'None'}, {'name': 'MS0', 'value': '86b2c33f90af46c695daf194f3d39014', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1618750078, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=413996242627472484e325869a100ac5&HASH=4139&LV=202104&V=4&LU=1618748278784', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284278, 'sameSite': 'None'}, {'name': 'AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1585540135%7CMCIDTS%7C18736%7CMCMID%7C54946527760784187333676071901402152316%7CMCAAMLH-1619353078%7C12%7CMCAAMB-1619353078%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1618755479s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18743%7CvVersion%7C4.4.0', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681820279, 'sameSite': 'None'}, {'name': 'mbox', 'value': 'session#756d3978290f40b3808e58b1b3ed4bd0#1618750138|PC#756d3978290f40b3808e58b1b3ed4bd0.31_0#1681993080', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681993080, 'sameSite': 'None'}, {'name': 'mboxEdgeCluster', 'value': '31', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750139, 'sameSite': 'None'}, {'name': 'ONERFSSO', 'value': '1', 'path': '/en-in', 'domain': 'www.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'X-FD-FEATURES', 'value': 'ids=sfwaaa%2catperf680t2%2c10312t2%2c10210t1%2ctasmigration010%2ccartemberpl%2cdisablenorefunds%2cdaconvertenabled%2cenablescarlettmetadata&imp=3e9b1ffb-50b6-4fbc-86cf-879d405a7c74', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1650284280, 'sameSite': 'None'}, {'name': 'X-FD-Time', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1618748580, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    325936
+Number of Tor Nodes :  753
+
+Cookies: 
+[{'name': 'isFirstSession', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '389B97744FBB6F1C30AF87694E736EBA', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1652876294, 'sameSite': 'None'}, {'name': 'X-FD-FEATURES', 'value': 'ids=sfwaaa%2catperf680t2%2c10051t1%2c10312t1%2c9002t2%2c10210c%2ctasmigration010%2ccartemberpl%2cdisablenorefunds%2cdaconvertenabled%2cenablescarlettmetadata&imp=63361331-6539-48ad-90b4-0713e85fcec0', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1650284294, 'sameSite': 'None'}, {'name': 'X-FD-Time', 'value': '1', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': True, 'expiry': 1618748594, 'sameSite': 'None'}, {'name': 'akacd_OneRF', 'value': '1626524294~rv=43~id=f62572c07f814524757b78653d6d43f0', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1626524294, 'sameSite': 'None'}, {'name': 'at_check', 'value': 'true', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'MC1', 'value': 'GUID=7b2f1166092b4f07aa4ca9dafc7e1abf&HASH=7b2f&LV=202104&V=4&LU=1618748299493', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284299, 'sameSite': 'None'}, {'name': 'MS0', 'value': 'aa4e3fdf51a04a9ca16da9367a6028dd', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1618750099, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=7b2f1166092b4f07aa4ca9dafc7e1abf&HASH=7b2f&LV=202104&V=4&LU=1618748299493', 'path': '/', 'domain': 'www.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284299, 'sameSite': 'None'}, {'name': 'AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'mbox', 'value': 'session#84749b479a56487b8e48666211e91034#1618750158|PC#84749b479a56487b8e48666211e91034.31_0#1681993104', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681993104, 'sameSite': 'None'}, {'name': 'mboxEdgeCluster', 'value': '31', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750163, 'sameSite': 'None'}, {'name': '_cs_c', 'value': '0', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1652912304, 'sameSite': 'None'}, {'name': '_cs_cvars', 'value': '%7B%221%22%3A%5B%22signedInStatus%22%2C%22false%22%5D%7D', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': '_cs_id', 'value': '483e5ba7-45d0-a7a6-a3ec-ca3644b61bba.1618748314.1.1618748314.1618748314.1613561419.1652912314007.None.1', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1652912314, 'sameSite': 'None'}, {'name': '_cs_s', 'value': '1.1', 'path': '/', 'domain': '.microsoft.com', 'secure': True, 'httpOnly': False, 'expiry': 1618750114, 'sameSite': 'None'}, {'name': '__CT_Data', 'value': 'gpv=1&ckp=cd&dm=www.microsoft.com&apv_1001_www32=1&cpv_1001_www32=1', 'path': '/', 'domain': '.www.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284314, 'sameSite': 'None'}, {'name': 'AAMC_mscom_0', 'value': 'AMSYNCSOP%7C411-18743', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 2147483647, 'sameSite': 'None'}, {'name': 'AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg', 'value': '1585540135%7CMCIDTS%7C18736%7CMCMID%7C59428662307929892893285032857046361980%7CMCAAMLH-1619353100%7C12%7CMCAAMB-1619353100%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1618755506s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18743%7CvVersion%7C4.4.0', 'path': '/', 'domain': '.microsoft.com', 'secure': False, 'httpOnly': False, 'expiry': 1681820317, 'sameSite': 'None'}, {'name': 'ONERFSSO', 'value': '1', 'path': '/en-us', 'domain': 'www.microsoft.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Office_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    178540
+Number of Non Tor Nodes :  575
+
+Cookies: 
+[{'name': 'OH.SID', 'value': '23ba44f8-df57-4c2a-a3d9-13510e5a864a', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'OH.DCAffinity', 'value': 'OH-cin', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '209F745E9EE563B1097F64439F1262E6', 'path': '/', 'domain': '.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1652444343, 'sameSite': 'None'}, {'name': 'MicrosoftApplicationsTelemetryDeviceId', 'value': '5ba1b074-8aa9-4ca1-ae30-914567b6e559', 'path': '/', 'domain': 'www.office.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284344, 'sameSite': 'None'}, {'name': 'MicrosoftApplicationsTelemetryFirstLaunchTime', 'value': '2021-04-18T12:19:04.993Z', 'path': '/', 'domain': 'www.office.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284344, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=adf1defd8c0c4e2dab8047d5df5d42d1&HASH=adf1&LV=202104&V=4&LU=1618748345551', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284345, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'OH.SID', 'value': '23ba44f8-df57-4c2a-a3d9-13510e5a864a', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'OH.DCAffinity', 'value': 'OH-cin', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '209F745E9EE563B1097F64439F1262E6', 'path': '/', 'domain': '.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1652444343, 'sameSite': 'None'}, {'name': 'MicrosoftApplicationsTelemetryDeviceId', 'value': '5ba1b074-8aa9-4ca1-ae30-914567b6e559', 'path': '/', 'domain': 'www.office.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284344, 'sameSite': 'None'}, {'name': 'MicrosoftApplicationsTelemetryFirstLaunchTime', 'value': '2021-04-18T12:19:04.993Z', 'path': '/', 'domain': 'www.office.com', 'secure': False, 'httpOnly': False, 'expiry': 1650284344, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=adf1defd8c0c4e2dab8047d5df5d42d1&HASH=adf1&LV=202104&V=4&LU=1618748345551', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284345, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    193012
+Number of Tor Nodes :  593
+
+Cookies: 
+[{'name': 'OH.SID', 'value': '65f6d038-fcf2-4a9e-adf2-6bce64c8ac45', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'OH.DCAffinity', 'value': 'OH-weu', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'MUID', 'value': '183BFBC220B9655C215CEBDF21A064CE', 'path': '/', 'domain': '.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1652444357, 'sameSite': 'None'}, {'name': 'MSFPC', 'value': 'GUID=45c0c7ddbed3468ea4afc4036a1b2cab&HASH=45c0&LV=202104&V=4&LU=1618748365965', 'path': '/', 'domain': 'www.office.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284365, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Panda_tv
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    155751
+Number of Non Tor Nodes :  53
+
+Cookies: 
+[]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[]
+
+---------------HTML(TOR)-----------------
+
+Length    155738
+Number of Tor Nodes :  53
+
+Cookies: 
+[{'name': 'Hm_lvt_b5bbb224333c5f790b6584e7b3ad3251', 'value': '1618748417', 'path': '/', 'domain': '.panda.tv', 'secure': False, 'httpOnly': False, 'expiry': 1650284417, 'sameSite': 'None'}, {'name': 'Hm_lpvt_b5bbb224333c5f790b6584e7b3ad3251', 'value': '1618748417', 'path': '/', 'domain': '.panda.tv', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Instagram_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    71269
+Number of Non Tor Nodes :  285
+
+Cookies: 
+[{'name': 'ig_did', 'value': '9F913F31-5CE4-45F2-B2FC-405BFF937B00', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': True, 'expiry': 1681820435, 'sameSite': 'None'}, {'name': 'ig_nrcb', 'value': '1', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284435, 'sameSite': 'None'}, {'name': 'mid', 'value': 'YHwkEwAEAAGAfZQfvpahAITbbIDu', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820435, 'sameSite': 'None'}, {'name': 'csrftoken', 'value': 'h4EWSYKceIFkDIApC6ycRnl9KR8vqWcl', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1650198037, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'ig_did', 'value': '9F913F31-5CE4-45F2-B2FC-405BFF937B00', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': True, 'expiry': 1681820435, 'sameSite': 'None'}, {'name': 'ig_nrcb', 'value': '1', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1650284435, 'sameSite': 'None'}, {'name': 'mid', 'value': 'YHwkEwAEAAGAfZQfvpahAITbbIDu', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1681820435, 'sameSite': 'None'}, {'name': 'csrftoken', 'value': 'h4EWSYKceIFkDIApC6ycRnl9KR8vqWcl', 'path': '/', 'domain': '.instagram.com', 'secure': True, 'httpOnly': False, 'expiry': 1650198037, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    76149
+Number of Tor Nodes :  382
+
+Cookies: 
+[]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Bing_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    68333
+Number of Non Tor Nodes :  227
+
+Cookies: 
+[{'name': 'MUID', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': '.bing.com', 'secure': True, 'httpOnly': False, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': 'bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': '_EDGE_S', 'value': 'F=1&SID=15790A3EC05B62693A681A23C1F663B1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'sameSite': 'None'}, {'name': '_EDGE_V', 'value': '1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': 'www.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'SRCHD', 'value': 'AF=NOFORM', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHUID', 'value': 'V=2&GUID=DFE93D90173A4A279D4B169E1FBF535F&dmnchg=1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHUSR', 'value': 'DOB=20210418', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHHPGUSR', 'value': 'SRCHLANGV2=en', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': '_SS', 'value': 'SID=15790A3EC05B62693A681A23C1F663B1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': '_HPVN', 'value': 'CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0wNC0xOFQwMDowMDowMFoiLCJJb3RkIjowLCJEZnQiOm51bGwsIk12cyI6MCwiRmx0IjowLCJJbXAiOjF9', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'MUID', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': '.bing.com', 'secure': True, 'httpOnly': False, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': 'bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': '_EDGE_S', 'value': 'F=1&SID=15790A3EC05B62693A681A23C1F663B1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'sameSite': 'None'}, {'name': '_EDGE_V', 'value': '1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '2220DD5E48AD639C3142CD434900625E', 'path': '/', 'domain': 'www.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446277, 'sameSite': 'None'}, {'name': 'SRCHD', 'value': 'AF=NOFORM', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHUID', 'value': 'V=2&GUID=DFE93D90173A4A279D4B169E1FBF535F&dmnchg=1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHUSR', 'value': 'DOB=20210418', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': 'SRCHHPGUSR', 'value': 'SRCHLANGV2=en', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}, {'name': '_SS', 'value': 'SID=15790A3EC05B62693A681A23C1F663B1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': '_HPVN', 'value': 'CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0wNC0xOFQwMDowMDowMFoiLCJJb3RkIjowLCJEZnQiOm51bGwsIk12cyI6MCwiRmx0IjowLCJJbXAiOjF9', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822277, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    63547
+Number of Tor Nodes :  186
+
+Cookies: 
+[{'name': 'MUID', 'value': '1E04B669535E630227E4A674526D62D0', 'path': '/', 'domain': '.bing.com', 'secure': True, 'httpOnly': False, 'expiry': 1652446351, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '1E04B669535E630227E4A674526D62D0', 'path': '/', 'domain': 'bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446351, 'sameSite': 'None'}, {'name': '_EDGE_S', 'value': 'F=1&SID=0C5BB692B1B863E60536A68FB08B62DF', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'sameSite': 'None'}, {'name': '_EDGE_V', 'value': '1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446351, 'sameSite': 'None'}, {'name': 'MUIDB', 'value': '1E04B669535E630227E4A674526D62D0', 'path': '/', 'domain': 'www.bing.com', 'secure': False, 'httpOnly': True, 'expiry': 1652446353, 'sameSite': 'None'}, {'name': 'SRCHD', 'value': 'AF=NOFORM', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1652446353, 'sameSite': 'None'}, {'name': 'SRCHUID', 'value': 'V=2&GUID=814E1895574F4A5585248469061AE969&dmnchg=1', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1652446353, 'sameSite': 'None'}, {'name': 'SRCHUSR', 'value': 'DOB=20210418', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1652446353, 'sameSite': 'None'}, {'name': 'SRCHHPGUSR', 'value': 'SRCHLANGV2=en', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1652446353, 'sameSite': 'None'}, {'name': '_SS', 'value': 'SID=0C5BB692B1B863E60536A68FB08B62DF', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': '_HPVN', 'value': 'CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMS0wNC0xOFQwMDowMDowMFoiLCJJb3RkIjowLCJEZnQiOm51bGwsIk12cyI6MCwiRmx0IjowLCJJbXAiOjF9', 'path': '/', 'domain': '.bing.com', 'secure': False, 'httpOnly': False, 'expiry': 1652446353, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Twitch_tv
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    137127
+Number of Non Tor Nodes :  502
+
+Cookies: 
+[{'name': 'unique_id', 'value': 'xg71lHZukvpeGnQIjC0E5ewpAK6ZqtwR', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652878374, 'sameSite': 'None'}, {'name': 'unique_id_durable', 'value': 'xg71lHZukvpeGnQIjC0E5ewpAK6ZqtwR', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': True, 'expiry': 1652878374, 'sameSite': 'None'}, {'name': 'server_session_id', 'value': '6a2b5b9fa7314dabac5ba74f772cd057', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'twitch.lohp.countryCode', 'value': 'IN', 'path': '/', 'domain': '.twitch.tv', 'secure': False, 'httpOnly': False, 'expiry': 1652446374, 'sameSite': 'None'}, {'name': 'api_token', 'value': 'twilight.21afe3412194c12b1e679f81d4ac2a64', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652964776, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'unique_id', 'value': 'xg71lHZukvpeGnQIjC0E5ewpAK6ZqtwR', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652878374, 'sameSite': 'None'}, {'name': 'unique_id_durable', 'value': 'xg71lHZukvpeGnQIjC0E5ewpAK6ZqtwR', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': True, 'expiry': 1652878374, 'sameSite': 'None'}, {'name': 'server_session_id', 'value': '6a2b5b9fa7314dabac5ba74f772cd057', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'twitch.lohp.countryCode', 'value': 'IN', 'path': '/', 'domain': '.twitch.tv', 'secure': False, 'httpOnly': False, 'expiry': 1652446374, 'sameSite': 'None'}, {'name': 'api_token', 'value': 'twilight.21afe3412194c12b1e679f81d4ac2a64', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652964776, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    243849
+Number of Tor Nodes :  1685
+
+Cookies: 
+[{'name': 'server_session_id', 'value': 'c691c478150946eab06c294bb8a721ec', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'api_token', 'value': 'twilight.dd1e8234df3fadd4b083b33052e07c0a', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652964794, 'sameSite': 'None'}, {'name': 'unique_id', 'value': '2IW43KBGVygGIQYW3bdNRW7rZQfpPkic', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': False, 'expiry': 1652878399, 'sameSite': 'None'}, {'name': 'unique_id_durable', 'value': '2IW43KBGVygGIQYW3bdNRW7rZQfpPkic', 'path': '/', 'domain': '.twitch.tv', 'secure': True, 'httpOnly': True, 'expiry': 1652878399, 'sameSite': 'None'}, {'name': 'twitch.lohp.countryCode', 'value': 'AT', 'path': '/', 'domain': '.twitch.tv', 'secure': False, 'httpOnly': False, 'expiry': 1652446399, 'sameSite': 'None'}, {'name': '__gads', 'value': 'ID=ea5f7ae81dc0d29f-225c7ad374c700c8:T=1618750415:S=ALNI_MY0ulAkDhRCWm31n2CMx3mluvUZSQ', 'path': '/', 'domain': '.twitch.tv', 'secure': False, 'httpOnly': False, 'expiry': 1652446415, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Ebay_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    134341
+Number of Non Tor Nodes :  1256
+
+Cookies: 
+[{'name': 'nonsession', 'value': 'BAQAAAXguCEiyAAaAADMABmJdX2w4MzEwMDEAygAgZD6S7GU1MGI5MjFlMTc4MGFhZjYyOGVhZGJiMGZmZDM0MzcyAMsAAWB8MvQxIsWbGhF5xaIFMWpM1XrkJNtSI8U*', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822444, 'sameSite': 'None'}, {'name': 's', 'value': 'CgAD4ACBgfX1sZTUwYjkyMWUxNzgwYWFmNjI4ZWFkYmIwZmZkMzQzNzLYVP9G', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'ebay', 'value': '%5Esbf%3D%23000000%5E', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': 'B0FDC7C66498F66204ACD040511BD7C2172F9566514C0000EC2B7C60932ACB51~plbGKx6FsnDlvGxKqDqaiKlw/amY+eOZGFD+t50UCbp1EFNKxWNbmn9XY/AkD/HtU2uFQ6XFXhD0OxhNJbdPTQzZYSiQCl4AFMw299qmCrbNjitcoQFTlT2wgZHzhZB2XRXw0hg8xyS1opy4WJdYjqDZFf5zFqbm33o0G0sRY6DdSU0PZ4mrr3iFgdeWW0/8aY+NGCp5P7StRuBsBsydNFftxtt0b30CAxkXjJv/vyyTU=', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757644, 'sameSite': 'None'}, {'name': 'dp1', 'value': 'bbl/IN643e92ec^pbf/#8000e00000000000000000643e92ed^', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822445, 'sameSite': 'None'}, {'name': 'npii', 'value': 'btguid/e50b921e1780aaf628eadbb0ffd34372643e92ee^cguid/e50b9b221780a6e58be19c9beac843f4643e92ee^', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822446, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'nonsession', 'value': 'BAQAAAXguCEiyAAaAADMABmJdX2w4MzEwMDEAygAgZD6S7GU1MGI5MjFlMTc4MGFhZjYyOGVhZGJiMGZmZDM0MzcyAMsAAWB8MvQxIsWbGhF5xaIFMWpM1XrkJNtSI8U*', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822444, 'sameSite': 'None'}, {'name': 's', 'value': 'CgAD4ACBgfX1sZTUwYjkyMWUxNzgwYWFmNjI4ZWFkYmIwZmZkMzQzNzLYVP9G', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'ebay', 'value': '%5Esbf%3D%23000000%5E', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': 'B0FDC7C66498F66204ACD040511BD7C2172F9566514C0000EC2B7C60932ACB51~plbGKx6FsnDlvGxKqDqaiKlw/amY+eOZGFD+t50UCbp1EFNKxWNbmn9XY/AkD/HtU2uFQ6XFXhD0OxhNJbdPTQzZYSiQCl4AFMw299qmCrbNjitcoQFTlT2wgZHzhZB2XRXw0hg8xyS1opy4WJdYjqDZFf5zFqbm33o0G0sRY6DdSU0PZ4mrr3iFgdeWW0/8aY+NGCp5P7StRuBsBsydNFftxtt0b30CAxkXjJv/vyyTU=', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757644, 'sameSite': 'None'}, {'name': 'dp1', 'value': 'bbl/IN643e92ec^pbf/#8000e00000000000000000643e92ed^', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822445, 'sameSite': 'None'}, {'name': 'npii', 'value': 'btguid/e50b921e1780aaf628eadbb0ffd34372643e92ee^cguid/e50b9b221780a6e58be19c9beac843f4643e92ee^', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822446, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    302362
+Number of Tor Nodes :  1939
+
+Cookies: 
+[{'name': 'nonsession', 'value': 'BAQAAAXguCEiyAAaAADMABGJdX3oxMDEwAMoAIGQ+kvplNTBiYzkzODE3ODBhY2IxMTQ1OGRmOTlmZmMzZWYwYgDLAAFgfDMCMbqmptW9OxPX79SHlhO3NiK/MxL7', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822458, 'sameSite': 'None'}, {'name': 's', 'value': 'CgAD4ACBgfX16ZTUwYmM5MzgxNzgwYWNiMTE0NThkZjk5ZmZjM2VmMGLdz9Kw', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': True, 'sameSite': 'None'}, {'name': 'ebay', 'value': '%5Esbf%3D%23000000%5E', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': '068707A413505A9DAD2255FFA97CB4DE172F9566514C0000FA2B7C60CB84DB44~pl/XlolUqbGNH1itUymC4ONqhh8MHRLNJqT35JvSsJC9QgHi2O2S3jlZXdpPd2GTxeJger1A1F23EzEaCrRtZDI1nDH7+70Cxo3vfs5GPRe3cuNMhrUpaq0EttEu3vpo8Hv8jEx6eqnNT3MzwFqPwiLCdjy7YMGlUKj6rMJOYxvbZ73aJZw7+2pFB5Sth4SlU2EB6zomciv9P7hxSZLnmPG5VWPmoBvcg3HNDo1tkuFKI=', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757658, 'sameSite': 'None'}, {'name': 'dp1', 'value': 'bbl/AT643e92fa^pbf/#8000e00000000000000000643e92fe^', 'path': '/', 'domain': '.ebay.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822462, 'sameSite': 'None'}, {'name': 'npii', 'value': 'btguid/e50bc9381780acb11458df99ffc3ef0b643e92ff^cguid/e50bde221780aaec9af23647eae9674f643e92ff^', 'path': '/', 'domain': '.ebay.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822463, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Adobe_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    286261
+Number of Non Tor Nodes :  1760
+
+Cookies: 
+[{'name': 'AKA_A2', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': True, 'httpOnly': True, 'expiry': 1618754090, 'sameSite': 'None'}, {'name': 'sat_domain', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750491, 'sameSite': 'None'}, {'name': 'feds_visitor_id', 'value': 'AOduMZLz1I4fu-Y9-9U5U', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342496, 'sameSite': 'None'}, {'name': 'feds_visitor_audience', 'value': '%7B%22visitor%22%3A%22AOduMZLz1I4fu-Y9-9U5U%22%2C%22cohort%22%3Atrue%7D', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342496, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': 'BDAAF08CC761CFEACB5BE3A5B8649DA2~000000000000000000000000000000~YAAQInrvdVppQeJ4AQAA0HEM5Qt+Gm1d6ZNQAdxC//FwIXUU/lRvqL1aJB6afdSbuzrvSTdorsKsvlrDBJAf6dbdcf1aidVF1EEqHds+HWQu+81slkfADX+4dGi+UwfBrW4YTVyhcNJeUZvzZq+8shdA8K0ChbgKzcVhBtIgQ6eFjHfRr+MFD7Z75Arx85sMf5qpJT5Uhdn+nLODE6ANbNfF5dZlhlvUg5XrUja8n/iP4VAfFV/+4NvzZX+UCIhBVASfFCZPWH/4fIZYTGKvONGg5+Qqc1OskkjsXS4GiocTrLFBzcqbscvZieuN9P+74W2iQAfNIxE1t/be2oInbrJ9GmGc6lJqzMdFBaelzPQ46/grOq/DhMcrrsz+J/fSV4Y1Oh/pB/KMTmL7Y8fumz+AJbYu6tnmY29Bp68/yS3zFIWtXPx3ojEdydAyniSvH2lGPK0cL1t2QW5OaDRnWWJFKyVhR70HZPFkwuiWEv+pI4cP5mdsc46O2Oxt8iUBpVnrdflF+2oLWdFQeBibfOWrSClE8nhS/5U=', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757690, 'sameSite': 'None'}, {'name': 'bm_sv', 'value': 'D01797AA125A5CE2AEF163D4D15B65FB~Vg8zrkJ0IgLoird13K9krm3zavX8Z6ff5nvDb/mxUJHsUjdD5Jc+lF6g0blCHg4lK5cSj4TghgUIEVCxj5hu5abQMC5BlF+p9GW1OzvCDDDcSU5o0UwF23ucG6mTYVy+w7X/zJ61B1oXfFmuhzUAxpAFuWrjA8GWwlSxQORLtxk=', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757691, 'sameSite': 'None'}, {'name': 'OptanonConsent', 'value': 'isIABGlobal=false&datestamp=Sun+Apr+18+2021+18%3A25%3A52+GMT%2B0530+(India+Standard+Time)&version=6.9.0&consentId=3364bd39-dbc0-41d3-a840-9afcc3311950&interactionCount=0&landingPath=https%3A%2F%2Fwww.adobe.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H323%3A1%2CH363%3A1%2CH364%3A1%2CH41%3A1%2CH42%3A1%2CH2%3A1%2CH146%3A1%2CH345%3A1%2CH245%3A1%2CH198%3A1%2CH372%3A1%2CH52%3A1%2CH271%3A1%2CH109%3A1%2CH77%3A1%2CH428%3A1%2CH99%3A1%2CH205%3A1%2CH4%3A1%2CH338%3A1%2CH135%3A1%2CH75%3A1%2CH48%3A1%2CH412%3A1%2CH110%3A1%2CH204%3A1%2CH76%3A1%2CH155%3A1%2CH147%3A1%2CH339%3A1%2CH68%3A1%2CH56%3A1%2CH71%3A1%2CH222%3A1%2CH479%3A1%2CH7%3A1%2CH36%3A1%2CH8%3A1%2CH383%3A1%2CH128%3A1%2CH196%3A1%2CH9%3A1%2CH219%3A1%2CH458%3A1%2CH11%3A1%2CH13%3A1%2CH14%3A1%2CH187%3A1%2CH475%3A1%2CH116%3A1%2CH221%3A1%2CH218%3A1%2CH360%3A1%2CH216%3A1%2CH361%3A1%2CH37%3A1%2CH478%3A1%2CH215%3A1%2CH16%3A1%2CH17%3A1%2CH19%3A1%2CH45%3A1%2CH476%3A1%2CH21%3A1%2CH46%3A1%2CH211%3A1%2CH22%3A1%2CH92%3A1%2CH136%3A1%2CH47%3A1%2CH213%3A1%2CH474%3A1%2CH296%3A1%2CH209%3A1%2CH23%3A1%2CH25%3A1%2CH26%3A1%2CH27%3A1%2CH50%3A1%2CH51%3A1%2CH28%3A1%2CH268%3A1%2CH30%3A1%2CH31%3A1%2CH362%3A1%2CH477%3A1%2CH53%3A1%2CH32%3A1%2CH210%3A1%2CH33%3A1%2CH217%3A1%2CH34%3A1%2CH35%3A1', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1650286552, 'sameSite': 'Lax'}, {'name': 'feds_privacy_consent', 'value': '{"hasUserProvidedConsent":true,"userHasCustomConsent":false}', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1652878552, 'sameSite': 'None'}, {'name': 'OptanonChoice', 'value': '1', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1650286490, 'sameSite': 'Lax'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'AKA_A2', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': True, 'httpOnly': True, 'expiry': 1618754090, 'sameSite': 'None'}, {'name': 'sat_domain', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750491, 'sameSite': 'None'}, {'name': 'feds_visitor_id', 'value': 'AOduMZLz1I4fu-Y9-9U5U', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342496, 'sameSite': 'None'}, {'name': 'feds_visitor_audience', 'value': '%7B%22visitor%22%3A%22AOduMZLz1I4fu-Y9-9U5U%22%2C%22cohort%22%3Atrue%7D', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342496, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': 'BDAAF08CC761CFEACB5BE3A5B8649DA2~000000000000000000000000000000~YAAQInrvdVppQeJ4AQAA0HEM5Qt+Gm1d6ZNQAdxC//FwIXUU/lRvqL1aJB6afdSbuzrvSTdorsKsvlrDBJAf6dbdcf1aidVF1EEqHds+HWQu+81slkfADX+4dGi+UwfBrW4YTVyhcNJeUZvzZq+8shdA8K0ChbgKzcVhBtIgQ6eFjHfRr+MFD7Z75Arx85sMf5qpJT5Uhdn+nLODE6ANbNfF5dZlhlvUg5XrUja8n/iP4VAfFV/+4NvzZX+UCIhBVASfFCZPWH/4fIZYTGKvONGg5+Qqc1OskkjsXS4GiocTrLFBzcqbscvZieuN9P+74W2iQAfNIxE1t/be2oInbrJ9GmGc6lJqzMdFBaelzPQ46/grOq/DhMcrrsz+J/fSV4Y1Oh/pB/KMTmL7Y8fumz+AJbYu6tnmY29Bp68/yS3zFIWtXPx3ojEdydAyniSvH2lGPK0cL1t2QW5OaDRnWWJFKyVhR70HZPFkwuiWEv+pI4cP5mdsc46O2Oxt8iUBpVnrdflF+2oLWdFQeBibfOWrSClE8nhS/5U=', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757690, 'sameSite': 'None'}, {'name': 'bm_sv', 'value': 'D01797AA125A5CE2AEF163D4D15B65FB~Vg8zrkJ0IgLoird13K9krm3zavX8Z6ff5nvDb/mxUJHsUjdD5Jc+lF6g0blCHg4lK5cSj4TghgUIEVCxj5hu5abQMC5BlF+p9GW1OzvCDDDcSU5o0UwF23ucG6mTYVy+w7X/zJ61B1oXfFmuhzUAxpAFuWrjA8GWwlSxQORLtxk=', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757691, 'sameSite': 'None'}, {'name': 'OptanonConsent', 'value': 'isIABGlobal=false&datestamp=Sun+Apr+18+2021+18%3A25%3A52+GMT%2B0530+(India+Standard+Time)&version=6.9.0&consentId=3364bd39-dbc0-41d3-a840-9afcc3311950&interactionCount=0&landingPath=https%3A%2F%2Fwww.adobe.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=H323%3A1%2CH363%3A1%2CH364%3A1%2CH41%3A1%2CH42%3A1%2CH2%3A1%2CH146%3A1%2CH345%3A1%2CH245%3A1%2CH198%3A1%2CH372%3A1%2CH52%3A1%2CH271%3A1%2CH109%3A1%2CH77%3A1%2CH428%3A1%2CH99%3A1%2CH205%3A1%2CH4%3A1%2CH338%3A1%2CH135%3A1%2CH75%3A1%2CH48%3A1%2CH412%3A1%2CH110%3A1%2CH204%3A1%2CH76%3A1%2CH155%3A1%2CH147%3A1%2CH339%3A1%2CH68%3A1%2CH56%3A1%2CH71%3A1%2CH222%3A1%2CH479%3A1%2CH7%3A1%2CH36%3A1%2CH8%3A1%2CH383%3A1%2CH128%3A1%2CH196%3A1%2CH9%3A1%2CH219%3A1%2CH458%3A1%2CH11%3A1%2CH13%3A1%2CH14%3A1%2CH187%3A1%2CH475%3A1%2CH116%3A1%2CH221%3A1%2CH218%3A1%2CH360%3A1%2CH216%3A1%2CH361%3A1%2CH37%3A1%2CH478%3A1%2CH215%3A1%2CH16%3A1%2CH17%3A1%2CH19%3A1%2CH45%3A1%2CH476%3A1%2CH21%3A1%2CH46%3A1%2CH211%3A1%2CH22%3A1%2CH92%3A1%2CH136%3A1%2CH47%3A1%2CH213%3A1%2CH474%3A1%2CH296%3A1%2CH209%3A1%2CH23%3A1%2CH25%3A1%2CH26%3A1%2CH27%3A1%2CH50%3A1%2CH51%3A1%2CH28%3A1%2CH268%3A1%2CH30%3A1%2CH31%3A1%2CH362%3A1%2CH477%3A1%2CH53%3A1%2CH32%3A1%2CH210%3A1%2CH33%3A1%2CH217%3A1%2CH34%3A1%2CH35%3A1', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1650286552, 'sameSite': 'Lax'}, {'name': 'feds_privacy_consent', 'value': '{"hasUserProvidedConsent":true,"userHasCustomConsent":false}', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1652878552, 'sameSite': 'None'}, {'name': 'OptanonChoice', 'value': '1', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1650286490, 'sameSite': 'Lax'}]
+
+---------------HTML(TOR)-----------------
+
+Length    135381
+Number of Tor Nodes :  719
+
+Cookies: 
+[{'name': 'AKA_A2', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': True, 'httpOnly': True, 'expiry': 1618754216, 'sameSite': 'None'}, {'name': 'ak_bmsc', 'value': '59515B6D43F9C64CC5E6276E38DE9C84~000000000000000000000000000000~YAAQInrvdV5pQeJ4AQAAPjwO5QtKO2x5LB80VFKrKJVJ7MTQ4z/jnBjWrQMQdjIMPJUWBEYE7p8yk2F2/im6QijifTxbdvFYX2IGxwf3MSlxLxLPmSdoZ/y/mv9wIMMepo86zWLVx9gptnsD9yTK6GXSUebJjUwrYu4gxfMfV2xLzvCR6IxYKgmx37C/1X8Uy3ECLQkxxGO+p0UNo0WD3NVYkhxg91bVBjTMOp+uTcxGFi5Sal+CwKGTMzimxAZigv5YLNahsESAYJ6j2GwZDP1X5fopAJM5Gw3CafJOuH0pnIM/ijNI6eTojT3+r0bKPNG8VQR1nLQ7KvnRizSs8y8ctAe9OjtrYRkNfXp6GAB5PIQsVHhCNDyoAW7hVbO2SvgiwYxNjjV8vJlG28gzBlq3AtpyqkNYuRuBjMgWAitUxZjh7EVJOi5sEJlSaTXNbnFqWc7NVxEL2ncFvDMQdLtPC7DVn5BppxiaohY=', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': True, 'expiry': 1618757817, 'sameSite': 'None'}, {'name': 'feds_visitor_id', 'value': 'QxRl7oEkcmrKpaYl8AF3v', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342638, 'sameSite': 'None'}, {'name': 'feds_visitor_audience', 'value': '%7B%22visitor%22%3A%22QxRl7oEkcmrKpaYl8AF3v%22%2C%22cohort%22%3Atrue%7D', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1621342638, 'sameSite': 'None'}, {'name': 'sat_domain', 'value': 'A', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750639, 'sameSite': 'None'}, {'name': 's_nr', 'value': '1618750643783-New', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1650286643, 'sameSite': 'None'}, {'name': 'fg', 'value': 'VLVES3FQFLO5FDMGCAZLRHQA2M======', 'path': '/', 'domain': '.adobe.com', 'secure': True, 'httpOnly': False, 'expiry': 1618837044, 'sameSite': 'None'}, {'name': 'mbox', 'value': 'session#aeca15b76b6445c58608cc2033b11a52#1618752505', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1618752505, 'sameSite': 'None'}, {'name': 'at_check', 'value': 'true', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg', 'value': '870038026%7CMCMID%7C48704333429627626068074008475502597557%7CvVersion%7C5.0.0', 'path': '/', 'domain': '.adobe.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822644, 'sameSite': 'None'}]
+
+Screenshoting tor...
+ 
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/twitter_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    62153
+Number of Non Tor Nodes :  127
+
+Cookies: 
+[{'name': 'personalization_id', 'value': '"v1_nC2u77xpPHmDPEe8HnsTNQ=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825749, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875374915227563', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825749, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383779635679223821', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618764550, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'personalization_id', 'value': '"v1_nC2u77xpPHmDPEe8HnsTNQ=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825749, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875374915227563', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825749, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383779635679223821', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618764550, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    74581
+Number of Tor Nodes :  215
+
+Cookies: 
+[{'name': 'personalization_id', 'value': '"v1_iayj1w0s9JPQ3Ei9nbymXg=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825765, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875376428558339', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681825765, 'sameSite': 'None'}, {'name': 'ct0', 'value': '79146c64c8e7956f3ca49683e67f426f', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618775373, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383779760719884293', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618764581, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.63113090.1618753784', 'path': '/', 'domain': '.twitter.com', 'secure': False, 'httpOnly': False, 'expiry': 1681825784, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1437817147.1618753784', 'path': '/', 'domain': '.twitter.com', 'secure': False, 'httpOnly': False, 'expiry': 1618840184, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.twitter.com', 'secure': False, 'httpOnly': False, 'expiry': 1618753844, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Twitter_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    62152
+Number of Non Tor Nodes :  127
+
+Cookies: 
+[{'name': 'personalization_id', 'value': '"v1_3F3vN0QsRWEF+jR4ZV+7Kg=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822661, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875066154069962', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822661, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383766685287518209', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618761464, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'personalization_id', 'value': '"v1_3F3vN0QsRWEF+jR4ZV+7Kg=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822661, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875066154069962', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822661, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383766685287518209', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618761464, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    74580
+Number of Tor Nodes :  215
+
+Cookies: 
+[{'name': 'personalization_id', 'value': '"v1_jBXY6ClC4421pDtReA2JHw=="', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822675, 'sameSite': 'None'}, {'name': 'guest_id', 'value': 'v1%3A161875067479002101', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1681822675, 'sameSite': 'None'}, {'name': 'ct0', 'value': 'a213310c60555053e38f4fc60dd7e7fa', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618772287, 'sameSite': 'None'}, {'name': 'gt', 'value': '1383766827168194561', 'path': '/', 'domain': '.twitter.com', 'secure': True, 'httpOnly': False, 'expiry': 1618761495, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.2144518727.1618750704', 'path': '/', 'domain': '.twitter.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822704, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.492769065.1618750704', 'path': '/', 'domain': '.twitter.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837104, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Amazon_in
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    555554
+Number of Non Tor Nodes :  1969
+
+Cookies: 
+[{'name': 'session-id', 'value': '260-0629930-4992543', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'i18n-prefs', 'value': 'INR', 'path': '/', 'domain': '.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'ubid-acbin', 'value': '259-9144908-5763263', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286723, 'sameSite': 'None'}, {'name': 'csm-hit', 'value': 'tb:s-WEADWPSMC8VMT41ZS9ZD|1618750723089&t:1618750724219&adb:adblk_no', 'path': '/', 'domain': 'www.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1648990724, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'session-id', 'value': '260-0629930-4992543', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'i18n-prefs', 'value': 'INR', 'path': '/', 'domain': '.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1650286722, 'sameSite': 'None'}, {'name': 'ubid-acbin', 'value': '259-9144908-5763263', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286723, 'sameSite': 'None'}, {'name': 'csm-hit', 'value': 'tb:s-WEADWPSMC8VMT41ZS9ZD|1618750723089&t:1618750724219&adb:adblk_no', 'path': '/', 'domain': 'www.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1648990724, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    635641
+Number of Tor Nodes :  2430
+
+Cookies: 
+[{'name': 'csm-hit', 'value': 'adb:adblk_no&t:1618750748864', 'path': '/', 'domain': 'www.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1648990748, 'sameSite': 'None'}, {'name': 'visitCount', 'value': '1', 'path': '/', 'domain': '.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1621342753, 'sameSite': 'None'}, {'name': 'session-id', 'value': '261-2849479-8617305', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286756, 'sameSite': 'None'}, {'name': 'session-id-time', 'value': '2082787201l', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286756, 'sameSite': 'None'}, {'name': 'ubid-acbin', 'value': '259-1508281-4377412', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286756, 'sameSite': 'None'}, {'name': 'session-token', 'value': 'KJMXxgEINsihE+XrfCBoVQedsEqv7X1qMMhJeVvbymG0ucQUsUBvE1mSto9Hb9yjlQpddx9mBes4k8UKhbKh+4lTSlA4jo/2px1bB6XkMuh772YNbFq3KfIaDwdfpBFovTKLxcfngy4nkW+JEAcsqvXoolP8cbHW1+mG+p5xW4IMzTd/3IWvE7NgcAivrVtobI7DSTLCyCSBFxh1xErwzJON2sGUwiBfe0QKsCC2/ZgGexcwRKvVsb6g0TFTZYKZ', 'path': '/', 'domain': '.amazon.in', 'secure': True, 'httpOnly': False, 'expiry': 1650286756, 'sameSite': 'None'}, {'name': 'i18n-prefs', 'value': 'INR', 'path': '/', 'domain': '.amazon.in', 'secure': False, 'httpOnly': False, 'expiry': 1650286756, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Stackoverflow_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    191285
+Number of Non Tor Nodes :  1168
+
+Cookies: 
+[{'name': 'prov', 'value': '5f96e6c4-5a19-c010-126a-02b91d86b676', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': True, 'expiry': 2682374400, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.8552477.1618750778', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822778, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1197391116.1618750778', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837178, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750838, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'prov', 'value': '5f96e6c4-5a19-c010-126a-02b91d86b676', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': True, 'expiry': 2682374400, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.8552477.1618750778', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822778, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1197391116.1618750778', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837178, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750838, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    191285
+Number of Tor Nodes :  1168
+
+Cookies: 
+[{'name': 'prov', 'value': 'ba8106de-8a6b-0e75-2296-d32214525516', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': True, 'expiry': 2682374400, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.1380628931.1618750801', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822800, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1622789511.1618750801', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837200, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.stackoverflow.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750860, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/Linkedin_com
+Directory created
+Opening Non-Tor...
+---------------HTML(NON-TOR)-----------------
+
+Length    89973
+Number of Non Tor Nodes :  612
+
+Cookies: 
+[{'name': 'JSESSIONID', 'value': 'ajax:1370604300055766430', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'lang', 'value': 'v=2&lang=en-us', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'bcookie', 'value': '"v=2&6f6fe991-2fa5-46ce-8afd-d8f0f8e7bf2e"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1681864671, 'sameSite': 'None'}, {'name': 'bscookie', 'value': '"v=1&2021041813001984e5f0ab-b16e-4ce2-86e9-f67f358200dcAQEgbVNI19xgV6kirjIrlz0Juebz177U"', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': True, 'expiry': 1681864671, 'sameSite': 'None'}, {'name': 'lidc', 'value': '"b=VGST02:s=V:r=V:a=V:p=V:g=2308:u=1:i=1618750819:t=1618837219:v=2:sig=AQHsgAfG9R3RPhcexSZQOmAw7rMGW2vF"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1618837219, 'sameSite': 'None'}, {'name': 'G_ENABLED_IDPS', 'value': 'google', 'path': '/', 'domain': '.www.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822820, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.1854430526.1618750820', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822820, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1416247397.1618750820', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837220, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750880, 'sameSite': 'None'}]
+
+Screenshoting non-tor...
+
+Opening Tor...
+
+[{'name': 'JSESSIONID', 'value': 'ajax:1370604300055766430', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'lang', 'value': 'v=2&lang=en-us', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'bcookie', 'value': '"v=2&6f6fe991-2fa5-46ce-8afd-d8f0f8e7bf2e"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1681864671, 'sameSite': 'None'}, {'name': 'bscookie', 'value': '"v=1&2021041813001984e5f0ab-b16e-4ce2-86e9-f67f358200dcAQEgbVNI19xgV6kirjIrlz0Juebz177U"', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': True, 'expiry': 1681864671, 'sameSite': 'None'}, {'name': 'lidc', 'value': '"b=VGST02:s=V:r=V:a=V:p=V:g=2308:u=1:i=1618750819:t=1618837219:v=2:sig=AQHsgAfG9R3RPhcexSZQOmAw7rMGW2vF"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1618837219, 'sameSite': 'None'}, {'name': 'G_ENABLED_IDPS', 'value': 'google', 'path': '/', 'domain': '.www.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822820, 'sameSite': 'None'}, {'name': '_ga', 'value': 'GA1.2.1854430526.1618750820', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1681822820, 'sameSite': 'None'}, {'name': '_gid', 'value': 'GA1.2.1416247397.1618750820', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1618837220, 'sameSite': 'None'}, {'name': '_gat', 'value': '1', 'path': '/', 'domain': '.linkedin.com', 'secure': False, 'httpOnly': False, 'expiry': 1618750880, 'sameSite': 'None'}]
+
+---------------HTML(TOR)-----------------
+
+Length    94304
+Number of Tor Nodes :  643
+
+Cookies: 
+[{'name': 'JSESSIONID', 'value': 'ajax:5618023204838235173', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'lang', 'value': 'v=2&lang=en-us', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'sameSite': 'None'}, {'name': 'bcookie', 'value': '"v=2&7a51cfdb-1319-4d14-8ee4-3a71fc7c6990"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1681864684, 'sameSite': 'None'}, {'name': 'bscookie', 'value': '"v=1&20210418130031437ee549-194f-4884-8643-5634646d101bAQEy0PpUSBEgoHzEyADUsoHRpcT30bna"', 'path': '/', 'domain': '.www.linkedin.com', 'secure': True, 'httpOnly': True, 'expiry': 1681864684, 'sameSite': 'None'}, {'name': 'li_gc', 'value': 'MTswOzE2MTg3NTA4MzE7MjswMjGNC/58y8h4MOLk+3UoWBYNsC6gMBfCuxypue2rFE3qIQ==', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1681597846, 'sameSite': 'None'}, {'name': 'lidc', 'value': '"b=OGST03:s=O:r=O:a=O:p=O:g=2329:u=1:i=1618750832:t=1618837232:v=2:sig=AQHDlK8QhRf9XiRivsKKjwVfZZbUXZuO"', 'path': '/', 'domain': '.linkedin.com', 'secure': True, 'httpOnly': False, 'expiry': 1618837232, 'sameSite': 'None'}]
+
+Screenshoting tor...
+
