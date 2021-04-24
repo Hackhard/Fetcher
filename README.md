@@ -21,7 +21,7 @@ Error_websites: The folder contains few of the known [websites](https://gitlab.t
 
 -------------------------------------------
 
-**- Version 2.0 : **
+**- Version 2.0 :**
 
 Like version 1.0 here the `exp.py` file is the code that fetches different websites. The changes I've done is earlier, `site_info_nodes.txt` was a separate file containing all details of the websites in a single file which was a bit difficult to see and debug.
 
