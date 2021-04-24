@@ -19,6 +19,8 @@ Non-Cookie : Contains the non-timeout websites from [The Top 50 Alexa sites](htt
 
 Error_websites: The folder contains few of the known [websites](https://gitlab.torproject.org/tpo/team/-/wikis/List-of-services-blocking-Tor#list-of-services-blocking-tor-1) that returns error or similar.
 
+-------------------------------------------
+
 - Version 2.0 : 
 
 Like version 1.0 here the exp.py file is the code that fetches websites. The changes I've done is earlier, site_info_nodes.txt was a separate file containing all details of the websites in a single file.
