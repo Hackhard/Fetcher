@@ -1,0 +1,652 @@
+<html>
+ <head>
+  <title>
+   Netflix
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta charset="utf-8"/>
+  <meta content="initial-scale=1, width=device-width" name="viewport"/>
+  <link href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico" rel="shortcut icon"/>
+  <style>
+   @font-face {
+                font-family: 'Netflix Sans';
+                font-weight: 100;
+                font-display: optional;
+                src: url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2')
+                        format('woff2'),
+                    url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff')
+                        format('woff');
+            }
+
+            @font-face {
+                font-family: 'Netflix Sans';
+                font-weight: 300;
+                font-display: optional;
+                src: url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff2')
+                        format('woff2'),
+                    url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff')
+                        format('woff');
+            }
+
+            @font-face {
+                font-family: 'Netflix Sans';
+                font-weight: normal;
+                font-display: optional;
+                src: url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2')
+                        format('woff2'),
+                    url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff')
+                        format('woff');
+            }
+
+            @font-face {
+                font-family: 'Netflix Sans';
+                font-weight: bold;
+                font-display: optional;
+                src: url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2')
+                        format('woff2'),
+                    url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff')
+                        format('woff');
+            }
+
+            html,
+            body {
+                font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial,
+                    sans-serif;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                font-size: 10px;
+                line-height: 1.2;
+                background-color: #333;
+
+                overflow: hidden;
+
+                color: #f7f7f7;
+            }
+
+            @media screen and (min-width: 0) and (max-width: 480px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 1.5vw;
+                }
+            }
+
+            @media screen and (min-width: 481px) and (max-width: 840px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 1vw;
+                }
+            }
+
+            @media screen and (min-width: 841px) and (max-width: 1280px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 0.75vw;
+                }
+            }
+
+            @media screen and (min-width: 1281px) and (max-width: 1600px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 0.75vw;
+                }
+            }
+
+            @media screen and (min-width: 1601px) and (max-width: 1920px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 0.75vw;
+                }
+            }
+
+            @media screen and (min-width: 1921px) and (max-aspect-ratio: 4/3) {
+                html,
+                body {
+                    font-size: 12px;
+                }
+            }
+
+            @media screen and (max-width: 480px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 1.5vw;
+                }
+            }
+
+            @media screen and (min-width: 481px) and (max-width: 840px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 1.2vw;
+                }
+            }
+
+            @media screen and (min-width: 841px) and (max-width: 1280px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 0.85vw;
+                }
+            }
+
+            @media screen and (min-width: 1281px) and (max-width: 1600px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 0.75vw;
+                }
+            }
+
+            @media screen and (min-width: 1601px) and (max-width: 1920px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 0.75vw;
+                }
+            }
+
+            @media screen and (min-width: 1921px) and (orientation: landscape) {
+                html,
+                body {
+                    font-size: 14px;
+                }
+            }
+
+            .error-page {
+                display: flex;
+                flex-direction: column;
+
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                margin-top: 68px;
+                background: rgba(0, 0, 0, 0.18);
+            }
+
+            .error-page:before,
+            .error-page:after {
+                content: ' ';
+                display: flex;
+                flex: 1;
+                max-height: 25%;
+            }
+
+            .header {
+                position: fixed;
+                background-color: rgb(0, 0, 0);
+                background-color: rgba(0, 0, 0, 0.97);
+                height: 68px;
+                left: 0;
+                padding: 0 45px;
+                right: 0;
+                top: 0;
+                z-index: 20;
+            }
+
+            .logo {
+                position: absolute;
+                left: 40px;
+                top: 22px;
+            }
+
+            .logo a {
+                background-image: url(https://assets.nflxext.com/en_us/home/logo_v7.png);
+                background-repeat: no-repeat;
+                background-size: contain;
+                display: block;
+                width: 93px;
+                height: 25px;
+
+                /* make the text invisible (but still screen readable) */
+                font-size: 0;
+                line-height: 0;
+                outline: none;
+                overflow: hidden;
+                text-indent: -9999px;
+            }
+
+            .content {
+                position: relative;
+                display: flex;
+                flex: 2 0;
+                flex-direction: column;
+                text-align: center;
+                user-select: none;
+            }
+
+            .content h1 {
+                font-weight: bold;
+                font-size: 6rem;
+                text-shadow: 0 1px 2px rgba(0, 0, 0, 0.57);
+                margin-bottom: 2vw;
+                margin-top: 0;
+                z-index: 1;
+            }
+
+            .content p {
+                font-size: 2.2rem;
+                font-weight: 300;
+                margin-top: 0;
+                text-shadow: 0 1px 2px rgba(0, 0, 0, 0.57);
+            }
+
+            .content:before {
+                content: ' ';
+                position: absolute;
+                top: -10vw;
+                left: 10vw;
+                right: 10vw;
+                bottom: -10vw;
+                z-index: 0;
+                background: radial-gradient(
+                    ellipse at center,
+                    rgba(0, 0, 0, 0.5) 0%,
+                    rgba(0, 0, 0, 0.2) 45%,
+                    rgba(0, 0, 0, 0.1) 55%,
+                    rgba(0, 0, 0, 0) 70%
+                );
+            }
+
+            .content:after {
+                content: '';
+                position: fixed;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                z-index: -1;
+
+                background-attachment: fixed;
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-image: url(https://assets.nflxext.com/ffe/siteui/pages/errors/bg-nailed-it.png);
+            }
+
+            .body {
+                display: flex;
+                flex: 1;
+                flex-direction: column;
+                width: 50vw;
+                margin: 0 auto;
+                padding-bottom: 2rem;
+                z-index: 1;
+            }
+
+            .imageSource {
+                position: fixed;
+                bottom: 0;
+                right: 0;
+                margin: 2.5vw 4.8vw;
+
+                color: rgba(229, 229, 229, 0.57);
+                font-size: 1.4rem;
+                font-weight: 100;
+                letter-spacing: 0.1em;
+                line-height: 1.5vw;
+                text-shadow: 0 1px 2px rgba(0, 0, 0, 0.57);
+            }
+
+            .errorCode {
+                display: flex;
+                flex: 1;
+                justify-content: center;
+                align-items: flex-end;
+            }
+
+            .errorCode span {
+                padding: 0 1vw;
+                margin-top: 2rem;
+                border-left: 2px solid #e50914;
+                font-size: 2.4rem;
+                line-height: 2.2rem;
+                letter-spacing: 0.1em;
+                font-weight: 100;
+            }
+
+            .errorCode span:dir(rtl) {
+                border-left: none;
+                border-right: 2px solid #e50914;
+            }
+
+            .errorCode > strong,
+            .imageSource > strong {
+                letter-spacing: normal;
+                margin-left: 0.2em;
+                color: #e5e5e5;
+            }
+
+            .imageSource > strong {
+                color: rgba(229, 229, 229, 0.77);
+            }
+
+            .requestInfo {
+                position: fixed;
+                left: 0;
+                bottom: 4vw;
+                margin: 2.5vw 3.2vw;
+
+                color: transparent;
+            }
+
+            .requestInfo::selection,
+            .requestInfo ::selection {
+                color: white;
+                background-color: Highlight;
+            }
+
+            .buttons {
+                font-size: 0;
+            }
+
+            html[dir='rtl'] .cta {
+                transform: scaleX(-1);
+            }
+
+            .cta {
+                display: inline-flex;
+                align-items: center;
+                border: 0;
+                cursor: pointer;
+                justify-content: center;
+                position: relative;
+                user-select: none;
+                world-break: break-word;
+
+                transition: background-color 125ms linear;
+
+                border-radius: 0.3rem;
+                padding: 0.6rem calc(3.6rem / 2);
+
+                font-size: 1.6rem;
+                line-height: 2.4rem;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            .cta.primary {
+                color: #181818;
+                background-color: #fff;
+            }
+
+            .cta.primary:hover {
+                background-color: #d3d3d3;
+            }
+
+            .cta.primary:active {
+                background-color: #b3b3b3;
+            }
+
+            .cta.secondary {
+                color: #fff;
+                background-color: rgba(133, 133, 133, 0.6);
+            }
+
+            .cta.secondary:hover {
+                background-color: rgba(133, 133, 133, 0.5);
+            }
+
+            .cta.secondary:active {
+                background-color: rgba(133, 133, 133, 0.45);
+            }
+
+            .cta:not(:first-child) {
+                margin-left: 1rem;
+            }
+
+            [dir='rtl'] .cta:not(:first-child) {
+                margin-left: 0;
+                margin-right: 1rem;
+            }
+
+            .cta::-moz-focus-inner {
+                border: none;
+            }
+
+            .cta:focus {
+                outline: none;
+            }
+
+            .cta:focus:before {
+                content: '';
+                display: block;
+                position: absolute;
+                height: 100%;
+                width: 100%;
+                border: 2px solid #fff;
+                border-radius: 0.6rem;
+                padding: 2px;
+            }
+  </style>
+ </head>
+ <body dir="ltr">
+  <div class="error-page nfse">
+   <div class="header">
+    <div class="logo">
+     <a href="/">
+      Netflix
+     </a>
+    </div>
+   </div>
+   <div class="content">
+    <h1>
+     Something went wrong
+    </h1>
+    <div class="body">
+     <p>
+      Sorry, we're having trouble with your request. You'll find lots to explore on the home page.
+     </p>
+     <div class="buttons">
+      <a class="cta primary" href="/">
+       Netflix Home
+      </a>
+      <a class="cta secondary" href="//help.netflix.com/">
+       Learn More
+      </a>
+     </div>
+     <div class="errorCode">
+      <span>
+       NSEZ-403
+      </span>
+     </div>
+    </div>
+    <div class="imageSource">
+     FROM
+     <strong>
+      NAILED IT!
+     </strong>
+    </div>
+   </div>
+   <div class="requestInfo">
+    <p class="i">
+     failure
+    </p>
+    <p class="i req-id">
+     19a0804a-50a1-4e5b-b87e-0ed7bac932f0-130833527
+    </p>
+   </div>
+  </div>
+  <script>
+   var MAX_NRDP_DISCOVERY_TIMEOUT = 2000;
+            var NRDP_SCAN_INTERVAL = 10;
+            var NFLXJS_URL = 'http://nflxjs/nrdp';
+            var NFLXJS_SSL_URL = '//nflxjs/nrdp';
+            var USE_HTTPS_KEY = 'useHTTPS';
+
+            var nrdpInterval;
+            var nrdpTimeout;
+            var nrdpFound;
+            var initialized;
+
+            function parseCookie(str) {
+                var cookieData = str.split('; ');
+                var result = {};
+                var i, pair;
+                for (i = 0; i < cookieData.length; i++) {
+                    pair = cookieData[i].split('=');
+                    result[pair[0]] = decodeURIComponent(pair[1]);
+                }
+                return result;
+            }
+
+            function parseQueryString(str) {
+                var queryString = str.substr(1);
+                var queryData = queryString.split('&');
+
+                // [""] == ""
+                if (queryData == '') {
+                    return {};
+                }
+                var result = {};
+                var i, pair;
+                for (i = 0; i < queryData.length; ++i) {
+                    pair = queryData[i].split('=', 2);
+                    if (pair.length == 1) result[pair[0]] = '';
+                    else
+                        result[pair[0]] = decodeURIComponent(
+                            pair[1].replace(/\+/g, ' ')
+                        );
+                }
+                return result;
+            }
+
+            function isInApp(cookie, query) {
+                var hasInAppCookie = cookie.inapp === 'true';
+                var hasInAppParam = query.inapp === 'true';
+
+                return hasInAppCookie || hasInAppParam;
+            }
+
+            function getPlatform(cookie, query) {
+                var platformESNs = {
+                    windows: ['NFWRTM', 'NFWPH'],
+                    android: ['NFANDROID'],
+                    ios: ['NFAPPL']
+                };
+                var esn = getESN(cookie, query);
+                var platform, esns, i;
+
+                for (platform in platformESNs) {
+                    esns = platformESNs[platform];
+                    for (i = 0; i < esns.length; i++) {
+                        if (esn && esn.indexOf(esns[i]) > -1) {
+                            return platform;
+                        }
+                    }
+                }
+                return 'unknown';
+            }
+
+            function getESN(cookie, query) {
+                return cookie.esn || query.esn;
+            }
+
+            function getReferrer(cookie, query) {
+                return cookie.iosReferrer || query.referrer;
+            }
+
+            function injectNRDP() {
+                var xhr = new XMLHttpRequest();
+                var useHTTPS = localStorage.getItem(USE_HTTPS_KEY);
+                // iOS9 requires nrdp injection via SSL, so determine correct protocol via a localstorage item previously set by Stanley UI
+                var nflxjsUrl = useHTTPS ? NFLXJS_SSL_URL : NFLXJS_URL;
+
+                xhr.onerror = xhr.onload = function() {
+                    if (typeof nrdp === 'object') {
+                        discoveredNRDP();
+                    }
+                };
+
+                xhr.open('GET', nflxjsUrl, true);
+                xhr.send();
+            }
+
+            function setTimers() {
+                if (typeof window !== 'undefined') {
+                    if (!nrdpInterval) {
+                        nrdpInterval = window.setInterval(
+                            scanForNRDP,
+                            NRDP_SCAN_INTERVAL
+                        );
+                    }
+                    if (!nrdpTimeout) {
+                        nrdpTimeout = window.setTimeout(
+                            clearTimers,
+                            MAX_NRDP_DISCOVERY_TIMEOUT
+                        );
+                    }
+                }
+            }
+
+            function clearTimers() {
+                if (typeof window !== 'undefined') {
+                    window.clearTimeout(nrdpTimeout);
+                    window.clearInterval(nrdpInterval);
+                }
+            }
+
+            function scanForNRDP() {
+                if (typeof nrdp === 'object') {
+                    discoveredNRDP();
+                }
+            }
+
+            function discoveredNRDP() {
+                // A race condition can occur when scanForNRDP can execute before xhr.onload which can cause the function to be called
+                // twice. Guard against this with a state flag.
+                if (!nrdpFound) {
+                    nrdpFound = true;
+                    clearTimers();
+                    deviceSetup();
+                }
+            }
+
+            function deviceSetup() {
+                nrdp.init(); // Required call to initialize the platform javascript bridge
+                nrdp.device.notifyOnReady(); // Announce to the platform that UI is ready
+                // By default scrolling is disabled in WebView, so we enable this during in app signup.
+                nrdp._invoke('device', 'allowScrollAndBounces', {
+                    allow: 'true'
+                });
+            }
+
+            function prepareNamespace() {
+                if (typeof window !== 'undefined') {
+                    window.N = {
+                        getCellForTest: function() {}
+                    };
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+                var cookie = parseCookie(document.cookie);
+                var query = parseQueryString(window.location.search);
+                var os = getPlatform(cookie, query);
+                var $header, $links, homeLink, i;
+
+                if (isInApp(cookie, query)) {
+                    homeLink = '/?inapp=true&esn=' + getESN(cookie, query);
+                    // Hide header for Windows or Android
+                    if (os === 'windows' || os === 'android') {
+                        $header = document.getElementById('header');
+                        $header.classList.add('inApp');
+                    }
+
+                    // Add referrer query param for iOS
+                    if (os === 'ios') {
+                        homeLink += '&referrer=' + getReferrer(cookie, query);
+                        if (typeof nrdp === 'undefined' && !initialized) {
+                            initialized = true;
+                            injectNRDP();
+                            setTimers();
+                            prepareNamespace();
+                        }
+                    }
+
+                    // Modify links back to the homepage client-side
+                    $links = document.querySelectorAll('a');
+                    for (i = 0; i < $links.length; i++) {
+                        $links[i].href = homeLink;
+                    }
+                }
+            });
+  </script>
+ </body>
+</html>

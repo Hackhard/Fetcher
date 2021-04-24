@@ -1,0 +1,13 @@
+All Nodes (Non-Tor): 
+1--->html
+2--->head
+3--->title
+4--->meta
+5--->body
+6--->noscript
+7--->meta
+8--->script
+9--->script
+10--->script
+11--->script
+Total Number of Non-Tor Nodes: 11

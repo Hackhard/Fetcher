@@ -1,0 +1,1051 @@
+Website being tested:  dan.me.uk
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/dan_me_uk
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    12443
+Number of Non-Tor Nodes :  217
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 12443 
+ 217
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    10321
+
+Number of Tor Nodes :  165
+
+Screenshoting tor...
+RES (TOR): 
+ 10321 
+ 165
+
+Scores of length(HTML):  20.5600232535607
+Scores of DOM_nodes :  31.515151515151516
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  lloydsbank.com/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/lloydsbank_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    396230
+Number of Non-Tor Nodes :  2135
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 396230 
+ 2135
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    28158
+
+Number of Tor Nodes :  84
+
+Screenshoting tor...
+RES (TOR): 
+ 28158 
+ 84
+
+Scores of length(HTML):  1307.1667021805526
+Scores of DOM_nodes :  2441.6666666666665
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  bitstamp.net/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/bitstamp_net
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    373964
+Number of Non-Tor Nodes :  1963
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 373964 
+ 1963
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    766
+
+Number of Tor Nodes :  8
+
+Screenshoting tor...
+RES (TOR): 
+ 766 
+ 8
+
+Scores of length(HTML):  48720.36553524804
+Scores of DOM_nodes :  24437.5
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  sc.com/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/sc_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    83419
+Number of Non-Tor Nodes :  765
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 83419 
+ 765
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    1905
+
+Number of Tor Nodes :  14
+
+Screenshoting tor...
+RES (TOR): 
+ 1905 
+ 14
+
+Scores of length(HTML):  4278.950131233596
+Scores of DOM_nodes :  5364.285714285715
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  rankexploits.com/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/rankexploits_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    14017
+Number of Non-Tor Nodes :  87
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 14017 
+ 87
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    13887
+
+Number of Tor Nodes :  86
+
+Screenshoting tor...
+RES (TOR): 
+ 13887 
+ 86
+
+Scores of length(HTML):  0.9361273133146107
+Scores of DOM_nodes :  1.1627906976744187
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  dominos.com/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/dominos_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    45805
+Number of Non-Tor Nodes :  164
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 45805 
+ 164
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    47576
+
+Number of Tor Nodes :  252
+
+Screenshoting tor...
+RES (TOR): 
+ 47576 
+ 252
+
+Scores of length(HTML):  -3.7224651084580462
+Scores of DOM_nodes :  -34.92063492063492
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  palemoon.org/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/palemoon_org
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    16567
+Number of Non-Tor Nodes :  292
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 16567 
+ 292
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    411051
+
+Number of Tor Nodes :  62
+
+Screenshoting tor...
+RES (TOR): 
+ 411051 
+ 62
+
+Scores of length(HTML):  -95.96959987933371
+Scores of DOM_nodes :  370.96774193548384
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  adsabs.harvard.edu
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/adsabs_harvard_edu
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    36107
+Number of Non-Tor Nodes :  449
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 36107 
+ 449
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    36107
+
+Number of Tor Nodes :  449
+
+Screenshoting tor...
+RES (TOR): 
+ 36107 
+ 449
+
+Scores of length(HTML):  0.0
+Scores of DOM_nodes :  0.0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  montypython.net/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/montypython_net
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    16218
+Number of Non-Tor Nodes :  367
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 16218 
+ 367
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    13896
+
+Number of Tor Nodes :  86
+
+Screenshoting tor...
+RES (TOR): 
+ 13896 
+ 86
+
+Scores of length(HTML):  16.70984455958549
+Scores of DOM_nodes :  326.74418604651163
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  go4go.net/go/
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/go4go_netgo
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    39365
+Number of Non-Tor Nodes :  407
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 39365 
+ 407
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    39365
+
+Number of Tor Nodes :  407
+
+Screenshoting tor...
+RES (TOR): 
+ 39365 
+ 407
+
+Scores of length(HTML):  0.0
+Scores of DOM_nodes :  0.0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  google.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/google_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    101711
+Number of Non-Tor Nodes :  170
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 101711 
+ 170
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    113350
+
+Number of Tor Nodes :  186
+
+Screenshoting tor...
+RES (TOR): 
+ 113350 
+ 186
+
+Scores of length(HTML):  -10.268195853550948
+Scores of DOM_nodes :  -8.602150537634408
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Youtube.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Youtube_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    3762541
+Number of Non-Tor Nodes :  8414
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 3762541 
+ 8414
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    3955446
+
+Number of Tor Nodes :  9445
+
+Screenshoting tor...
+RES (TOR): 
+ 3955446 
+ 9445
+
+Scores of length(HTML):  -4.876946872742037
+Scores of DOM_nodes :  -10.915828480677607
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Facebook.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Facebook_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    194350
+Number of Non-Tor Nodes :  254
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 194350 
+ 254
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    194369
+
+Number of Tor Nodes :  253
+
+Screenshoting tor...
+RES (TOR): 
+ 194369 
+ 253
+
+Scores of length(HTML):  -0.00977522135731521
+Scores of DOM_nodes :  0.3952569169960474
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Amazon.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Amazon_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    471844
+Number of Non-Tor Nodes :  1758
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 471844 
+ 1758
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    613243
+
+Number of Tor Nodes :  2672
+
+Screenshoting tor...
+RES (TOR): 
+ 613243 
+ 2672
+
+Scores of length(HTML):  -23.057580763253718
+Scores of DOM_nodes :  -34.206586826347305
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Yahoo.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Yahoo_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    437638
+Number of Non-Tor Nodes :  983
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 437638 
+ 983
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    892272
+
+Number of Tor Nodes :  1146
+
+Screenshoting tor...
+RES (TOR): 
+ 892272 
+ 1146
+
+Scores of length(HTML):  -50.95240016497212
+Scores of DOM_nodes :  -14.223385689354275
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Wikipedia.org
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Wikipedia_org
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    71428
+Number of Non-Tor Nodes :  925
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 71428 
+ 925
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    71428
+
+Number of Tor Nodes :  925
+
+Screenshoting tor...
+RES (TOR): 
+ 71428 
+ 925
+
+Scores of length(HTML):  0.0
+Scores of DOM_nodes :  0.0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Live.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Live_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    41682
+Number of Non-Tor Nodes :  446
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 41682 
+ 446
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    41638
+
+Number of Tor Nodes :  446
+
+Screenshoting tor...
+RES (TOR): 
+ 41638 
+ 446
+
+Scores of length(HTML):  0.10567270281953985
+Scores of DOM_nodes :  0.0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Reddit.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Reddit_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    851540
+Number of Non-Tor Nodes :  5561
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 851540 
+ 5561
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    896638
+
+Number of Tor Nodes :  5607
+
+Screenshoting tor...
+RES (TOR): 
+ 896638 
+ 5607
+
+Scores of length(HTML):  -5.029677528723966
+Scores of DOM_nodes :  -0.8204030675940789
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Netflix.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Netflix_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    435008
+Number of Non-Tor Nodes :  510
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 435008 
+ 510
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    299105
+
+Number of Tor Nodes :  281
+
+Screenshoting tor...
+RES (TOR): 
+ 299105 
+ 281
+
+Scores of length(HTML):  45.43655238127079
+Scores of DOM_nodes :  81.49466192170819
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Microsoft.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Microsoft_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    1474
+Number of Non-Tor Nodes :  11
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 1474 
+ 11
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    324514
+
+Number of Tor Nodes :  655
+
+Screenshoting tor...
+RES (TOR): 
+ 324514 
+ 655
+
+Scores of length(HTML):  -99.54578230831335
+Scores of DOM_nodes :  -98.3206106870229
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Office.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Office_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    231416
+Number of Non-Tor Nodes :  576
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 231416 
+ 576
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    245753
+
+Number of Tor Nodes :  594
+
+Screenshoting tor...
+RES (TOR): 
+ 245753 
+ 594
+
+Scores of length(HTML):  -5.833906401956436
+Scores of DOM_nodes :  -3.0303030303030303
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Instagram.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Instagram_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    73300
+Number of Non-Tor Nodes :  316
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 73300 
+ 316
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    20744
+
+Number of Tor Nodes :  68
+
+Screenshoting tor...
+RES (TOR): 
+ 20744 
+ 68
+
+Scores of length(HTML):  253.35518704203625
+Scores of DOM_nodes :  364.70588235294116
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  bing.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/bing_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    141473
+Number of Non-Tor Nodes :  560
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 141473 
+ 560
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    167062
+
+Number of Tor Nodes :  567
+
+Screenshoting tor...
+RES (TOR): 
+ 167062 
+ 567
+
+Scores of length(HTML):  -15.317067914905843
+Scores of DOM_nodes :  -1.2345679012345678
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Twitch.tv
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Twitch_tv
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    255204
+Number of Non-Tor Nodes :  1835
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 255204 
+ 1835
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    243131
+
+Number of Tor Nodes :  1672
+
+Screenshoting tor...
+RES (TOR): 
+ 243131 
+ 1672
+
+Scores of length(HTML):  4.965635809501873
+Scores of DOM_nodes :  9.748803827751196
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Ebay.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Ebay_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    564125
+Number of Non-Tor Nodes :  1573
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 564125 
+ 1573
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    513760
+
+Number of Tor Nodes :  2034
+
+Screenshoting tor...
+RES (TOR): 
+ 513760 
+ 2034
+
+Scores of length(HTML):  9.803215509187169
+Scores of DOM_nodes :  -22.664700098328417
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Adobe.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Adobe_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    485997
+Number of Non-Tor Nodes :  2004
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 485997 
+ 2004
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    287817
+
+Number of Tor Nodes :  1767
+
+Screenshoting tor...
+RES (TOR): 
+ 287817 
+ 1767
+
+Scores of length(HTML):  68.85625241038576
+Scores of DOM_nodes :  13.412563667232597
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Twitter.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Twitter_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    76549
+Number of Non-Tor Nodes :  221
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 76549 
+ 221
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    75429
+
+Number of Tor Nodes :  217
+
+Screenshoting tor...
+RES (TOR): 
+ 75429 
+ 217
+
+Scores of length(HTML):  1.4848400482573016
+Scores of DOM_nodes :  1.8433179723502304
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Amazon.in
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Amazon_in
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    664324
+Number of Non-Tor Nodes :  2405
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 664324 
+ 2405
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    617280
+
+Number of Tor Nodes :  2384
+
+Screenshoting tor...
+RES (TOR): 
+ 617280 
+ 2384
+
+Scores of length(HTML):  7.621176775531364
+Scores of DOM_nodes :  0.8808724832214765
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Stackoverflow.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Stackoverflow_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    191482
+Number of Non-Tor Nodes :  1168
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 191482 
+ 1168
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    191482
+
+Number of Tor Nodes :  1168
+
+Screenshoting tor...
+RES (TOR): 
+ 191482 
+ 1168
+
+Scores of length(HTML):  0.0
+Scores of DOM_nodes :  0.0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  Linkedin.com
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/Linkedin_com
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    101861
+Number of Non-Tor Nodes :  618
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 101861 
+ 618
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    129343
+
+Number of Tor Nodes :  833
+
+Screenshoting tor...
+RES (TOR): 
+ 129343 
+ 833
+
+Scores of length(HTML):  -21.247380994719467
+Scores of DOM_nodes :  -25.81032412965186
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Website being tested:  check.torproject.org
+PATH:  /home/hackhard/understanding_codebase_captcha_monitor/my_tor_fetch/torring/check_torproject_org
+Directory created
+Opening Non-Tor...
+
+---------------HTML(NON-TOR)-----------------
+
+Length    4669
+Number of Non-Tor Nodes :  51
+
+Screenshoting non-tor...
+RES (No-TOR): 
+ 4669 
+ 51
+
+Opening Tor...
+
+
+---------------HTML(TOR)-----------------
+
+Length    4839
+
+Number of Tor Nodes :  51
+
+Screenshoting tor...
+RES (TOR): 
+ 4839 
+ 51
+
+Scores of length(HTML):  -3.5131225459805746
+Scores of DOM_nodes :  0.0
