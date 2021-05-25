@@ -157,7 +157,7 @@ def work(url):
     if tbb_map[key_t] == nbb_map[key_nt]:
         print("Equal")
     else:
-        print("Not Equal)")
+        print("Not Equal")
     print()
     print("----------")
     driver.save_screenshot(path+"/non-tor_["+url.replace("/", "")+"].png")
