@@ -1,0 +1,1 @@
+{'/go/': 403, '/v1//latest-rulesets-timestamp': 200, '/favicon.ico': 200}

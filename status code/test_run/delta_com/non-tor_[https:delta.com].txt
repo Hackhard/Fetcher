@@ -1,0 +1,1 @@
+{'/v1//latest-rulesets-timestamp': 200, '/https-everywhere//latest-rulesets-timestamp': 200, '/https-everywhere//rulesets-signature.1620999341.sha256': 200, '/https-everywhere//default.rulesets.1620999341.gz': 200}

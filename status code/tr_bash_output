@@ -1,0 +1,395 @@
+hackhard@hackhard-HP-Notebook:~$ python3 woswos.py 
+https://dan.me.uk
+/home/hackhard/dan_me_uk
+/   200
+/   200
+Equal
+
+----------
+https://lloydsbank.com/
+/home/hackhard/lloydsbank_com
+/   200
+/   200
+Equal
+
+----------
+https://bitstamp.net/
+/home/hackhard/bitstamp_net
+/   403
+/   101
+Not Equal
+
+----------
+https://sc.com/
+/home/hackhard/sc_com
+/   200
+/   200
+Equal
+
+----------
+https://rankexploits.com/
+/home/hackhard/rankexploits_com
+/   403
+/   403
+Equal
+
+----------
+https://dominos.com/
+/home/hackhard/dominos_com
+/   200
+/   200
+Equal
+
+----------
+https://palemoon.org/
+/home/hackhard/palemoon_org
+/   403
+/   200
+Not Equal
+
+----------
+https://adsabs.harvard.edu
+/home/hackhard/adsabs_harvard_edu
+/v1//latest-rulesets-timestamp   200
+/v1//latest-rulesets-timestamp   200
+Equal
+
+----------
+https://montypython.net/
+/home/hackhard/montypython_net
+/   403
+/   301
+Not Equal
+
+----------
+https://go4go.net/go/
+/home/hackhard/go4go_netgo
+/go/   403
+/go/   200
+Not Equal
+
+----------
+https://google.com
+/home/hackhard/google_com
+/   200
+/   200
+Equal
+
+----------
+https://Youtube.com
+/home/hackhard/Youtube_com
+/   302
+/   200
+Not Equal
+
+----------
+https://Facebook.com
+/home/hackhard/Facebook_com
+/   200
+/   200
+Equal
+
+----------
+https://Amazon.com
+/home/hackhard/Amazon_com
+/   200
+/   200
+Equal
+
+----------
+https://Yahoo.com
+/home/hackhard/Yahoo_com
+/   200
+/   200
+Equal
+
+----------
+https://Wikipedia.org
+/home/hackhard/Wikipedia_org
+/   200
+/   200
+Equal
+
+----------
+https://Live.com
+/home/hackhard/Live_com
+/   301
+/   301
+Equal
+
+----------
+https://Reddit.com
+Traceback (most recent call last):
+  File "woswos.py", line 265, in <module>
+    work("https://"+str(url))
+  File "woswos.py", line 61, in work
+    driver.get(url)
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: Timeout loading page after 300000ms
+
+hackhard@hackhard-HP-Notebook:~$ python3 woswos.py 
+https://www.yahoo.com
+/home/hackhard/www_yahoo_com
+/   200
+/   200
+Equal
+
+----------
+https://Netflix.com
+/home/hackhard/Netflix_com
+/   200
+/   302
+Not Equal
+
+----------
+https://Microsoft.com
+/home/hackhard/Microsoft_com
+/   302
+/   302
+Equal
+
+----------
+https://Office.com
+/home/hackhard/Office_com
+/   200
+/   200
+Equal
+
+----------
+https://Instagram.com
+/home/hackhard/Instagram_com
+/   302
+/   200
+Not Equal
+
+----------
+https://bing.com
+/home/hackhard/bing_com
+/   200
+/   200
+Equal
+
+----------
+https://Twitch.tv
+/home/hackhard/Twitch_tv
+/   101
+/   101
+Equal
+
+----------
+https://Ebay.com
+/home/hackhard/Ebay_com
+/   200
+/   204
+Not Equal
+
+----------
+https://Adobe.com
+/home/hackhard/Adobe_com
+/   200
+/   200
+Equal
+
+----------
+https://Twitter.com
+/home/hackhard/Twitter_com
+/   200
+/   200
+Equal
+
+----------
+https://Amazon.in
+/home/hackhard/Amazon_in
+/   200
+/   200
+Equal
+
+----------
+https://Stackoverflow.com
+/home/hackhard/Stackoverflow_com
+/   200
+/   200
+Equal
+
+----------
+https://Linkedin.com
+/home/hackhard/Linkedin_com
+/   200
+/   200
+Equal
+
+----------
+https://check.torproject.orgmastercard.de
+/home/hackhard/check_torproject_orgmastercard_de
+/v1//latest-rulesets-timestamp   200
+/v1//latest-rulesets-timestamp   200
+Equal
+
+----------
+https://santander.de
+/home/hackhard/santander_de
+/   403
+/   301
+Not Equal
+
+----------
+https://tdbank.com
+/home/hackhard/tdbank_com
+/   403
+/   301
+Not Equal
+
+----------
+https://allmodern.com/
+/home/hackhard/allmodern_com
+/   302
+/   200
+Not Equal
+
+----------
+https://autozone.com/
+Traceback (most recent call last):
+  File "woswos.py", line 265, in <module>
+    work("https://"+str(url))
+  File "woswos.py", line 61, in work
+    driver.get(url)
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/hackhard/.local/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: Timeout loading page after 300000ms
+
+hackhard@hackhard-HP-Notebook:~$ python3 woswos.py 
+https://baskinrobbins.com/
+/home/hackhard/baskinrobbins_com
+/   403
+/   403
+Equal
+
+----------
+https://benjerry.com/
+/home/hackhard/benjerry_com
+/   403
+/   200
+Not Equal
+
+----------
+https://bestbuy.com/
+/home/hackhard/bestbuy_com
+/   403
+/   200
+Not Equal
+
+----------
+https://breyers.com/
+/home/hackhard/breyers_com
+/   403
+/   301
+Not Equal
+
+----------
+https://delta.com/
+/home/hackhard/delta_com
+/v1//latest-rulesets-timestamp   200
+/v1//latest-rulesets-timestamp   200
+Equal
+
+----------
+https://dunkindonuts.com/
+/home/hackhard/dunkindonuts_com
+/   403
+/   403
+Equal
+
+----------
+https://hyatt.com/
+/home/hackhard/hyatt_com
+/   403
+/   429
+Not Equal
+
+----------
+https://immonet.de/
+/home/hackhard/immonet_de
+/   200
+/   200
+Equal
+
+----------
+https://kohls.com/
+/home/hackhard/kohls_com
+/   403
+/   204
+Not Equal
+
+----------
+https://lowes.com/
+/home/hackhard/lowes_com
+/   403
+/   200
+Not Equal
+
+----------
+https://lufthansa.com/
+/home/hackhard/lufthansa_com
+/   403
+/   302
+Not Equal
+
+----------
+https://lg.com/
+/home/hackhard/lg_com
+/   403
+/   204
+Not Equal
+
+----------
+https://samsung.com/
+/home/hackhard/samsung_com
+/   403
+/   301
+Not Equal
+
+----------
+https://staples.com/
+/home/hackhard/staples_com
+/   403
+/   200
+Not Equal
+
+----------
+https://tacobell.com/
+/home/hackhard/tacobell_com
+/   403
+/   200
+Not Equal
+
+----------
+https://olx.com/
+/home/hackhard/olx_com
+/v1//latest-rulesets-timestamp   200
+/v1//latest-rulesets-timestamp   200
+Equal
+
+----------
+https://nvidia.com/
+/home/hackhard/nvidia_com
+/   403
+/   307
+Not Equal
+
+----------
+https://nasa.gov
+/home/hackhard/nasa_gov
+/   404
+/   200
+Not Equal
+
+
