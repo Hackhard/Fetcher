@@ -165,7 +165,7 @@ def work(url):
 
 
 web_list = [
-    --------Error websites----#
+    #--------Error websites----#
     "dan.me.uk",
     "lloydsbank.com/",
     "bitstamp.net/",
