@@ -1,0 +1,400 @@
+hackhard@hackhard-HP-Notebook:~$ python3 woswos.py 
+http://dan.me.uk
+/home/hackhard/dan_me_uk
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://lloydsbank.com/
+/home/hackhard/lloydsbank_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://bitstamp.net/
+/home/hackhard/bitstamp_net
+/   403
+/   101
+Tor is Blocked!!
+
+----------
+http://sc.com/
+/home/hackhard/sc_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://rankexploits.com/
+/home/hackhard/rankexploits_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://dominos.com/
+/home/hackhard/dominos_com
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+
+----------
+http://palemoon.org/
+/home/hackhard/palemoon_org
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://adsabs.harvard.edu
+/home/hackhard/adsabs_harvard_edu
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://montypython.net/
+/home/hackhard/montypython_net
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://go4go.net/go/
+/home/hackhard/go4go_netgo
+/go/   403
+/go/   200
+Tor is Blocked!!
+
+----------
+http://google.com
+/home/hackhard/google_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://youtube.com
+/home/hackhard/youtube_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Facebook.com
+/home/hackhard/Facebook_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Amazon.com
+/home/hackhard/Amazon_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Yahoo.com
+/home/hackhard/Yahoo_com
+/   307
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+
+----------
+http://Wikipedia.org
+/home/hackhard/Wikipedia_org
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Live.com
+/home/hackhard/Live_com
+/   301
+/   301
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://reddit.com
+Error: Message: Timeout loading page after 300000ms
+
+http://www.yahoo.com
+/home/hackhard/www_yahoo_com
+/   307
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+
+----------
+http://Netflix.com
+/home/hackhard/Netflix_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Microsoft.com
+/home/hackhard/Microsoft_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Office.com
+/home/hackhard/Office_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Instagram.com
+/home/hackhard/Instagram_com
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+
+----------
+http://bing.com
+/home/hackhard/bing_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Twitch.tv
+/home/hackhard/Twitch_tv
+/   101
+/   101
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Ebay.com
+/home/hackhard/Ebay_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Adobe.com
+/home/hackhard/Adobe_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Twitter.com
+/home/hackhard/Twitter_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Amazon.in
+/home/hackhard/Amazon_in
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Stackoverflow.com
+/home/hackhard/Stackoverflow_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://Linkedin.com
+/home/hackhard/Linkedin_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://check.torproject.org
+/home/hackhard/check_torproject_org
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://mastercard.de
+/home/hackhard/mastercard_de
+/   301
+/   301
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://santander.de
+/home/hackhard/santander_de
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://tdbank.com
+/home/hackhard/tdbank_com
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://allmodern.com/
+/home/hackhard/allmodern_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://autozone.com/
+Error: Message: Timeout loading page after 300000ms
+
+http://baskinrobbins.com/
+/home/hackhard/baskinrobbins_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://benjerry.com/
+/home/hackhard/benjerry_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://bestbuy.com/
+/home/hackhard/bestbuy_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://breyers.com/
+/home/hackhard/breyers_com
+/   301
+/   301
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://delta.com/
+/home/hackhard/delta_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://dunkindonuts.com/
+/home/hackhard/dunkindonuts_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://hyatt.com/
+/home/hackhard/hyatt_com
+/   403
+/   429
+Tor is Blocked!!
+
+----------
+http://immonet.de/
+/home/hackhard/immonet_de
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://kohls.com/
+/home/hackhard/kohls_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://lowes.com/
+/home/hackhard/lowes_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://lufthansa.com/
+/home/hackhard/lufthansa_com
+/   403
+/   302
+Tor is Blocked!!
+
+----------
+http://lg.com/
+/home/hackhard/lg_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://samsung.com/
+/home/hackhard/samsung_com
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://staples.com/
+/home/hackhard/staples_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://tacobell.com/
+/home/hackhard/tacobell_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://olx.com/
+/home/hackhard/olx_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://nvidia.com/
+/home/hackhard/nvidia_com
+/   403
+/   307
+Tor is Blocked!!
+
+----------
+http://nasa.gov
+/home/hackhard/nasa_gov
+/   404
+/   200
+Tor is Blocked!!
+
+----------
+http://www.netflix.com/
+/home/hackhard/www_netflix_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+http://google.com/search?q=tor
+/home/hackhard/google_comsearch?q=tor
+/search   302
+/search   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+
+----------
+http://discord.com
+/home/hackhard/discord_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+
+----------
+

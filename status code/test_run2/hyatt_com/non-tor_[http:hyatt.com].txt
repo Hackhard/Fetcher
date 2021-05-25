@@ -1,0 +1,1 @@
+{'/': 429, '/v1//latest-rulesets-timestamp': 200, '/https-everywhere//latest-rulesets-timestamp': 200, '/https-everywhere//rulesets-signature.1620999341.sha256': 200, '/https-everywhere//default.rulesets.1620999341.gz': 200, '/error': 200, '/favicon.ico': 200, '/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/tl': 200}
