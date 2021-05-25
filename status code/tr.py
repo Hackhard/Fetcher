@@ -155,12 +155,9 @@ def work(url):
     print(key_nt," ",nbb_map[key_nt])
 
     if tbb_map[key_t] == nbb_map[key_nt]:
-        print("No redirection, additional tests on consensus and DOM checks required")
+        print("Equal")
     else:
-        if(int(tbb_map[key_t])>399):
-            print("Tor is Blocked!!")
-        else:
-            print("Needs Inspection (possibility of GDPR, redirection, captcha)")
+        print("Not Equal)")
     print()
     print("----------")
     driver.save_screenshot(path+"/non-tor_["+url.replace("/", "")+"].png")
