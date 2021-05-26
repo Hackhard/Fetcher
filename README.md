@@ -32,4 +32,4 @@ For few websites which I had the cookie based approach (consent pages) didn't wo
 
 ## Status code Version 
    
-   Used to fetch websites and find differences in the status codes returned from Tor and Non-Tor clients. Contains response path as well as status codes for each path generated.
+   Used to fetch websites and find differences in the status codes returned from Tor and Non-Tor clients. Contains response path as well as status codes for each path generated. The `test_run` was to contain just the basic idea, `test_run2` contains updated code and implements the marked cases from https://hackhard.github.io/my-blog/Community-Bonding-I-24-05.
