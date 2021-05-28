@@ -1,0 +1,9 @@
+All Nodes (Non-Tor): 
+1--->html
+2--->head
+3--->title
+4--->body
+5--->center
+6--->h1
+
+Total Number of Non-Tor Nodes: 6

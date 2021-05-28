@@ -1,0 +1,1 @@
+{'/': 301, '/v1//latest-rulesets-timestamp': 200, '/de-de.html': 403, '/https-everywhere//latest-rulesets-timestamp': 200, '/favicon.ico': 403, '/https-everywhere//rulesets-signature.1622054201.sha256': 200, '/https-everywhere//default.rulesets.1622054201.gz': 200}

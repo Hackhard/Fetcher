@@ -1,0 +1,1 @@
+{'/': 200, '/v1//latest-rulesets-timestamp': 200, '/js/jquery.min.js': 200, '/https-everywhere//latest-rulesets-timestamp': 200, '/getjs': 200, '/https-everywhere//rulesets-signature.1622054201.sha256': 200, '/https-everywhere//default.rulesets.1622054201.gz': 200, '/favicon.ico': 301, '/api/getnoti': 200, '/sa/simg/favicon-2x.ico': 200}

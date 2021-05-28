@@ -1,0 +1,547 @@
+hackhard@hackhard-HP-Notebook:~$ python3 woswos.py 
+http://dan.me.uk
+/home/hackhard/dan_me_uk
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+165 ----- 217
+dom_score:  31.515151515151512
+Resembles same...
+Tor blocked : checklist
+
+----------
+http://lloydsbank.com/
+/home/hackhard/lloydsbank_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+84 ----- 2142
+dom_score:  2450.0
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://bitstamp.net/
+/home/hackhard/bitstamp_net
+/   403
+/   101
+Tor is Blocked!!
+
+----------
+http://sc.com/
+/home/hackhard/sc_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+14 ----- 811
+dom_score:  5692.857142857143
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://rankexploits.com/
+/home/hackhard/rankexploits_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+86 ----- 87
+dom_score:  1.1627906976744187
+Resembles same...
+Same..
+
+----------
+http://dominos.com/
+/home/hackhard/dominos_com
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+252 ----- 147
+dom_score:  -41.66666666666667
+Tor works Better in this case!! :) 
+
+----------
+http://palemoon.org/
+/home/hackhard/palemoon_org
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://adsabs.harvard.edu
+/home/hackhard/adsabs_harvard_edu
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+21 ----- 450
+dom_score:  2042.8571428571427
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://montypython.net/
+/home/hackhard/montypython_net
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://go4go.net/go/
+/home/hackhard/go4go_netgo
+/go/   200
+/go/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+409 ----- 411
+dom_score:  0.4889975550122249
+Resembles same...
+Same..
+
+----------
+http://google.com
+/home/hackhard/google_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+316 ----- 169
+dom_score:  -46.51898734177215
+Tor works Better in this case!! :) 
+
+----------
+http://youtube.com
+/home/hackhard/youtube_com
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+1095 ----- 7349
+dom_score:  571.1415525114155
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://Facebook.com
+/home/hackhard/Facebook_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+278 ----- 251
+dom_score:  -9.712230215827338
+Tor works Better in this case!! :) 
+
+----------
+http://Amazon.com
+/home/hackhard/Amazon_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+1767 ----- 1698
+dom_score:  -3.904923599320883
+Tor works Better in this case!! :) 
+
+----------
+http://Wikipedia.org
+/home/hackhard/Wikipedia_org
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+929 ----- 929
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://Live.com
+/home/hackhard/Live_com
+/   301
+/   301
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+449 ----- 449
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://reddit.com
+/home/hackhard/reddit_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+5243 ----- 4667
+dom_score:  -10.986076673660119
+Tor works Better in this case!! :) 
+
+----------
+http://www.yahoo.com
+/home/hackhard/www_yahoo_com
+/   307
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+60 ----- 1036
+dom_score:  1626.6666666666665
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://Netflix.com
+/home/hackhard/Netflix_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+300 ----- 529
+dom_score:  76.33333333333333
+Doubtful case!!
+checks for keywords...
+Same..
+
+----------
+http://Microsoft.com
+/home/hackhard/Microsoft_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+703 ----- 632
+dom_score:  -10.099573257467995
+Tor works Better in this case!! :) 
+
+----------
+http://Office.com
+/home/hackhard/Office_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+581 ----- 577
+dom_score:  -0.6884681583476765
+Tor works Better in this case!! :) 
+
+----------
+http://Instagram.com
+/home/hackhard/Instagram_com
+/   302
+/   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+68 ----- 289
+dom_score:  325.0
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://bing.com
+/home/hackhard/bing_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+608 ----- 234
+dom_score:  -61.51315789473685
+Tor works Better in this case!! :) 
+
+----------
+http://Twitch.tv
+/home/hackhard/Twitch_tv
+/   101
+/   101
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+1524 ----- 1656
+dom_score:  8.661417322834646
+Resembles same...
+Same..
+
+----------
+http://Ebay.com
+/home/hackhard/Ebay_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+1977 ----- 1572
+dom_score:  -20.485584218512898
+Tor works Better in this case!! :) 
+
+----------
+http://Adobe.com
+/home/hackhard/Adobe_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+725 ----- 729
+dom_score:  0.5517241379310345
+Resembles same...
+Same..
+
+----------
+http://Twitter.com
+/home/hackhard/Twitter_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+217 ----- 209
+dom_score:  -3.686635944700461
+Tor works Better in this case!! :) 
+
+----------
+http://Amazon.in
+/home/hackhard/Amazon_in
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+1945 ----- 1925
+dom_score:  -1.0282776349614395
+Tor works Better in this case!! :) 
+
+----------
+http://Stackoverflow.com
+/home/hackhard/Stackoverflow_com
+/   200
+/v1//latest-rulesets-timestamp   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+1192 ----- 1192
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://Linkedin.com
+/home/hackhard/Linkedin_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+667 ----- 667
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://check.torproject.org
+/home/hackhard/check_torproject_org
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+51 ----- 51
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://mastercard.de
+/home/hackhard/mastercard_de
+Error: Message: Timeout loading page after 300000ms
+
+http://santander.de
+/home/hackhard/santander_de
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://tdbank.com
+/home/hackhard/tdbank_com
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://allmodern.com/
+/home/hackhard/allmodern_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+2170 ----- 2169
+dom_score:  -0.04608294930875576
+Tor works Better in this case!! :) 
+
+----------
+http://autozone.com/
+Error: Message: Timeout loading page after 300000ms
+
+http://baskinrobbins.com/
+/home/hackhard/baskinrobbins_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+6 ----- 6
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://benjerry.com/
+/home/hackhard/benjerry_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://bestbuy.com/
+/home/hackhard/bestbuy_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://breyers.com/
+/home/hackhard/breyers_com
+/   301
+/   301
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+6 ----- 885
+dom_score:  14650.0
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://delta.com/
+/home/hackhard/delta_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://dunkindonuts.com/
+/home/hackhard/dunkindonuts_com
+/   403
+/   403
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+6 ----- 6
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+http://hyatt.com/
+/home/hackhard/hyatt_com
+/   403
+/   429
+Tor is Blocked!!
+
+----------
+http://immonet.de/
+/home/hackhard/immonet_de
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://kohls.com/
+/home/hackhard/kohls_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://lowes.com/
+/home/hackhard/lowes_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://lufthansa.com/
+/home/hackhard/lufthansa_com
+/   403
+/   302
+Tor is Blocked!!
+
+----------
+http://lg.com/
+/home/hackhard/lg_com
+/   403
+/   502
+Tor is Blocked!!
+
+----------
+http://samsung.com/
+/home/hackhard/samsung_com
+/   403
+/   301
+Tor is Blocked!!
+
+----------
+http://staples.com/
+/home/hackhard/staples_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://tacobell.com/
+/home/hackhard/tacobell_com
+/   403
+/   200
+Tor is Blocked!!
+
+----------
+http://olx.com/
+/home/hackhard/olx_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+108 ----- 895
+dom_score:  728.7037037037037
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://nvidia.com/
+/home/hackhard/nvidia_com
+/   403
+/   307
+Tor is Blocked!!
+
+----------
+http://nasa.gov
+/home/hackhard/nasa_gov
+/   404
+/   200
+Tor is Blocked!!
+
+----------
+http://www.netflix.com/
+/home/hackhard/www_netflix_com
+/   302
+/   302
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+300 ----- 529
+dom_score:  76.33333333333333
+Doubtful case!!
+checks for keywords...
+Same..
+
+----------
+http://google.com/search?q=tor
+/home/hackhard/google_comsearch?q=tor
+/search   302
+/search   200
+Needs Inspection (possibility of GDPR, redirection, captcha)
+Nodes by tor and non-tor:
+24 ----- 1663
+dom_score:  6829.166666666667
+Tor returns Errors! or it hasn't been loaded fully (increase loading time)
+
+----------
+http://discord.com
+/home/hackhard/discord_com
+/   200
+/   200
+No redirection, additional tests on consensus and DOM checks required
+Nodes by tor and non-tor:
+267 ----- 267
+dom_score:  0.0
+Same Resemblance :D
+
+----------
+

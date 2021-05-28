@@ -1,0 +1,9 @@
+All Nodes (Non-Tor): 
+1--->html
+2--->head
+3--->body
+4--->script
+5--->div
+6--->div
+
+Total Number of Non-Tor Nodes: 6

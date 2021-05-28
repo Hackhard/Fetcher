@@ -1,0 +1,1 @@
+{'/': 200, '/v1//latest-rulesets-timestamp': 200, '/https-everywhere//latest-rulesets-timestamp': 200, '/https-everywhere//rulesets-signature.1622054201.sha256': 200, '/https-everywhere//default.rulesets.1622054201.gz': 200, '/ruxitagentjs_ICA27SVfhjoqrux_10163190401123328.js': 200}
