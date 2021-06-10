@@ -1,0 +1,11 @@
+Creating Folder...
+Deleting the folder...
+Status code (Tor): 200
+Removing GDPR:  Souhlasím
+Status code (Non-Tor): 200
+Message: Timed out after 30000 ms
+
+Nodes by tor and non-tor:
+309 ----- 187
+Dom Score:  -39.482200647249186
+Denotes cookie-popups (if difference is not much)
