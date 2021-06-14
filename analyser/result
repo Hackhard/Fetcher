@@ -1,0 +1,995 @@
+tor: no process found
+https://google.com  :  1228111A6D4AFC619ED3A70079A3A0B678476A43
+Deleting the folder...
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com/    200
+Nodes by tor and non-tor:
+182 ----- 182
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://apple.com  :  5D84900DBE6D6365684A9675B81A68ACE9577A68
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://apple.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.apple.com/    200
+Nodes by tor and non-tor:
+740 ----- 717
+Dom Score:  -3.1081081081081083
+Nodes by tor and non-tor: (AFTER)
+740 ----- 717
+New Dom Score:  -3.1081081081081083
+Denotes cookie-popups (if difference is not much)
+
+https://youtube.com  :  B36006D88E2CCEF2E1EF0826C7F1B0EDC8DE6C06
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://youtube.com/    200
+Removing GDPR:  I agree
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8    0
+Nodes by tor and non-tor:
+1096 ----- 8388
+Dom Score:  665.3284671532847
+Nodes by tor and non-tor: (AFTER)
+1095 ----- 7995
+New Dom Score:  630.1369863013699
+[31mTor most probably Errors!!
+[0m
+
+https://support.google.com  :  183C8C6727E2137AF278B3850AD5D9C2304B98C9
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://support.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://support.google.com/    200
+Nodes by tor and non-tor:
+870 ----- 870
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://cloudflare.com  :  F01E382DA524A57F2BFB3C4FF270A23D5CD3311D
+Creating Folder...
+Status code (Tor): 403
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://cloudflare.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-10218544-29&cid=1489061752.1623617376&jid=337751120&_v=j90&z=1351586718    0
+Nodes by tor and non-tor:
+78 ----- 789
+Dom Score:  911.5384615384615
+Nodes by tor and non-tor: (AFTER)
+76 ----- 788
+New Dom Score:  936.8421052631579
+[31mTor most probably Errors!!
+[0m
+
+https://play.google.com  :  1DC6E52ADB9FE4346CEFC05C6916D8B8F7F66D1C
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://play.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://play.google.com/play/log?format=json&authuser=    200
+Nodes by tor and non-tor:
+6065 ----- 6065
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://blogger.com  :  65E6EB676633328ADE3BD3168A59134CDDD21E19
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://blogger.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.blogger.com/about/?bpli=1    200
+Nodes by tor and non-tor:
+292 ----- 292
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://microsoft.com  :  E51620B90DCB310138ED89EDEDD0A5C361AAE24E
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://microsoft.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://va.v.liveperson.net/api/js/60270350?sid=1bVzo3KpScGi9wlNk6CZEA&cb=lpCb53367x54282&t=uc&ts=1623617640798&pid=107540353&tid=6018041941&vid=YwNmFhNmJmOTJkYWYwMDRj&sdes=%5B%7B%22type%22%3A%22impDisplay%22%2C%22campaign%22%3A1644274130%2C%22engId%22%3A1644414430%2C%22revision%22%3A16263%2C%22eContext%22%3A%5B%7B%22type%22%3A%22engagementContext%22%2C%22id%22%3A%221%22%7D%5D%7D%5D    0
+Nodes by tor and non-tor:
+661 ----- 743
+Dom Score:  12.405446293494705
+Nodes by tor and non-tor: (AFTER)
+661 ----- 742
+New Dom Score:  12.254160363086234
+[34mResembles same[0m
+[34mSame...[0m
+
+https://mozilla.org  :  9446EE28342A8B4502B4DA24DA18851BC9E516E0
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://mozilla.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.mozilla.org/en-US/    200
+Nodes by tor and non-tor:
+1132 ----- 1132
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://docs.google.com  :  7E77CC94D94C08609D70B517FF938CC61C9F8232
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2    0
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2F&followup=https%3A%2F%2Fdocs.google.com%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin    200
+Nodes by tor and non-tor:
+381 ----- 381
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://wordpress.org  :  0E5522CB4F79E36C0BB263BABC861CFC686929AE
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://wordpress.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://wordpress.org/    200
+Nodes by tor and non-tor:
+413 ----- 410
+Dom Score:  -0.7263922518159807
+Nodes by tor and non-tor: (AFTER)
+413 ----- 410
+New Dom Score:  -0.7263922518159807
+Denotes cookie-popups (if difference is not much)
+
+https://maps.google.com  :  A9B28E4D4FB6A26B5B6D3EDED2655D836BBD4E57
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://maps.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com/maps/vt/icon/name=assets/icons/spotlight/spotlight_pin_v4_outline-1-small.png,assets/icons/spotlight/spotlight_pin_v4-1-small.png,assets/icons/spotlight/spotlight_pin_v4_dot-1-small.png&highlight=c5221f,ea4335,b31412?scale=2    0
+Nodes by tor and non-tor:
+175 ----- 226
+Dom Score:  29.142857142857142
+Nodes by tor and non-tor: (AFTER)
+175 ----- 212
+New Dom Score:  21.142857142857142
+[35mDoubtful case!![0m
+checking for keywords...
+[36mSame!![0m
+
+https://linkedin.com  :  E43244684E0C924EC082B8ECC735FAF2F8CF1C45
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://linkedin.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.linkedin.com/    200
+Nodes by tor and non-tor:
+613 ----- 679
+Dom Score:  10.766721044045676
+Nodes by tor and non-tor: (AFTER)
+613 ----- 678
+New Dom Score:  10.60358890701468
+[34mResembles same[0m
+[34mSame...[0m
+
+https://youtu.be  :  8C25BA134D579B8AAF420E01215EB2CF06AAE907
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://youtu.be/    200
+Removing GDPR:  I agree
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8    0
+Nodes by tor and non-tor:
+1096 ----- 7451
+Dom Score:  579.8357664233577
+Nodes by tor and non-tor: (AFTER)
+7362 ----- 7405
+New Dom Score:  0.5840804129312687
+[34mResembles same[0m
+[34mSame...[0m
+
+https://en.wikipedia.org  :  D1F1F5AA5BCF5DAB44C444DEF82821B8BEC66148
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://en.wikipedia.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://en.wikipedia.org/wiki/Main_Page    200
+Nodes by tor and non-tor:
+983 ----- 985
+Dom Score:  0.20345879959308238
+Nodes by tor and non-tor: (AFTER)
+983 ----- 985
+New Dom Score:  0.20345879959308238
+[34mResembles same[0m
+[34mSame...[0m
+
+https://accounts.google.com  :  520C85ABE6E731CECC28B1055854053FAA28061B
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://accounts.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogintor: no process found
+    200
+Nodes by tor and non-tor:
+381 ----- 381
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://europa.eu  :  9B47A5B7C108F22D1AFF544E70D22ED8997B96A3
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://europa.eu/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://europa.eu/    200
+Nodes by tor and non-tor:
+260 ----- 260
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://adobe.com  :  06ABFC513FA71C7EE423DCC6ABF80F6B4A2FC1AC
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://adobe.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://sstats.adobe.com/b/ss/adbadobenonacdcprod,adbadobeprototype/1/JS-2.20.0-LBSQ/s51570167154132?AQB=1&ndh=1&pf=1&t=13%2F5%2F2021%2021%3A5%3A0%200%200&cid.&mcid.&id=52935355636288207984371480662821379938&.mcid&.cid&sdid=41E66E40F5EFBB07-41BC5170E875C57E&mid=52935355636288207984371480662821379938&aamlh=7&ce=UTF-8&cdp=2&fpCookieDomainPeriods=2&pageName=adobe.com&g=https%3A%2F%2Fwww.adobe.com%2F&c.&digitalData.&marketingtech.&bootstrap.&version=0.19.0&.bootstrap&.marketingtech&initialPage.&pageInfo.&location.&origin=https%3A%2F%2Fwww.adobe.com&protocol=https%3A&host=www.adobe.com&hostname=www.adobe.com&pathname=%2F&.location&.pageInfo&topFrameInfo.&location.&origin=https%3A%2F%2Fwww.adobe.com&protocol=https%3A&host=www.adobe.com&hostname=www.adobe.com&pathname=%2F&.location&.topFrameInfo&.initialPage&page.&pageInfo.&geoRegion=US&language=en-US&pageName=adobe.com&siteSection=adobe.com&location.&origin=https%3A%2F%2Fwww.adobe.com&protocol=https%3A&host=www.adobe.com&hostname=www.adobe.com&pathname=%2F&.location&performanceTiming.&redirectTiming=0.39&appCacheTiming=0.00&requestTiming=0.01&responseTiming=0.49&processingTiming=4.39&onLoadTiming=0.01&totalPageLoadTime=5.30&.performanceTiming&isClickTo=true&.pageInfo&topFrameInfo.&location.&origin=https%3A%2F%2Fwww.adobe.com&protocol=https%3A&host=www.adobe.com&hostname=www.adobe.com&pathname=%2F&.location&pageName=adobe.com&.topFrameInfo&.page&ims.&client.&clientID=adobedotcom2&.client&.ims&diagnostic.&page.&aemImplementation=dexter&.page&.diagnostic&adobe.&experienceCloud.&analytics.&info.&version=2.20.0&.info&.analytics&audienceManager.&info.&version=9.4&.info&.audienceManager&visitorService.&info.&version=5.0.0&.info&.visitorService&libraryVersions=2.20.0v%7CLaunch2021-06-09T18%3A29%3A08Z%7C9.4v%7C5.0.0v%7CNo%20Value&.experienceCloud&.adobe&primaryUser.&primaryProfile.&profileInfo.&authState=loggedOut&entitlementCreativeCloud=unknown&entitlementStatusCreativeCloud=unknown&returningStatus=New&.profileInfo&.primaryProfile&.primaryUser&appLauncher.&appIcon=No&.appLauncher&app.&appInfo.&appCtxId=No%20Value_No%20Value&.appInfo&.app&primaryEvent.&eventInfo.&interaction.&impression=Social%20media%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2C3D%20and%20AR%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CUI%20and%20UX%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CIllustration%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CVideo%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CGraphic%20design%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CPhotography%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CSee%20plans%20%26%20pricing%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CStart%20a%20free%20trial%7Cdex%7Cdefault%7Clong-row1%7Cpod3%7Ccc%7CExplore%20Creative%20Cloud%2CLearn%20more%7Cdex%7Cdefault%7Clong-row1%7Cpod2%7Ccc%7CCreative%20Cloud%20Photography%20plan.%2Cpod-cta%7Cdex%7Cdefault%7Clong-row1%7Cpod2%7Ccc%7CCreative%20Cloud%20Photography%20plan.%2CLearn%20more%7Cdex%7Cdefault%7Clong-row1%7Cpod1%7Ccc%7CMake.%20Believe.%20Photoshop.%20%2Cpod-cta%7Cdex%7Cdefault%7Clong-row1%7Cpod1%7Ccc%7CMake.%20Believe.%20Photoshop.%20%2CBusiness%7Cdex%7Cdefault%7Ctop-3pods%7Csegment-bar%2CStudents%20%26%20Teachers%7Cdex%7Cdefault%7Ctop-3pods%7Csegment-bar%2CIndividuals%7Cdex%7Cdefault%7Ctop-3pods%7Csegment-bar%2CLearn%20more%7Cdex%7Cdefault%7Clong-row0%7Cpod0%7Ccc%7CAll%20together%20now.%2CStart%20free%20trial%7Cdex%7Cdefault%7Clong-row0%7Cpod0%7Ccc%7CAll%20together%20now.%2CSign%20In%7Cgnav%7Cacom%2CSearch%7Cgnav%7Cacom%2CSupport-4%7Cgnav%7Cacom%7Cheader%7COpen%2CMarketing_Commerce-3%7Cgnav%7Cacom%7Cheader%7COpen%2CPDF_E_signatures-2%7Cgnav%7Cacom%7Cheader%7COpen%2CCreativity_Design-1%7Cgnav%7Cacom%7Cheader%7COpen%2CLogo%7Cgnav%7Cacom&.interaction&.eventInfo&.primaryEvent&.digitalData&hit.&type=pageload&.hit&.c&cc=USD&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&s=1920x1080&c=24&j=1.6&v=N&k=Y&bw=1280&bh=596&mcorgid=9E1005A551ED61CA0A490D45%40AdobeOrg&AQE=1    200
+Nodes by tor and non-tor:
+1913 ----- 1911
+Dom Score:  -0.10454783063251437
+Nodes by tor and non-tor: (AFTER)
+1907 ----- 1909
+New Dom Score:  0.1048767697954903
+[34mResembles same[0m
+[34mSame...[0m
+
+https://plus.google.com  :  C8F6F6C1834454F1E927A4A05E8E54EB623D4B73
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://plus.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?passive=1209600&osid=1&continue=https%3A%2F%2Fplus.google.com%2F&followup=https%3A%2F%2Fplus.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin    200
+Nodes by tor and non-tor:
+382 ----- 382
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://sites.google.com  :  530277866466A1425F43A73DBFCB5FC7410C9852
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://sites.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?service=jotspot&passive=1209600&continue=https%3A%2F%2Fsites.google.com%2F&followup=https%3A%2F%2Fsites.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin    200
+Nodes by tor and non-tor:
+381 ----- 381
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://vimeo.com  :  9664A7EFB405F555F3C0079FA7618B2EE6CE6D2A
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://vimeo.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.googletagservices.com/tag/js/gpt.js    0
+Nodes by tor and non-tor:
+779 ----- 1023
+Dom Score:  31.322207958921695
+Nodes by tor and non-tor: (AFTER)
+779 ----- 1065
+New Dom Score:  36.71373555840822
+[35mDoubtful case!![0m
+checking for keywords...
+[36mSame!![0m
+
+https://drive.google.com  :  50825758CC2DA41DEEF6AE29CB20A803BDCC6F79
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://www.google.com/drive/static/css/index.min.css?cache=be1bffd    0
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com/intl/en/drive/    200
+Nodes by tor and non-tor:
+611 ----- 613
+Dom Score:  0.32733224222585927
+Nodes by tor and non-tor: (AFTER)
+611 ----- 613
+New Dom Score:  0.32733224222585927
+[34mResembles same[0m
+[34mSame...[0m
+
+https://googleusercontent.com  :  BE0AC3B6692085308CA766F9E03736D1CAAED6F3
+Creating Folder...
+SOCKSHTTPSConnectionPool(host='googleusercontent.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc75e86cd00>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+HTTPSConnectionPool(host='googleusercontent.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc75d74f790>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+
+
+https://amazon.com  :  97AEE1EEFBCBB6FF8FA482029830E8E10A961883
+Creating Folder...
+Status code (Tor): 503
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://amazon.com/    200
+Status code (Non-Tor): 503
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://t.myvisualiq.net/sync?prid=AMZNPNR1&ao=0&red=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dvisualiq%26id%3D%24%7BUUID%7Dtor: no process found
+tor: no process found
+    200
+
+https://bbc.co.uk  :  E321D0118DAD44BBC74A5C26FE7CFDBAAF3DA077
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://www.bbc.co.uk/favicon.ico    0
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.bbc.com/    200
+Nodes by tor and non-tor:
+1286 ----- 1236
+Dom Score:  -3.8880248833592534
+Nodes by tor and non-tor: (AFTER)
+1286 ----- 1297
+New Dom Score:  0.8553654743390358
+[34mResembles same[0m
+[34mSame...[0m
+
+https://bp.blogspot.com  :  2785C4A65FE9ADC5C75E79F0B034ECDE3700F820
+Creating Folder...
+SOCKSHTTPSConnectionPool(host='bp.blogspot.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x7fc747776ca0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+HTTPSConnectionPool(host='bp.blogspot.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fc744f703d0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+
+
+https://istockphoto.com  :  DB5FF6E8806A6674E27BF69D1E1EBF308D9A87A9
+Creating Folder...
+('Connection aborted.', OSError("(32, 'EPIPE')"))
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://cdn.cookielaw.org/scripttemplates/6.18.0/otBannerSdk.js    0
+
+
+https://github.com  :  E006EA04C696BBD6E35407538131305FF3CB8C16
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://github.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://github.com/    200
+Nodes by tor and non-tor:
+1417 ----- 1461
+Dom Score:  3.10515172900494
+Nodes by tor and non-tor: (AFTER)
+1417 ----- 1417
+New Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://cnn.com  :  0111BA9B604669E636FFD5B503F382A4B7AD6E80
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://cnn.com/    200
+Removing GDPR:  I agree
+Message: Element <div class="user-msg--agree js-user-msg--agree"> could not be scrolled into view
+
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.cnn.com/    200
+Nodes by tor and non-tor:
+1890 ----- 1733
+Dom Score:  -8.306878306878307
+Nodes by tor and non-tor: (AFTER)
+0 ----- 1575
+division by zero
+New Dom Score:  -8.306878306878307
+Denotes cookie-popups (if difference is not much)
+
+https://uol.com.br  :  D762D707FC56ED169D74C7844516B46213E19DE2
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://uol.com.br/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.uol.com.br/    200
+Nodes by tor and non-tor:
+4026 ----- 4025
+Dom Score:  -0.024838549428713365
+Nodes by tor and non-tor: (AFTER)
+4004 ----- 3968
+New Dom Score:  -0.8991008991008992
+Denotes cookie-popups (if difference is not much)
+
+https://pt.wikipedia.org  :  3DE567C1350C0E858C6147AECB06EA9B3EAF3261
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://pt.wikipedia.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal    200
+Nodes by tor and non-tor:
+1454 ----- 1453
+Dom Score:  -0.0687757909215956
+Nodes by tor and non-tor: (AFTER)
+1453 ----- 1453
+New Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://facebook.com  :  A9860C42EF532379E846087802646B5D4BCB17BE
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://facebook.com/    200
+Removing GDPR:  Alle akzeptieren
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.facebook.com/    200
+Nodes by tor and non-tor:
+277 ----- 250
+Dom Score:  -9.747292418772563
+Nodes by tor and non-tor: (AFTER)
+245 ----- 250
+New Dom Score:  2.0408163265306123
+[34mResembles same[0m
+[34mSame...[0m
+
+https://vk.com  :  D1F1F5AA5BCF5DAB44C444DEF82821B8BEC66148
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://vk.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://vk.com/    200
+Nodes by tor and non-tor:
+304 ----- 305
+Dom Score:  0.3289473684210526
+Nodes by tor and non-tor: (AFTER)
+302 ----- 303
+New Dom Score:  0.33112582781456956
+[34mResembles same[0m
+[34mSame...[0m
+
+https://es.wikipedia.org  :  902E21BC05A7B1EC8CE85D78C47C3D8EAD5EFE6F
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://es.wikipedia.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://es.wikipedia.org/wiki/Wikipedia:Portada    200
+Nodes by tor and non-tor:
+998 ----- 995
+Dom Score:  -0.30060120240480964
+Nodes by tor and non-tor: (AFTER)
+999 ----- 995
+New Dom Score:  -0.40040040040040037
+Denotes cookie-popups (if difference is not much)
+
+https://opera.com  :  06ABFC513FA71C7EE423DCC6ABF80F6B4A2FC1AC
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://opera.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.opera.com/    200
+Nodes by tor and non-tor:
+1218 ----- 1221
+Dom Score:  0.24630541871921183
+Nodes by tor and non-tor: (AFTER)
+1218 ----- 1221
+New Dom Score:  0.24630541871921183
+[34mResembles same[0m
+[34mSame...[0m
+
+https://bbc.com  :  B2D07EABB8F071FF29947B7886281DF1E255BADA
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://bbc.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://static.files.bbci.co.uk/fonts/reith/2.512/BBCReithSans_W_Rg.woff2    200
+Nodes by tor and non-tor:
+1318 ----- 1240
+Dom Score:  -5.918057663125948
+Nodes by tor and non-tor: (AFTER)
+1318 ----- 1236
+New Dom Score:  -6.22154779969651
+Denotes cookie-popups (if difference is not much)
+
+https://gstatic.com  :  0ED4CA8A8E6CE2D28D6D23B20815AE3982646FCB
+Creating Folder...
+Status code (Tor): 404
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://gstatic.com/    200
+Status code (Non-Tor): 404
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.gstatic.com/    200
+It hasn't been thought of for Non-Tor
+[31mERROR!!
+[0m
+
+https://nytimes.com  :  88AE3BC088396F1D3FCC4F2F588C0DC837599D20
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://nytimes.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.nytimes.com/    200
+Nodes by tor and non-tor:
+1202 ----- 1206
+Dom Score:  0.33277870216306155
+Nodes by tor and non-tor: (AFTER)
+1199 ----- 1202
+New Dom Score:  0.25020850708924103
+[34mResembles same[0m
+[34mSame...[0m
+
+https://msn.com  :  01CB2E297A8F586DBBCF98F028A3D1A49B0AB7BA
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://msn.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.msn.com/    200
+Nodes by tor and non-tor:
+1227 ----- 3209
+Dom Score:  161.53219233903832
+Nodes by tor and non-tor: (AFTER)
+1234 ----- 2995
+New Dom Score:  142.7066450567261
+[35mDoubtful case!![0m
+checking for keywords...
+[36mSame!![0m
+
+https://slideshare.net  :  6CE3DDFAA9E56F56890235CC9C2385B2DD93E146
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://slideshare.net/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.slideshare.net/    200
+Nodes by tor and non-tor:
+521 ----- 521
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://issuu.com  :  EB6A879331A20D3D39874960E1076A8421F5A44C
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://issuu.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j90&tid=UA-128666-7&cid=1684577698.1623620681&jid=1990435194&_u=aGBAAEACAAAAAC~&z=1276341341    0
+Nodes by tor and non-tor:
+1981 ----- 764
+Dom Score:  -61.43361938414942
+Nodes by tor and non-tor: (AFTER)
+1981 -----tor: no process found
+tor: no process found
+ 770
+New Dom Score:  -61.130742049469966
+Denotes cookie-popups (if difference is not much)
+
+https://google.com.br  :  BE0AC3B6692085308CA766F9E03736D1CAAED6F3
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://google.com.br/    200
+Removing GDPR:  Ich stimme zu
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.com.br/    200
+Nodes by tor and non-tor:
+313 ----- 186
+Dom Score:  -40.57507987220447
+Nodes by tor and non-tor: (AFTER)
+178 ----- 186
+New Dom Score:  4.49438202247191
+[34mResembles same[0m
+[34mSame...[0m
+
+https://fr.wikipedia.org  :  3BB47BFF2788B534A5BACA37879C48EEBE5E8800
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://fr.wikipedia.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal    200
+Nodes by tor and non-tor:
+1405 ----- 1407
+Dom Score:  0.1423487544483986
+Nodes by tor and non-tor: (AFTER)
+1405 ----- 1407
+New Dom Score:  0.1423487544483986
+[34mResembles same[0m
+[34mSame...[0m
+
+https://dailymotion.com  :  B65CC2B45CE9C934D1E1254736166D6AB64C2ABC
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://dailymotion.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://public-prod-dspcookiematching.dmxleo.com/listdsps?gk_cookie_sync=1&reader_gdpr_flag=0&reader_gdpr_consent=&reader_us_privacy=1---    0
+Nodes by tor and non-tor:
+1884 ----- 198
+Dom Score:  -89.49044585987261
+Nodes by tor and non-tor: (AFTER)
+1878 ----- 1884
+New Dom Score:  0.3194888178913738
+[34mResembles same[0m
+[34mSame...[0m
+
+https://google.co.jp  :  4B2E97CA3BAC3A2B14879F109E9965A0C20316C2
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://google.co.jp/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.co.jp/    200
+Nodes by tor and non-tor:
+159 ----- 189
+Dom Score:  18.867924528301888
+Nodes by tor and non-tor: (AFTER)
+159 ----- 189
+New Dom Score:  18.867924528301888
+[34mResembles same[0m
+[34mSame...[0m
+
+https://hugedomains.com  :  B65CC2B45CE9C934D1E1254736166D6AB64C2ABC
+Creating Folder...
+Status code (Tor): 403
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://hugedomains.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.hugedomains.com/    200
+[31mERROR!!
+[0m
+
+https://t.me  :  8C25BA134D579B8AAF420E01215EB2CF06AAE907
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://t.me/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://telegram.org/    200
+Nodes by tor and non-tor:
+302 ----- 302
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://google.es  :  88AE3BC088396F1D3FCC4F2F588C0DC837599D20
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://google.es/    200
+Removing GDPR:  Ich stimme zu
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.google.es/    200
+Nodes by tor and non-tor:
+305 ----- 186
+Dom Score:  -39.01639344262295
+Nodes by tor and non-tor: (AFTER)
+183 ----- 186
+New Dom Score:  1.639344262295082
+[34mResembles same[0m
+[34mSame...[0m
+
+https://forbes.com  :  183C8C6727E2137AF278B3850AD5D9C2304B98C9
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://forbes.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.forbes.com/?sh=6eecafbb2254    200
+Nodes by tor and non-tor:
+1947 ----- 1942
+Dom Score:  -0.25680534155110424
+Nodes by tor and non-tor: (AFTER)
+1936 ----- 1935
+New Dom Score:  -0.05165289256198347
+Denotes cookie-popups (if difference is not much)
+
+https://jimdofree.com  :  E321D0118DAD44BBC74A5C26FE7CFDBAAF3DA077
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://jimdofree.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.jimdo.com/    200
+Nodes by tor and non-tor:
+1064 ----- 1064
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://dropbox.com  :  A9B28E4D4FB6A26B5B6D3EDED2655D836BBD4E57
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://dropbox.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.dropbox.com/?_hp=c    200
+Nodes by tor and non-tor:
+1030 ----- 946
+Dom Score:  -8.155339805825243
+Nodes by tor and non-tor: (AFTER)
+1030 ----- 932
+New Dom Score:  -9.514563106796116
+Denotes cookie-popups (if difference is not much)
+
+https://brandbucket.com  :  5B9BB7A543C2C035A423A6B411780E50645782C0
+Creating Folder...
+Status code (Tor): 403
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://brandbucket.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://px.ads.linkedin.com/collect?fmt=gif&pid=271730    200
+[31mERROR!!
+[0m
+
+https://feedburner.com  :  470BC5C6A8BD1D9FDBB55689FB3030310181EAE2
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://feedburner.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?service=feedburner&continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&gsessionid=hyh8BOHGfnQV5QBJyIwDbwJzYXSpfXgWqlzhkzmyQ04&flowName=GlifWebSignIn&flowEntry=ServiceLogin    200
+Nodes by tor and non-tor:
+381 ----- 381
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://creativecommons.org  :  8F16229D5425774DCA566D7737596178153DB838
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://creativecommons.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://creativecommons.org/    200
+Nodes by tor and non-tor:
+741 ----- 741
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://mail.google.com  :  E41B16F7DDF52EBB1DB4268AB2FE340B37AD8904
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://mail.google.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin    200
+Nodes by tor and non-tor:
+381 ----- 381
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://weebly.com  :  6B263B45B33B8E2C73AB80F9B0D73538B44BD75D
+Creating Folder...
+Status code (Tor): 406
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://weebly.com/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.weebly.com/    200
+[31mERROR!!
+[0m
+
+https://wikimedia.org  :  8C25BA134D579B8AAF420E01215EB2CF06AAE907
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://wikimedia.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.wikimedia.org/    200
+Nodes by tor and non-tor:
+94 ----- 94
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://w3.org  :  01729F10A81DDD8A92D770B2133082EB56C75E26
+Creating Folder...
+Status code (Tor): 200
+Tor Dumps
+[33m1st Har stats (TOR)[0m
+https://w3.org/    200
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://www.w3.org/    200
+Nodes by tor and non-tor:
+445 ----- 445
+Dom Score:  0.0
+[36mSame Resemblance!![0m
+
+https://myspace.com  :  4C07CB3365CF3E06A56FD2DC8ECA4E97A6521983
+Creating Folder...
+Status code (Tor): 200
+Message: TimedPromise timed out after 300000 ms
+
+Status code (Non-Tor): 200
+Non Tor Dumps
+[33m1st Har stats (Non-TOR)[0m
+https://myspace.com/    200
+
+
+https://reuters.com  :  DB5FF6E8806A6674E27BF69D1E1EBF308D9A87A9
+Creating Folder...
+Status code (Tor): 403
+Message: connection refused
+
+Status code (Non-Tor): 200
+Message: Failed to decode response from marionette
+
+
+
+https://medium.com  :  424BF86927E80D916589BB12248BD468BB470684
+Creating Folder...
+Status code (Tor):
