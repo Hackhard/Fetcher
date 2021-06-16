@@ -317,7 +317,7 @@ class Analyser:
         # If captcha in html of tor:
         if "captcha" in self.soup_t and "captcha" not in self.soup_n:
             tor_c = 1
-            print(term.format("Captcha present: checklist",term.Color.RED))
+            # print(term.format("Captcha present: checklist",term.Color.RED))
         # If captcha in both, tor_html and non_tor html, or not anywhere:
         else:
             tor = 0
@@ -351,9 +351,7 @@ class Analyser:
         self.soup_t = str(self.soup_t).lower()
         self.soup_n = str(self.soup_n).lower()
 
-        self.Captcha_Checker()
-
-        if self.cap == True:
+        if self.Captcha_Checker() == True:
             return 
 
         if(abs(dom_score) > 0):
@@ -376,9 +374,10 @@ class Analyser:
                     if _ in self.soup_t and _ not in self.soup_n:
                         # print("Tor blocked : checklist")
                         res = 1
-                        print(term.format("Tor blocked : checklist!!",term.BgColor.RED))
                 if res == 0:
                     print(term.format("Same!!",term.Color.CYAN))
+                else:
+                    print(term.format("Tor blocked : checklist!!",term.Color.RED))
         else:
             print(term.format("Same Resemblance!!",term.Color.CYAN))
 
