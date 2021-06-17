@@ -297,13 +297,11 @@ class Analyser(DataCollection):
         self.match_list = ["error","forbidden","tor","denied","sorry"]
         self.abs_path = data_collection.abs_path
         self.gdpr_word_list = ["Souhlasím","Alle akzeptieren","Jag godkänner","Ich stimme zu","Ik ga akkoord","Egyetértek","J\'accepte","I agree","Accepta?i tot","Accept all","Accept"]
-        self.count_t = data_collection.count_t
-        self.count_n = data_collection.count_n
-        self.soup_n = data_collection.soup_n
-        self.soup_t = data_collection.soup_t
-        self.non_store = data_collection.non_store
-        self.tor_store = data_collection.tor_store
-        self.cap = 0
+        self.tor_page_source_sel = data_collection.tor_page_source_sel
+        self.non_tor_page_source_sel = data_collection.non_tor_page_source_sel
+        self.tor_HAR = data_collection.tor_HAR
+        self.non_tor_HAR = data_collection.non_tor_HAR
+
 
     def Captcha_Checker(self):
         """
@@ -339,10 +337,22 @@ class Analyser(DataCollection):
 
     def DOM_Analyse(self):
 
+        self.soup_t = BeautifulSoup(self.tor_page_source_sel, 'html.parser')
+        count_t = 0
+        for tag in self.soup_t.find_all(True):
+            count_t += 1
+        
+
+        self.soup_n = BeautifulSoup(self.non_tor_page_source_sel, 'html.parser')
+        count_n = 0
+        for tag in self.soup_n.find_all(True):
+            count_n += 1
+
+
         print("Nodes by tor and non-tor:")
-        print(self.count_t,"-----",self.count_n)
+        print(count_t,"-----",count_n)
         try:
-            dom_score = 100*((self.count_n-self.count_t)/self.count_t)
+            dom_score = 100*((count_n-count_t)/count_t)
         except ZeroDivisionError as e:
             print("Zero Error, check tor Dom")
             
@@ -385,6 +395,16 @@ class Analyser(DataCollection):
     def status_checker(self):
 
         # tor use HARExportTrigger
+        self.tor_store = {}; self.non_store = {}
+
+        for i in self.tor_HAR.keys():
+            if self.tor_HAR[i] != 0 or self.tor_HAR != '' or self.tor_HAR != None:
+                self.tor_store[i] = self.tor_HAR[i]
+
+        for i in self.non_tor_HAR.keys():
+            if self.non_tor_HAR[i] != 0 or self.non_tor_HAR != '' or self.non_tor_HAR != None:
+                self.non_store[i] = self.non_tor_HAR[i]
+
         first_url_t  = next(iter(self.tor_store))
         first_status_t = self.tor_store[str(first_url_t)]
 
@@ -440,8 +460,8 @@ website_list = [
     # "https://discord.com",
     # "https://yahoo.com/",
     # "https://google.com",
-    "https://dan.me.uk",
-    "https://lloydsbank.com",
+    # "https://dan.me.uk",
+    # "https://lloydsbank.com",
     # "https://bitstamp.net",
     # "https://sc.com",
     # "https://rankexploits.com",
@@ -454,13 +474,13 @@ website_list = [
     # 'https://apple.com',
     # 'https://youtube.com',
     # 'https://support.google.com',
-    'https://cloudflare.com',
-    'https://play.google.com',
-    'https://blogger.com',
-    'https://microsoft.com',
-    'https://mozilla.org',
-    'https://docs.google.com',
-    'https://wordpress.org',
+    # 'https://cloudflare.com',
+    # 'https://play.google.com',
+    # 'https://blogger.com',
+    # 'https://microsoft.com',
+    # 'https://mozilla.org',
+    # 'https://docs.google.com',
+    # 'https://wordpress.org',
     'https://maps.google.com',
     'https://linkedin.com',
     'https://youtu.be',
