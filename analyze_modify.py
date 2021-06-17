@@ -14,33 +14,22 @@ def print_lines(line):
     if "Bootstraped" in line:
         print(term.format(line, term.Color.BLUE))
 
-class Analyser:
-    # https://api.myip.com/
+class DataCollection:
     def __init__(self,url,exit_node):
- 	    # self.display = Display(visible=0, size=(1920,1080))
-    	# self.display.start()
-        # this.profile = FirefoxProfile()
-        # self.url = url
         self.url = url
         self.path = os.path.abspath("har_export_trigger-0.6.1-an+fx.xpi")
         self.port = '7000'
-        # self.exitnode = 'E44364879BA8634C46127084B2AF573F9B4B82A0'
         self.exitnode = exit_node
         self.tor_path = "/usr/bin/tor"
         self.tor_status_code = 0
         self.non_tor_status_code = 0
         self.non_tor_data = ""
         self.tor_data = ""
-        self.max_k = 150
-        # Min percentage error that can be omitted 
-        self.min_k = 20 
-        self.match_list = ["error","forbidden","tor","denied","sorry"]
         self.tor_page_source_sel = ""
         self.non_tor_page_source_sel = ""
         self.tor_driver = None
         self.non_tor_driver = None
         self.abs_path = ""
-        self.gdpr_word_list = ["Souhlasím","Alle akzeptieren","Jag godkänner","Ich stimme zu","Ik ga akkoord","Egyetértek","J\'accepte","I agree","Accepta?i tot","Accept all","Accept"]
         self.tor_page_source_sel_after_gdpr_removal = ""
         self.non_tor_page_source_sel_after_gdpr_removal = ""
         self.tor_HAR = {}
@@ -51,8 +40,6 @@ class Analyser:
         self.soup_t = BeautifulSoup()
         self.non_store = {} 
         self.tor_store = {}
-        self.cap = 0
-
 
     def save_in_folder(self):
         self.abs_path = os.path.abspath("")+"/"+self.url.replace("/","_")
@@ -65,7 +52,6 @@ class Analyser:
             os.mkdir(self.abs_path)
             print("Creating Folder...")
         
-
     def setup_tor(self):
         
         # Assume socksport to be 7000 and exitnode as '4D2A4831BB67853A6FA01517A61B810D4480AE2F'
@@ -197,7 +183,6 @@ class Analyser:
         tor.terminate()
         self.tor_driver.quit()
 
-
     def setup_non_tor(self):
         # # Request
         # self.non_tor_data = requests.get(self.url)
@@ -304,6 +289,21 @@ class Analyser:
             print(e)
         self.non_tor_driver.quit()
 
+class Analyser(DataCollection):
+    # https://api.myip.com/
+    def __init__(self,data_collection):
+        self.max_k = 150
+        self.min_k = 20 
+        self.match_list = ["error","forbidden","tor","denied","sorry"]
+        self.abs_path = data_collection.abs_path
+        self.gdpr_word_list = ["Souhlasím","Alle akzeptieren","Jag godkänner","Ich stimme zu","Ik ga akkoord","Egyetértek","J\'accepte","I agree","Accepta?i tot","Accept all","Accept"]
+        self.count_t = data_collection.count_t
+        self.count_n = data_collection.count_n
+        self.soup_n = data_collection.soup_n
+        self.soup_t = data_collection.soup_t
+        self.non_store = data_collection.non_store
+        self.tor_store = data_collection.tor_store
+        self.cap = 0
 
     def Captcha_Checker(self):
         """
@@ -1085,11 +1085,12 @@ for url in website_list:
     i+=1
     exit_node = secrets.choice(exit_relays)
     print(url," : ",exit_node)
-    we = Analyser(url,exit_node)
+    we = DataCollection(url,exit_node)
     we.save_in_folder()
     we.setup_tor()
     we.setup_non_tor()
-    we.status_checker()
+    wb = Analyser(we)
+    wb.status_checker()
     time.sleep(5)
     print()
     if(i==2):
