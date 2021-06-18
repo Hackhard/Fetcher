@@ -14,33 +14,22 @@ def print_lines(line):
     if "Bootstraped" in line:
         print(term.format(line, term.Color.BLUE))
 
-class Analyser:
-    # https://api.myip.com/
+class DataCollection:
     def __init__(self,url,exit_node):
- 	    # self.display = Display(visible=0, size=(1920,1080))
-    	# self.display.start()
-        # this.profile = FirefoxProfile()
-        # self.url = url
         self.url = url
         self.path = os.path.abspath("har_export_trigger-0.6.1-an+fx.xpi")
         self.port = '7000'
-        # self.exitnode = 'E44364879BA8634C46127084B2AF573F9B4B82A0'
         self.exitnode = exit_node
         self.tor_path = "/usr/bin/tor"
         self.tor_status_code = 0
         self.non_tor_status_code = 0
         self.non_tor_data = ""
         self.tor_data = ""
-        self.max_k = 150
-        # Min percentage error that can be omitted 
-        self.min_k = 20 
-        self.match_list = ["error","forbidden","tor","denied","sorry"]
         self.tor_page_source_sel = ""
         self.non_tor_page_source_sel = ""
         self.tor_driver = None
         self.non_tor_driver = None
         self.abs_path = ""
-        self.gdpr_word_list = ["Souhlasím","Alle akzeptieren","Jag godkänner","Ich stimme zu","Ik ga akkoord","Egyetértek","J\'accepte","I agree","Accepta?i tot","Accept all","Accept"]
         self.tor_page_source_sel_after_gdpr_removal = ""
         self.non_tor_page_source_sel_after_gdpr_removal = ""
         self.tor_HAR = {}
@@ -64,15 +53,13 @@ class Analyser:
             os.mkdir(self.abs_path)
             print("Creating Folder...")
         
-
     def setup_tor(self):
-        
-        # Assume socksport to be 7000 and exitnode as '4D2A4831BB67853A6FA01517A61B810D4480AE2F'
+
         tor = launch_tor_with_config(config = {'SocksPort': self.port,'ExitNodes': self.exitnode} ,tor_cmd=self.tor_path, take_ownership=True,timeout=120,init_msg_handler=print_lines)
-        # try:
-        self.tor_data = requests.get(self.url,proxies={'https': f'SOCKS5://127.0.0.1:{self.port}'})
-        print("Status code (Tor):", self.tor_data.status_code)
-        self.tor_status_code = self.tor_data.status_code
+        # Request
+        # self.tor_data = requests.get(self.url,proxies={'https': f'SOCKS5://127.0.0.1:{self.port}'})
+        # print("Status code (Tor):", self.tor_data.status_code)
+        # self.tor_status_code = self.tor_data.status_code
 
         profile = FirefoxProfile()
         profile.set_preference("network.proxy.type", 1)
@@ -153,20 +140,17 @@ class Analyser:
             )
             js = json.dumps({"log": har_dict})
             print("Tor Dumps")
-            dic = json.loads(js)
+            self.tor_dic = json.loads(js)
             
             f = open(self.abs_path+"/tor_exportHTTP.status", "w")
 
-            # tor_HAR = {};c={}
-
-            for i in range(len(dic['log']['entries'])):
-                self.tor_HAR[dic['log']['entries'][i]['request']['url']] = dic['log']['entries'][i]['response']['status']
-                if(dic['log']['entries'][i]['response']['status'] != 0):
-                    self.tor_store[dic['log']['entries'][i]['request']['url']] = dic['log']['entries'][i]['response']['status']
+            for i in range(len(self.tor_dic['log']['entries'])):
+                self.tor_HAR[self.tor_dic['log']['entries'][i]['request']['url']] = self.tor_dic['log']['entries'][i]['response']['status']
+                if(self.tor_dic['log']['entries'][i]['response']['status'] != 0):
+                    self.tor_store[self.tor_dic['log']['entries'][i]['request']['url']] = self.tor_dic['log']['entries'][i]['response']['status']
 
             print(term.format("1st Har stats (TOR)",term.Color.YELLOW))   
-            f.write(str(dic))
-            # print(self.tor_HAR)
+            f.write(str(self.tor_dic))
             print(next(iter(self.tor_store)), " ", self.tor_store[next(iter(self.tor_store))])
             f.close()
 
@@ -197,9 +181,10 @@ class Analyser:
         self.tor_driver.quit()
 
     def setup_non_tor(self):
-        self.non_tor_data = requests.get(self.url)
-        print("Status code (Non-Tor):", self.non_tor_data.status_code)
-        self.non_tor_status_code = self.non_tor_data.status_code
+        # # Request
+        # self.non_tor_data = requests.get(self.url)
+        # print("Status code (Non-Tor):", self.non_tor_data.status_code)
+        # self.non_tor_status_code = self.non_tor_data.status_code
 
         profile = FirefoxProfile()
         options = FirefoxOptions()
@@ -228,12 +213,8 @@ class Analyser:
         profile.set_preference("devtools.netmonitor.har.pageLoadedTimeout", "2500")
         
         self.non_tor_driver = webdriver.Firefox(firefox_profile=profile,options=options)
-        # self.non_tor_driver.install_addon(self.path, temporary=True)
         self.non_tor_driver.get(self.url)
         time.sleep(1.5)
-        # print(profile)
-        
-        # self.non_tor_driver.find_element_by_tag_name('html').send_keys(Keys.CONTROL+Keys.SHIFT+'E')
 
         self.non_tor_page_source_sel = self.non_tor_driver.page_source
         self.non_tor_driver.save_screenshot(self.abs_path+"/Non_Tor.png")
@@ -255,7 +236,6 @@ class Analyser:
             """
         )
 
-
         time.sleep(30)
         self.non_tor_driver.save_screenshot(self.abs_path+"/Non_Tor(after).png")
         try:
@@ -268,20 +248,20 @@ class Analyser:
                 """
             )
             js = json.dumps({"log": har_dict})
-            dic = json.loads(js)
+            self.non_dic = json.loads(js)
             print("Non Tor Dumps")
 
-            for i in range(len(dic['log']['entries'])):
-                self.non_tor_HAR[dic['log']['entries'][i]['request']['url']] = dic['log']['entries'][i]['response']['status']
-                if(dic['log']['entries'][i]['response']['status'] != 0):
-                    self.non_store[dic['log']['entries'][i]['request']['url']] = dic['log']['entries'][i]['response']['status']
+            for i in range(len(self.non_dic['log']['entries'])):
+                self.non_tor_HAR[self.non_dic['log']['entries'][i]['request']['url']] = self.non_dic['log']['entries'][i]['response']['status']
+                if(self.non_dic['log']['entries'][i]['response']['status'] != 0):
+                    self.non_store[self.non_dic['log']['entries'][i]['request']['url']] = self.non_dic['log']['entries'][i]['response']['status']
 
             print(term.format("1st Har stats (NON TOR)",term.Color.YELLOW))   
 
             f = open(self.abs_path+"/non-tor_exportHTTP.status", "w")
-            f.write(str(dic))
+            f.write(str(self.non_dic))
             f.close()
-            # print(tor_HAR)
+
             print(next(iter(self.non_store)), " ", self.non_store[next(iter(self.non_store))])
 
             self.soup_n = BeautifulSoup(self.non_tor_page_source_sel, 'html.parser')
@@ -295,109 +275,167 @@ class Analyser:
                 f.write("{}--->{}\n".format(self.count_n, tag_.name))
             f.write("\nTotal Number of Tor Nodes: {}\n".format(self.count_n))
             f.close()
-            # dic_har = driver.execute_async_script("HAR;")
-            # print(dic_har)
+
         except Exception as e:
             print(e)
         self.non_tor_driver.quit()
 
-    def status_checker(self):
-        # Check if request library on non-tor fails or not:
-        status_url = next(iter(self.non_store))
-        sc = self.non_store[str(status_url)]
-        if self.non_tor_status_code > 399:
-            # Use HAR instead , because sometimes without being blocked, CDNs seem to block request 
-            if sc == self.non_tor_status_code or (int(sc) > 399 and self.non_tor_status_code > 399):
-                # HAR and request library features same code(Hence website blocked)
-                print(term.format("Website blocked on client side\n",term.Attr.BOLD))
-            else:
-                self.non_tor_status_code = sc
+class Analyser(DataCollection):
+    # https://api.myip.com/
+    def __init__(self,data_collection):
+        self.max_k = 150
+        self.min_k = 20 
+        self.match_list = ["error","forbidden","tor","denied","sorry"]
+        self.abs_path = data_collection.abs_path
+        self.gdpr_word_list = ["Souhlasím","Alle akzeptieren","Jag godkänner","Ich stimme zu","Ik ga akkoord","Egyetértek","J\'accepte","I agree","Accepta?i tot","Accept all","Accept"]
+        self.tor_page_source_sel = data_collection.tor_page_source_sel
+        self.non_tor_page_source_sel = data_collection.non_tor_page_source_sel
+        self.tor_HAR = data_collection.tor_dic
+        self.non_tor_HAR = data_collection.non_dic
 
-        # Check if request library on tor fails or not:
-        status_url_t = next(iter(self.tor_store))
-        sc_t = self.tor_store[str(status_url_t)]
-        if self.tor_status_code > 399:
-            if sc_t == self.tor_status_code or (int(sc_t)>299 and self.tor_status_code>399): #adding the reloading check for websites like (mastercard) where it routes to another page.
-                print(term.format("Website blocked on tor side\n",term.Color.RED))
-            elif int(sc) != 0:
-                # Could later Check for captcha and warnings
-                pass
-            else:
-                self.tor_status_code = sc_t
 
-        if self.non_tor_status_code != self.tor_status_code:
-            if self.tor_status_code > 399:
-                # print("Error")
-                print(term.format("ERROR!!\n",term.Color.RED))
-            elif self.tor_status_code > 299:
-                # Check for redirection of website
-                # Requires selenium wire to see the full HAR structure
-                print(term.format("Redirected to another site\n",term.Color.YELLOW))
-        else:            
-            print("Nodes by tor and non-tor:")
-            print(self.count_t,"-----",self.count_n)
-            try:
-                dom_score = 100*((self.count_n-self.count_t)/self.count_t)
-            except ZeroDivisionError as e:
-                print("Zero Error, check tor Dom")
-                
-            print("Dom Score: ", dom_score)
+    def Captcha_Checker(self):
+        """
+        Two ways of checking captcha would be:
+        1. Check if the HTML consists of Captcha or not for tor and non tor 
+        2. HAR contains captcha or not
+        """
 
-            self.soup_t = str(self.soup_t).lower()
-            self.soup_n = str(self.soup_n).lower()
-
-            if(abs(dom_score) > 0):
-                if( abs(dom_score) > self.max_k):   
-                    #   Random value to check the performance. 
-                    #   Might need some more experiments to come back with the correct value
-                    #   or it hasn't been loaded fully (increase loading time)")
-                    print(term.format("Tor most probably Errors!!\n",term.Color.RED))
-                elif(abs(dom_score) < self.min_k):
-                    #   Random value to check the performance. 
-                    #   Might need some more experiments to come back with the correct value
-                    #   checks for keywords to help in this case
-                    #   Captcha Checker...
-                    print(term.format("Resembles same",term.Color.BLUE))
-                    # Assuming no captcha
+        # Assuming no captcha
+        tor_c = 0
+        # If captcha in html of tor:
+        if "captcha" in self.soup_t and "captcha" not in self.soup_n:
+            tor_c = 1
+            # print(term.format("Captcha present: checklist",term.Color.RED))
+        # If captcha in both, tor_html and non_tor html, or not anywhere:
+        else:
+            tor = 0
+            for s_ in self.tor_store.keys():
+                if "captcha" in s_:
+                    tor = 1
+                    print(term.format("Captcha in tor from HAR",term.Color.YELLOW))
+            for s_ in self.non_store.keys():
+                if "captcha" in s_:
                     tor = 0
-                    # If captcha in html of tor:
-                    if "captcha" in self.soup_t and "captcha" not in self.soup_n:
-                        tor = 1
-                        print(term.format("Captcha present: checklist",term.Color.RED))
-                    # If captcha in both, tor_html and non_tor html, or not anywhere:
-                    else:
-                        s_ = str(status_url)
-                        if s_ in self.tor_HAR.keys():
-                            if "captcha" in s_:
-                                tor = 1
-                                print(term.format("Captcha in tor from HAR",term.Color.YELLOW))
-                        if s_ in self.non_tor_HAR.keys():
-                            if "captcha" in s_:
-                                tor = 0
-                                print("Captcha in Non-Tor too")
-                    if tor == 0:
-                        print(term.format("Same...",term.Color.BLUE))
-                    else:
-                        print("Captcha")
-                else:
-                    print(term.format("Doubtful case!!",term.Color.MAGENTA))
-                    print("checking for keywords...")
-                    #   checks for keywords to help in this case     
-                    for _ in self.match_list:
-                        if _ in self.soup_t and _ not in self.soup_n:
-                            # print("Tor blocked : checklist")
-                            print(term.format("Tor blocked : checklist!!",term.BgColor.RED))
+                    print("Captcha in Non-Tor too")
+        if tor == 0 and tor_c == 0:
+            print(term.format("Same...",term.Color.BLUE))
+        else:
+            print("Captcha")
+            return True
+        return False
 
-                    if "captcha" in self.soup_t and "captcha" not in self.soup_n:
-                        print(term.format("Captcha present : checklist!!",term.BgColor.YELLOW))
-                    else:
-                        print(term.format("Same!!",term.Color.CYAN))
-            else:
-                print(term.format("Same Resemblance!!",term.Color.CYAN))
-    
+
+    def DOM_Analyse(self):
+
+        self.soup_t = BeautifulSoup(self.tor_page_source_sel, 'html.parser')
+        count_t = 0
+        for tag in self.soup_t.find_all(True):
+            count_t += 1
         
-        self.non_tor_driver.quit()
-        self.tor_driver.quit() 
+
+        self.soup_n = BeautifulSoup(self.non_tor_page_source_sel, 'html.parser')
+        count_n = 0
+        for tag in self.soup_n.find_all(True):
+            count_n += 1
+
+
+        print("Nodes by tor and non-tor:")
+        print(count_t,"-----",count_n)
+        try:
+            dom_score = 100*((count_n-count_t)/count_t)
+        except ZeroDivisionError as e:
+            print("Zero Error, check tor Dom")
+            
+        print("Dom Score: ", dom_score)
+
+        self.soup_t = str(self.soup_t).lower()
+        self.soup_n = str(self.soup_n).lower()
+
+        if self.Captcha_Checker() == True:
+            return 
+
+        if(abs(dom_score) > 0):
+            if( abs(dom_score) > self.max_k):   
+                #   Random value to check the performance. 
+                #   Might need some more experiments to come back with the correct value
+                #   or it hasn't been loaded fully (increase loading time)")
+                print(term.format("Tor most probably Errors!!\n",term.Color.RED))
+            elif(abs(dom_score) < self.min_k):
+                #   Random value to check the performance. 
+                #   Might need some more experiments to come back with the correct value
+                #   checks for keywords to help in this case
+                print(term.format("Resembles same",term.Color.BLUE))
+            else:
+                print(term.format("Doubtful case!!",term.Color.MAGENTA))
+                print("checking for keywords...")
+                #   checks for keywords to help in this case     
+                res = 0
+                for _ in self.match_list:
+                    if _ in self.soup_t and _ not in self.soup_n:
+                        # print("Tor blocked : checklist")
+                        res = 1
+                if res == 0:
+                    print(term.format("Same!!",term.Color.CYAN))
+                else:
+                    print(term.format("Tor blocked : checklist!!",term.Color.RED))
+        else:
+            print(term.format("Same Resemblance!!",term.Color.CYAN))
+
+
+    def status_checker(self):
+
+        # tor use HARExportTrigger
+        self.tor_store = {}; self.non_store = {}; tor_H = {}; tor_N = {}
+        
+        for i in range(len(self.tor_HAR['log']['entries'])):
+            # Deals with address and status codes
+            tor_H[self.tor_HAR['log']['entries'][i]['request']['url']] = self.tor_HAR['log']['entries'][i]['response']['status']
+
+
+        for i in tor_H.keys():
+            if tor_H[i] != 0 or tor_H != '' or tor_H != None:
+                self.tor_store[i] = tor_H[i]
+
+        # non tor use HARExportTrigger
+        for i in range(len(self.non_tor_HAR['log']['entries'])):
+            # Deals with address and status codes
+            tor_N[self.non_tor_HAR['log']['entries'][i]['request']['url']] = self.non_tor_HAR['log']['entries'][i]['response']['status']
+
+
+        for i in tor_N.keys():
+            if tor_N[i] != 0 or tor_N != '' or tor_N != None:
+                self.non_store[i] = tor_N[i]
+
+        # for i in self.non_tor_HAR.keys():
+        #     if self.non_tor_HAR[i] != 0 or self.non_tor_HAR != '' or self.non_tor_HAR != None:
+        #         self.non_store[i] = self.non_tor_HAR[i]
+
+        first_url_t  = next(iter(self.tor_store))
+        first_status_t = self.tor_store[str(first_url_t)]
+
+        # non tor use HARExportTrigger
+        first_url_nt  = next(iter(self.non_store))
+        first_status_nt = self.non_store[str(first_url_nt)]
+
+        if int(first_status_t) > 399 and int(first_status_nt) < 400:
+            # Error for tag and no error for non tor
+            print("Tor Blocked!!")
+
+        elif int(first_status_t) > 399 and int(first_status_nt) > 399: 
+            # Both blocked on tor and non-tor
+            print("Site is blocked on tor and non-tor browsers")
+        elif int(first_status_t) < 300 and int(first_status_nt) > 399:
+            # When tor isn't blocked and non-tor is blocked 
+            print("Tor is not blocked, rather non-tor browser is blocked")
+        else:
+            if int(first_status_t) > 299 and int(first_status_t) < 400:
+                # Chek if tor returns error pages or warning or captchas due to reload
+                self.DOM_Analyse()
+
+            elif int(first_status_t) < 300 and int(first_status_nt) < 300:
+                # When both tor and non tor returns no errors
+                self.DOM_Analyse()
 
 website_list = [
     # "https://mastercard.de",
@@ -424,7 +462,7 @@ website_list = [
     # "https://nvidia.com/",
     # "https://nasa.gov",
     # "https://www.netflix.com/",
-    "https://google.com/search?q=tor",
+    # "https://google.com/search?q=tor",
     # "https://discord.com",
     # "https://yahoo.com/",
     # "https://google.com",
@@ -442,13 +480,13 @@ website_list = [
     # 'https://apple.com',
     # 'https://youtube.com',
     # 'https://support.google.com',
-    'https://cloudflare.com',
-    'https://play.google.com',
-    'https://blogger.com',
-    'https://microsoft.com',
-    'https://mozilla.org',
-    'https://docs.google.com',
-    'https://wordpress.org',
+    # 'https://cloudflare.com',
+    # 'https://play.google.com',
+    # 'https://blogger.com',
+    # 'https://microsoft.com',
+    # 'https://mozilla.org',
+    # 'https://docs.google.com',
+    # 'https://wordpress.org',
     'https://maps.google.com',
     'https://linkedin.com',
     'https://youtu.be',
@@ -1073,12 +1111,13 @@ for url in website_list:
     i+=1
     exit_node = secrets.choice(exit_relays)
     print(url," : ",exit_node)
-    we = Analyser(url,exit_node)
+    we = DataCollection(url,exit_node)
     we.save_in_folder()
     we.setup_tor()
     we.setup_non_tor()
-    we.status_checker()
+    wb = Analyser(we)
+    wb.status_checker()
     time.sleep(5)
     print()
-    if(i==1):
+    if(i==2):
         break
