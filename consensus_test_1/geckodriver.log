@@ -1,0 +1,782 @@
+1624830453072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SFrXoAGi8Amv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830455014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.SFrXoAGi8Amv/search.json.mozlz4", (void 0)))
+1624830461538	Marionette	INFO	Listening on port 41789
+1624830461635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830474182	Marionette	INFO	Stopped listening on port 41789
+1624830480363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hcJUA9yF1qvQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830481326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.hcJUA9yF1qvQ/search.json.mozlz4", (void 0)))
+1624830485577	Marionette	INFO	Listening on port 34767
+1624830485625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830505840	Marionette	INFO	Stopped listening on port 34767
+1624830508449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LIovG8zOmfHm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830509578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.LIovG8zOmfHm/search.json.mozlz4", (void 0)))
+1624830516593	Marionette	INFO	Listening on port 36527
+1624830516711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830516731	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.29.108.250:3128","httpProxy":"165.29.108.250:3128","sslProxy":"165.29.108.250:3128"}
+1624830517985	Marionette	INFO	Stopped listening on port 36527
+1624830520168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jwezpfpvtchT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830521308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.jwezpfpvtchT/search.json.mozlz4", (void 0)))
+1624830527351	Marionette	INFO	Listening on port 34873
+1624830527581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830527595	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.29.108.250:3128","httpProxy":"165.29.108.250:3128","sslProxy":"165.29.108.250:3128"}
+1624830528978	Marionette	INFO	Stopped listening on port 34873
+1624830531202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hkf1gASaauiA"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830532502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.hkf1gASaauiA/search.json.mozlz4", (void 0)))
+1624830539043	Marionette	INFO	Listening on port 38253
+1624830539248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830539278	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"206.81.2.180:3128","httpProxy":"206.81.2.180:3128","sslProxy":"206.81.2.180:3128"}
+1624830633035	Marionette	INFO	Stopped listening on port 38253
+1624830635307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UzhZe7DTk0PL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830636706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.UzhZe7DTk0PL/search.json.mozlz4", (void 0)))
+1624830642410	Marionette	INFO	Listening on port 46277
+1624830642553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830642571	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"68.183.129.76:3129","httpProxy":"68.183.129.76:3129","sslProxy":"68.183.129.76:3129"}
+1624830824375	Marionette	INFO	Stopped listening on port 46277
+1624830826773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WZKGypaoET9o"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624830828017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.WZKGypaoET9o/search.json.mozlz4", (void 0)))
+1624830834137	Marionette	INFO	Listening on port 38259
+1624830834354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624830834417	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624831007506	Marionette	INFO	Stopped listening on port 38259
+1624831009738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X2mlGtx2CYAh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831011010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.X2mlGtx2CYAh/search.json.mozlz4", (void 0)))
+1624831016498	Marionette	INFO	Listening on port 41677
+1624831016651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831016669	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.178.9.186:8080","httpProxy":"107.178.9.186:8080","sslProxy":"107.178.9.186:8080"}
+1624831106362	Marionette	INFO	Stopped listening on port 41677
+1624831109768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QAqqWOcXBkCv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831111076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.QAqqWOcXBkCv/search.json.mozlz4", (void 0)))
+1624831116498	Marionette	INFO	Listening on port 36433
+1624831116662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831116694	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"69.30.231.58:3128","httpProxy":"69.30.231.58:3128","sslProxy":"69.30.231.58:3128"}
+1624831177701	Marionette	INFO	Stopped listening on port 36433
+1624831179899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yRgLTwbpSZ4Y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831181292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.yRgLTwbpSZ4Y/search.json.mozlz4", (void 0)))
+1624831187212	Marionette	INFO	Listening on port 41723
+1624831187362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831187405	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"47.254.90.125:8008","httpProxy":"47.254.90.125:8008","sslProxy":"47.254.90.125:8008"}
+1624831254660	Marionette	INFO	Stopped listening on port 41723
+1624831256089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mwnwRjyywxFe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831257205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.mwnwRjyywxFe/search.json.mozlz4", (void 0)))
+1624831263399	Marionette	INFO	Listening on port 36253
+1624831263607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831263637	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"67.55.186.177:8080","httpProxy":"67.55.186.177:8080","sslProxy":"67.55.186.177:8080"}
+1624831446215	Marionette	INFO	Stopped listening on port 36253
+1624831447381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XCPBGebIhoTu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831448766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.XCPBGebIhoTu/search.json.mozlz4", (void 0)))
+1624831454849	Marionette	INFO	Listening on port 36417
+1624831455076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831455111	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"167.99.163.146:3128","httpProxy":"167.99.163.146:3128","sslProxy":"167.99.163.146:3128"}
+1624831644997	Marionette	INFO	Stopped listening on port 36417
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624831647199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B7lJsNRm8rzH"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624831648531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.B7lJsNRm8rzH/search.json.mozlz4", (void 0)))
+1624831654323	Marionette	INFO	Listening on port 33505
+1624831654458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624831654477	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"99.69.200.51:8081","httpProxy":"99.69.200.51:8081","sslProxy":"99.69.200.51:8081"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624831836522	Marionette	INFO	Stopped listening on port 33505
+1624832043132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DjCUWSoABsNW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832044580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.DjCUWSoABsNW/search.json.mozlz4", (void 0)))
+1624832051958	Marionette	INFO	Listening on port 36427
+1624832052116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832066026	Marionette	INFO	Stopped listening on port 36427
+1624832072278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vPT0E3uQE2h3"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832073475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.vPT0E3uQE2h3/search.json.mozlz4", (void 0)))
+1624832078894	Marionette	INFO	Listening on port 41189
+1624832079007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832099772	Marionette	INFO	Stopped listening on port 41189
+1624832102326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MHuZBlqpFrE2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832103735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.MHuZBlqpFrE2/search.json.mozlz4", (void 0)))
+1624832110418	Marionette	INFO	Listening on port 32903
+1624832110577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832110598	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.29.108.250:3128","httpProxy":"165.29.108.250:3128","sslProxy":"165.29.108.250:3128"}
+1624832112188	Marionette	INFO	Stopped listening on port 32903
+1624832114639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KlqSWGclAE9k"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832115954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.KlqSWGclAE9k/search.json.mozlz4", (void 0)))
+1624832122808	Marionette	INFO	Listening on port 46815
+1624832123131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832123164	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.29.108.250:3128","httpProxy":"165.29.108.250:3128","sslProxy":"165.29.108.250:3128"}
+1624832124676	Marionette	INFO	Stopped listening on port 46815
+1624832127254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8i0wRJUKGnTL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832128575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.8i0wRJUKGnTL/search.json.mozlz4", (void 0)))
+1624832134153	Marionette	INFO	Listening on port 37529
+1624832134285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832134308	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"167.99.163.146:3128","httpProxy":"167.99.163.146:3128","sslProxy":"167.99.163.146:3128"}
+1624832234693	Marionette	INFO	Stopped listening on port 37529
+1624832235942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LD8gXtvmwXlp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832237296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.LD8gXtvmwXlp/search.json.mozlz4", (void 0)))
+1624832243221	Marionette	INFO	Listening on port 40489
+1624832243546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832243582	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"69.30.231.58:3128","httpProxy":"69.30.231.58:3128","sslProxy":"69.30.231.58:3128"}
+1624832313824	Marionette	INFO	Stopped listening on port 40489
+1624832316129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QVeiAqYirxmh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832317233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.QVeiAqYirxmh/search.json.mozlz4", (void 0)))
+1624832322809	Marionette	INFO	Listening on port 33827
+1624832323072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832323113	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"206.81.2.180:3128","httpProxy":"206.81.2.180:3128","sslProxy":"206.81.2.180:3128"}
+1624832389967	Marionette	INFO	Stopped listening on port 33827
+1624832392293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PtKxUxpzihWA"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832393550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.PtKxUxpzihWA/search.json.mozlz4", (void 0)))
+1624832399398	Marionette	INFO	Listening on port 43669
+1624832399514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832399541	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"47.254.90.125:8008","httpProxy":"47.254.90.125:8008","sslProxy":"47.254.90.125:8008"}
+1624832613370	Marionette	INFO	Stopped listening on port 43669
+1624832615579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lDwBw0RcjOOx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832616724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.lDwBw0RcjOOx/search.json.mozlz4", (void 0)))
+1624832622765	Marionette	INFO	Listening on port 38495
+1624832622950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832622971	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"68.183.129.76:3129","httpProxy":"68.183.129.76:3129","sslProxy":"68.183.129.76:3129"}
+1624832688386	Marionette	INFO	Stopped listening on port 38495
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624832689743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aJ4vLzsuYFaz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832690925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.aJ4vLzsuYFaz/search.json.mozlz4", (void 0)))
+1624832696258	Marionette	INFO	Listening on port 42331
+1624832696404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832696433	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+1624832728427	Marionette	INFO	Stopped listening on port 42331
+1624832730964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wadLmUMbZdLh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624832732223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.wadLmUMbZdLh/search.json.mozlz4", (void 0)))
+1624832737597	Marionette	INFO	Listening on port 37623
+1624832737790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624832737825	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"209.33.9.244:8080","httpProxy":"209.33.9.244:8080","sslProxy":"209.33.9.244:8080"}
+1624833038151	Marionette	INFO	Stopped listening on port 37623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624833039759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1BZnpPKOtWrh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833041052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.1BZnpPKOtWrh/search.json.mozlz4", (void 0)))
+1624833046835	Marionette	INFO	Listening on port 43575
+1624833046957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833046970	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.178.9.186:8080","httpProxy":"107.178.9.186:8080","sslProxy":"107.178.9.186:8080"}
+1624833114233	Marionette	INFO	Stopped listening on port 43575
+1624833116671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qz4tgthszAlk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833118001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.Qz4tgthszAlk/search.json.mozlz4", (void 0)))
+1624833124097	Marionette	INFO	Listening on port 35255
+1624833124242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833124260	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"67.55.186.177:8080","httpProxy":"67.55.186.177:8080","sslProxy":"67.55.186.177:8080"}
+1624833338205	Marionette	INFO	Stopped listening on port 35255
+1624833340897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WYSnCEhjfQ5d"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833342396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.WYSnCEhjfQ5d/search.json.mozlz4", (void 0)))
+1624833347967	Marionette	INFO	Listening on port 44143
+1624833348131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833348149	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"99.69.200.51:8081","httpProxy":"99.69.200.51:8081","sslProxy":"99.69.200.51:8081"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624833530131	Marionette	INFO	Stopped listening on port 44143
+1624833536260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xBqN05o5kpCx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833537493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.xBqN05o5kpCx/search.json.mozlz4", (void 0)))
+1624833542778	Marionette	INFO	Listening on port 40277
+1624833542938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833542957	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"99.69.200.51:8081","httpProxy":"99.69.200.51:8081","sslProxy":"99.69.200.51:8081"}
+1624833724931	Marionette	INFO	Stopped listening on port 40277
+1624833727096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rbAYBsZUsW9O"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833728375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.rbAYBsZUsW9O/search.json.mozlz4", (void 0)))
+1624833734158	Marionette	INFO	Listening on port 43277
+1624833734426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833734451	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"99.69.200.51:8081","httpProxy":"99.69.200.51:8081","sslProxy":"99.69.200.51:8081"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624833917086	Marionette	INFO	Stopped listening on port 43277
+1624833918175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L9PgkIyqxVRU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833919422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.L9PgkIyqxVRU/search.json.mozlz4", (void 0)))
+1624833924535	Marionette	INFO	Listening on port 40879
+1624833924700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833924725	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.29.108.250:3128","httpProxy":"165.29.108.250:3128","sslProxy":"165.29.108.250:3128"}
+1624833926320	Marionette	INFO	Stopped listening on port 40879
+1624833928616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wpL67OHRcE4X"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624833929847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.wpL67OHRcE4X/search.json.mozlz4", (void 0)))
+1624833935499	Marionette	INFO	Listening on port 34107
+1624833935796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624833935822	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"167.99.163.146:3128","httpProxy":"167.99.163.146:3128","sslProxy":"167.99.163.146:3128"}
+1624834209647	Marionette	INFO	Stopped listening on port 34107
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1624834213204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.etsCuUhC449M"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834214548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.etsCuUhC449M/search.json.mozlz4", (void 0)))
+1624834220417	Marionette	INFO	Listening on port 44787
+1624834220665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834220699	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"69.30.231.58:3128","httpProxy":"69.30.231.58:3128","sslProxy":"69.30.231.58:3128"}
+1624834252898	Marionette	INFO	Stopped listening on port 44787
+1624834255435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e8e2ZKLd8lDq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834256747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.e8e2ZKLd8lDq/search.json.mozlz4", (void 0)))
+1624834262372	Marionette	INFO	Listening on port 35601
+1624834262576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834262600	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"206.81.2.180:3128","httpProxy":"206.81.2.180:3128","sslProxy":"206.81.2.180:3128"}
+1624834293750	Marionette	INFO	Stopped listening on port 35601
+1624834296081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WE7uaxpSqYnl"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834297503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.WE7uaxpSqYnl/search.json.mozlz4", (void 0)))
+1624834303469	Marionette	INFO	Listening on port 42125
+1624834303687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834303717	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"47.254.90.125:8008","httpProxy":"47.254.90.125:8008","sslProxy":"47.254.90.125:8008"}
+1624834343562	Marionette	INFO	Stopped listening on port 42125
+1624834346282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CsKMtBj3a6Dy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834347401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.CsKMtBj3a6Dy/search.json.mozlz4", (void 0)))
+1624834353283	Marionette	INFO	Listening on port 38373
+1624834353533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834353573	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"68.183.129.76:3129","httpProxy":"68.183.129.76:3129","sslProxy":"68.183.129.76:3129"}
+1624834385447	Marionette	INFO	Stopped listening on port 38373
+1624834387948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2J8ZFMKzRgh8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834389198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.2J8ZFMKzRgh8/search.json.mozlz4", (void 0)))
+1624834394629	Marionette	INFO	Listening on port 45841
+1624834394838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834394853	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+1624834429584	Marionette	INFO	Stopped listening on port 45841
+1624834433034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v9kU1B3U0iiz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834434519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.v9kU1B3U0iiz/search.json.mozlz4", (void 0)))
+1624834440491	Marionette	INFO	Listening on port 38793
+1624834440803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834440828	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"209.33.9.244:8080","httpProxy":"209.33.9.244:8080","sslProxy":"209.33.9.244:8080"}
+JavaScript error: https://www.cloudflare.com/vendor/onetrust/scripttemplates/6.8.0/otBannerSdk.js, line 7: TypeError: be.moduleInitializer is undefined
+1624834594453	Marionette	INFO	Stopped listening on port 38793
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624834598207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fiw6034zA9aX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834599367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.Fiw6034zA9aX/search.json.mozlz4", (void 0)))
+1624834605460	Marionette	INFO	Listening on port 42047
+1624834605637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834605665	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.178.9.186:8080","httpProxy":"107.178.9.186:8080","sslProxy":"107.178.9.186:8080"}
+JavaScript error: https://www.cloudflare.com/vendor/onetrust/scripttemplates/6.8.0/otBannerSdk.js, line 7: TypeError: be.moduleInitializer is undefined
+1624834650315	Marionette	INFO	Stopped listening on port 42047
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624834653797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PK6rjHhEKS6q"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624834655063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.PK6rjHhEKS6q/search.json.mozlz4", (void 0)))
+1624834660598	Marionette	INFO	Listening on port 43563
+1624834660703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624834660716	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"67.55.186.177:8080","httpProxy":"67.55.186.177:8080","sslProxy":"67.55.186.177:8080"}
+1624834708884	Marionette	INFO	Stopped listening on port 43563
+1624866756502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jNBrOyyya7Xt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624866758449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.jNBrOyyya7Xt/search.json.mozlz4", (void 0)))
+1624866765631	Marionette	INFO	Listening on port 36489
+1624866765809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624866778798	Marionette	INFO	Stopped listening on port 36489
+1624866784494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MXaCIEwXAXco"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624866785960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.MXaCIEwXAXco/search.json.mozlz4", (void 0)))
+1624866791877	Marionette	INFO	Listening on port 33859
+1624866792033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624866805971	Marionette	INFO	Stopped listening on port 33859
+1624866808308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W2rDRiOCd7t1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624866809621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.W2rDRiOCd7t1/search.json.mozlz4", (void 0)))
+1624866815816	Marionette	INFO	Listening on port 34643
+1624866815950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624866815975	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.31.20:3128","httpProxy":"142.93.31.20:3128","sslProxy":"142.93.31.20:3128"}
+1624866843696	Marionette	INFO	Stopped listening on port 34643
+1624866846045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YmCWcocvQD2g"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624866847333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.YmCWcocvQD2g/search.json.mozlz4", (void 0)))
+1624866855965	Marionette	INFO	Listening on port 33703
+1624866856390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624866856568	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.31.20:3128","httpProxy":"142.93.31.20:3128","sslProxy":"142.93.31.20:3128"}
+1624866915805	Marionette	INFO	Stopped listening on port 33703
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624866918279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mpg7i8d48MGw"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624866919446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.mpg7i8d48MGw/search.json.mozlz4", (void 0)))
+1624866926218	Marionette	INFO	Listening on port 38741
+1624866926392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624866926417	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"138.68.42.77:3128","httpProxy":"138.68.42.77:3128","sslProxy":"138.68.42.77:3128"}
+1624866999790	Marionette	INFO	Stopped listening on port 38741
+1624867002337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6KmzUmBLO8zZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867003685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.6KmzUmBLO8zZ/search.json.mozlz4", (void 0)))
+1624867010841	Marionette	INFO	Listening on port 41187
+1624867010969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867010991	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+1624867012682	Marionette	INFO	Stopped listening on port 41187
+1624867015153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FKOw0YvJoqJK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867016373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.FKOw0YvJoqJK/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1624867337291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3m5UZ8Kq3gCg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867338993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.3m5UZ8Kq3gCg/search.json.mozlz4", (void 0)))
+1624867345797	Marionette	INFO	Listening on port 40297
+1624867345936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867358733	Marionette	INFO	Stopped listening on port 40297
+1624867364611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.73BueZBdeTcM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867365890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.73BueZBdeTcM/search.json.mozlz4", (void 0)))
+1624867371990	Marionette	INFO	Listening on port 46759
+1624867372332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867387430	Marionette	INFO	Stopped listening on port 46759
+1624867389999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGnQkt69ZnRo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867391325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.yGnQkt69ZnRo/search.json.mozlz4", (void 0)))
+1624867397484	Marionette	INFO	Listening on port 32921
+1624867397649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867397666	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.31.20:3128","httpProxy":"142.93.31.20:3128","sslProxy":"142.93.31.20:3128"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624867600480	Marionette	INFO	Stopped listening on port 32921
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624867603043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y8KctMsPB00u"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867604414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.y8KctMsPB00u/search.json.mozlz4", (void 0)))
+1624867611316	Marionette	INFO	Listening on port 37467
+1624867611512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867611535	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.31.20:3128","httpProxy":"142.93.31.20:3128","sslProxy":"142.93.31.20:3128"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624867642648	Marionette	INFO	Stopped listening on port 37467
+1624867644825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PUbrmqfu9djx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867646077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.PUbrmqfu9djx/search.json.mozlz4", (void 0)))
+1624867652420	Marionette	INFO	Listening on port 41309
+1624867652609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867652629	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+1624867654161	Marionette	INFO	Stopped listening on port 41309
+1624867656683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sBScSTJ5ewyk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867658045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.sBScSTJ5ewyk/search.json.mozlz4", (void 0)))
+1624867664704	Marionette	INFO	Listening on port 38655
+1624867664852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867664889	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"209.33.9.244:8080","httpProxy":"209.33.9.244:8080","sslProxy":"209.33.9.244:8080"}
+1624867861731	Marionette	INFO	Stopped listening on port 38655
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1624867864546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fxGSS9pniwT4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867865989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.fxGSS9pniwT4/search.json.mozlz4", (void 0)))
+1624867872382	Marionette	INFO	Listening on port 46237
+1624867872676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867872709	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"138.68.42.77:3128","httpProxy":"138.68.42.77:3128","sslProxy":"138.68.42.77:3128"}
+1624867950439	Marionette	INFO	Stopped listening on port 46237
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1624867952858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UMuutBtg6tyv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867954241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.UMuutBtg6tyv/search.json.mozlz4", (void 0)))
+1624867961190	Marionette	INFO	Listening on port 46795
+1624867961435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867961483	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"34.94.40.85:80","httpProxy":"34.94.40.85:80","sslProxy":"34.94.40.85:80"}
+1624867983541	Marionette	INFO	Stopped listening on port 46795
+1624867986230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qeb2XVc8wpW8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624867987585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.qeb2XVc8wpW8/search.json.mozlz4", (void 0)))
+1624867994232	Marionette	INFO	Listening on port 37269
+1624867994482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624867994510	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"96.2.228.18:8080","httpProxy":"96.2.228.18:8080","sslProxy":"96.2.228.18:8080"}
+1624868173254	Marionette	INFO	Stopped listening on port 37269
+1624868175186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gwI3IjoQKJHR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868176647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.gwI3IjoQKJHR/search.json.mozlz4", (void 0)))
+1624868183010	Marionette	INFO	Listening on port 42463
+1624868183232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868183273	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.16.168:3128","httpProxy":"142.93.16.168:3128","sslProxy":"142.93.16.168:3128"}
+1624868274883	Marionette	INFO	Stopped listening on port 42463
+1624868277940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pdGjHrJR7BkR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868279353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.pdGjHrJR7BkR/search.json.mozlz4", (void 0)))
+1624868285517	Marionette	INFO	Listening on port 36791
+1624868285722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868285743	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"63.151.67.7:8080","httpProxy":"63.151.67.7:8080","sslProxy":"63.151.67.7:8080"}
+1624868524472	Marionette	INFO	Stopped listening on port 36791
+1624868530934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JOYjxCtL9pjU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868532209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.JOYjxCtL9pjU/search.json.mozlz4", (void 0)))
+1624868538360	Marionette	INFO	Listening on port 32893
+1624868538463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868538478	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"63.151.67.7:8080","httpProxy":"63.151.67.7:8080","sslProxy":"63.151.67.7:8080"}
+1624868566287	Marionette	INFO	Stopped listening on port 32893
+1624868570985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8Op2KpBBx30A"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868572412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.8Op2KpBBx30A/search.json.mozlz4", (void 0)))
+1624868578978	Marionette	INFO	Listening on port 40669
+1624868579146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868579167	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"63.151.67.7:8080","httpProxy":"63.151.67.7:8080","sslProxy":"63.151.67.7:8080"}
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624868611778	Marionette	INFO	Stopped listening on port 40669
+1624868615631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UTVU5pbxFMvR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868616981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.UTVU5pbxFMvR/search.json.mozlz4", (void 0)))
+1624868623235	Marionette	INFO	Listening on port 40013
+1624868623384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868623417	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.31.20:3128","httpProxy":"142.93.31.20:3128","sslProxy":"142.93.31.20:3128"}
+1624868905540	Marionette	INFO	Stopped listening on port 40013
+1624868907613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uApwO2oNGAlK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868908990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.uApwO2oNGAlK/search.json.mozlz4", (void 0)))
+1624868915225	Marionette	INFO	Listening on port 44099
+1624868915399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868915433	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"50.114.64.48:999","httpProxy":"50.114.64.48:999","sslProxy":"50.114.64.48:999"}
+1624868916804	Marionette	INFO	Stopped listening on port 44099
+1624868919509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K0w6GkQfkRld"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624868920744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.K0w6GkQfkRld/search.json.mozlz4", (void 0)))
+1624868926714	Marionette	INFO	Listening on port 40099
+1624868926888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624868926919	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"209.33.9.244:8080","httpProxy":"209.33.9.244:8080","sslProxy":"209.33.9.244:8080"}
+JavaScript error: https://www.cloudflare.com/vendor/onetrust/scripttemplates/6.8.0/otBannerSdk.js, line 7: TypeError: be.moduleInitializer is undefined
+1624869105340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1624869116872	Marionette	INFO	Stopped listening on port 40099
+1624869119710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uw4JCQvQzUtX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624869120971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.Uw4JCQvQzUtX/search.json.mozlz4", (void 0)))
+1624869128012	Marionette	INFO	Listening on port 34043
+1624869128255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624869128279	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"138.68.42.77:3128","httpProxy":"138.68.42.77:3128","sslProxy":"138.68.42.77:3128"}
+1624869297495	Marionette	INFO	Stopped listening on port 34043
+1624869298576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4VatO9YPHJgU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624869299822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.4VatO9YPHJgU/search.json.mozlz4", (void 0)))
+1624869306463	Marionette	INFO	Listening on port 43091
+1624869306652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624869306677	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"34.94.40.85:80","httpProxy":"34.94.40.85:80","sslProxy":"34.94.40.85:80"}
+JavaScript error: https://www.cloudflare.com/vendor/onetrust/scripttemplates/6.8.0/otBannerSdk.js, line 7: TypeError: be.moduleInitializer is undefined
+1624869456617	Marionette	INFO	Stopped listening on port 43091
+1624869479458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gaDXJFahglWY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624869480815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.gaDXJFahglWY/search.json.mozlz4", (void 0)))
+1624869492909	Marionette	INFO	Listening on port 39229
+1624869493310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624869493360	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"96.2.228.18:8080","httpProxy":"96.2.228.18:8080","sslProxy":"96.2.228.18:8080"}
+1624869772539	Marionette	INFO	Stopped listening on port 39229
+1624869773911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LDk3IJQxRbcZ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1624869775232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.LDk3IJQxRbcZ/search.json.mozlz4", (void 0)))
+1624869782105	Marionette	INFO	Listening on port 36473
+1624869782380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624869782406	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"142.93.16.168:3128","httpProxy":"142.93.16.168:3128","sslProxy":"142.93.16.168:3128"}
+1624869940599	Marionette	INFO	Stopped listening on port 36473

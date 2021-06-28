@@ -1,0 +1,68 @@
+----------------------------
+https://www.google.com/search?q=tor
+----------------------------
+Normal
+1294
+US
+
+Tor
+24
+Proxy-1, pass: False
+Executed Proxy1.png
+45
+Proxy-2, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.google.com/search%3Fq%3Dtor&c=UTF-8&d=The%20server%20at%20www.google.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=proxyConnectFailure&u=https%3A//www.google.com/search%3Fq%3Dtor&c=UTF-8&d=Firefox%20is%20configured%20to%20use%20a%20proxy%20server%20that%20is%20refusing%20connections.
+
+Proxy-4, pass: True
+Executed Proxy4.png
+2425
+Proxy-5, pass: False
+Executed Proxy5.png
+38
+Proxy-6, pass: False
+Executed Proxy6.png
+45
+Proxy-7, pass: True
+Executed Proxy7.png
+38
+Proxy-8, pass: False
+Executed Proxy8.png
+45
+['142.93.31.20:3128', '50.114.64.48:999', '209.33.9.244:8080', '138.68.42.77:3128', '34.94.40.85:80', '96.2.228.18:8080', '142.93.16.168:3128', '63.151.67.7:8080']
+----------------------------
+https://cloudflare.com
+----------------------------
+Normal
+1356
+US
+
+Tor
+1089
+Proxy-1, pass: False
+Executed Proxy1.png
+1352
+Proxy-2, pass: True
+Executed Proxy2.png
+1357
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=proxyConnectFailure&u=https%3A//cloudflare.com/&c=UTF-8&d=Firefox%20is%20configured%20to%20use%20a%20proxy%20server%20that%20is%20refusing%20connections.
+
+Proxy-4, pass: True
+Executed Proxy4.png
+1196
+Proxy-5, pass: False
+Executed Proxy5.png
+76
+Proxy-6, pass: False
+Executed Proxy6.png
+1210
+Proxy-7, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.cloudflare.com/&c=UTF-8&d=The%20server%20at%20www.cloudflare.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-8, pass: False
+Executed Proxy8.png
+1355
+['142.93.31.20:3128', '50.114.64.48:999', '209.33.9.244:8080', '138.68.42.77:3128', '34.94.40.85:80', '96.2.228.18:8080', '142.93.16.168:3128', '63.151.67.7:8080']
