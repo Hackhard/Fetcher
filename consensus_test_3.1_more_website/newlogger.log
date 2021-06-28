@@ -1,0 +1,460 @@
+----------------------------
+https://mastercard.de
+----------------------------
+Normal
+1589
+US
+
+Tor
+6
+Proxy-1, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//mastercard.de/&c=UTF-8&d=The%20server%20at%20mastercard.de%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-2, pass: True
+Executed Proxy2.png
+1320
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.mastercard.de/de-de.html&c=UTF-8&d=The%20server%20at%20www.mastercard.de%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: False
+Executed Proxy4.png
+1320
+['138.68.42.77:3128', '142.93.16.168:3128', '142.93.31.20:3128', '34.94.40.85:80']
+----------------------------
+https://santander.de
+----------------------------
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//santander.de/&c=UTF-8&d=The%20server%20at%20santander.de%20is%20taking%20too%20long%20to%20respond.
+
+US
+
+Tor
+1615
+Proxy-1, pass: True
+Executed Proxy1.png
+1616
+Proxy-2, pass: True
+Executed Proxy2.png
+1614
+Proxy-3, pass: False
+Executed Proxy3.png
+1614
+Proxy-4, pass: False
+Executed Proxy4.png
+1614
+['138.68.42.77:3128', '142.93.16.168:3128', '142.93.31.20:3128', '34.94.40.85:80']
+----------------------------
+https://tdbank.com
+----------------------------
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//tdbank.com/&c=UTF-8&d=The%20server%20at%20tdbank.com%20is%20taking%20too%20long%20to%20respond.
+
+US
+
+Tor
+1624
+Proxy-1, pass: True
+Executed Proxy1.png
+1624
+Proxy-2, pass: True
+Executed Proxy2.png
+1670
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//tdbank.com/&c=UTF-8&d=The%20server%20at%20tdbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//tdbank.com/&c=UTF-8&d=The%20server%20at%20tdbank.com%20is%20taking%20too%20long%20to%20respond.
+
+['138.68.42.77:3128', '142.93.16.168:3128', '142.93.31.20:3128', '34.94.40.85:80']
+----------------------------
+https://dan.me.uk
+----------------------------
+Normal
+217
+US
+
+Tor
+217
+Proxy-1, pass: False
+Executed Proxy1.png
+217
+Proxy-2, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//dan.me.uk/&c=UTF-8&d=The%20server%20at%20dan.me.uk%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-3, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.dan.me.uk/&c=UTF-8&d=The%20server%20at%20www.dan.me.uk%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//dan.me.uk/&c=UTF-8&d=The%20server%20at%20dan.me.uk%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-5, pass: False
+Executed Proxy5.png
+217
+Proxy-6, pass: True
+Executed Proxy6.png
+217
+Proxy-7, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//dan.me.uk/&c=UTF-8&d=The%20server%20at%20dan.me.uk%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-8, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-9, pass: False
+Executed Proxy9.png
+217
+Proxy-10, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.dan.me.uk/&c=UTF-8&d=The%20server%20at%20www.dan.me.uk%20is%20taking%20too%20long%20to%20respond.
+
+['142.93.31.20:3128', '63.151.67.7:8080', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '178.128.178.169:3128', '69.197.190.188:3128']
+----------------------------
+https://lloydsbank.com
+----------------------------
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+US
+
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-1, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.lloydsbank.com/&c=UTF-8&d=The%20server%20at%20www.lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-2, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-3, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-5, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.lloydsbank.com/&c=UTF-8&d=The%20server%20at%20www.lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: True
+Executed Proxy6.png
+2140
+Proxy-7, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//lloydsbank.com/&c=UTF-8&d=The%20server%20at%20lloydsbank.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-8, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-9, pass: False
+Executed Proxy9.png
+2141
+Proxy-10, pass: True
+Executed Proxy10.png
+2138
+['142.93.31.20:3128', '63.151.67.7:8080', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '178.128.178.169:3128', '69.197.190.188:3128']
+----------------------------
+https://bitstamp.net
+----------------------------
+Message: TimedPromise timed out after 300000 ms
+
+US
+
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-1, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-2, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-3, pass: True
+Executed Proxy3.png
+2302
+Proxy-4, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+Proxy-5, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//bitstamp.net/&c=UTF-8&d=The%20server%20at%20bitstamp.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: True
+Executed Proxy6.png
+2302
+Proxy-7, pass: False
+Executed Proxy7.png
+2302
+Proxy-8, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.bitstamp.net/&c=UTF-8&d=The%20server%20at%20www.bitstamp.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-9, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//bitstamp.net/&c=UTF-8&d=The%20server%20at%20bitstamp.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-10, pass: True
+Message: TimedPromise timed out after 300000 ms
+
+['142.93.31.20:3128', '63.151.67.7:8080', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '178.128.178.169:3128', '69.197.190.188:3128']
+----------------------------
+https://sc.com
+----------------------------
+Normal
+721
+US
+
+Tor
+719
+Proxy-1, pass: False
+Executed Proxy1.png
+27
+Proxy-2, pass: False
+Executed Proxy2.png
+719
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//sc.com/&c=UTF-8&d=The%20server%20at%20sc.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: True
+Executed Proxy4.png
+27
+Proxy-5, pass: False
+Executed Proxy5.png
+719
+Proxy-6, pass: True
+Executed Proxy6.png
+27
+Proxy-7, pass: True
+Executed Proxy7.png
+717
+Proxy-8, pass: False
+Executed Proxy8.png
+719
+Proxy-9, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//sc.com/&c=UTF-8&d=The%20server%20at%20sc.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-10, pass: False
+Executed Proxy10.png
+27
+['34.94.40.85:80', '68.188.63.149:8080', '142.93.31.20:3128', '142.93.16.168:3128', '69.160.192.139:8080', '138.68.42.77:3128', '69.197.190.188:3128', '158.51.201.233:8080', '63.151.67.7:8080', '178.128.178.169:3128']
+----------------------------
+https://rankexploits.com
+----------------------------
+Normal
+36
+US
+
+Tor
+36
+Proxy-1, pass: False
+Executed Proxy1.png
+36
+Proxy-2, pass: False
+Executed Proxy2.png
+36
+Proxy-3, pass: False
+Executed Proxy3.png
+4
+Proxy-4, pass: True
+Executed Proxy4.png
+36
+Proxy-5, pass: False
+Executed Proxy5.png
+36
+Proxy-6, pass: True
+Executed Proxy6.png
+78
+Proxy-7, pass: True
+Executed Proxy7.png
+36
+Proxy-8, pass: False
+Executed Proxy8.png
+36
+Proxy-9, pass: False
+Executed Proxy9.png
+4
+Proxy-10, pass: False
+Executed Proxy10.png
+77
+['34.94.40.85:80', '68.188.63.149:8080', '142.93.31.20:3128', '142.93.16.168:3128', '69.160.192.139:8080', '138.68.42.77:3128', '69.197.190.188:3128', '158.51.201.233:8080', '63.151.67.7:8080', '178.128.178.169:3128']
+----------------------------
+https://dominos.com
+----------------------------
+Normal
+139
+US
+
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.dominos.com/&c=UTF-8&d=The%20server%20at%20www.dominos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-1, pass: False
+Executed Proxy1.png
+574
+Proxy-2, pass: False
+Executed Proxy2.png
+588
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.dominos.com/&c=UTF-8&d=The%20server%20at%20www.dominos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: True
+Executed Proxy4.png
+573
+Proxy-5, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//dominos.com/&c=UTF-8&d=The%20server%20at%20dominos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//dominos.com/&c=UTF-8&d=The%20server%20at%20dominos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-7, pass: True
+Executed Proxy7.png
+574
+Proxy-8, pass: False
+Executed Proxy8.png
+583
+Proxy-9, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.dominos.com/&c=UTF-8&d=The%20server%20at%20www.dominos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-10, pass: False
+Message: TimedPromise timed out after 300000 ms
+
+['34.94.40.85:80', '68.188.63.149:8080', '142.93.31.20:3128', '142.93.16.168:3128', '69.160.192.139:8080', '138.68.42.77:3128', '69.197.190.188:3128', '158.51.201.233:8080', '63.151.67.7:8080', '178.128.178.169:3128']
+----------------------------
+https://palemoon.org
+----------------------------
+Normal
+301
+US
+
+Tor
+301
+Proxy-1, pass: False
+Executed Proxy1.png
+301
+Proxy-2, pass: True
+Executed Proxy2.png
+301
+Proxy-3, pass: False
+Executed Proxy3.png
+53
+Proxy-4, pass: False
+Executed Proxy4.png
+301
+Proxy-5, pass: False
+Executed Proxy5.png
+301
+Proxy-6, pass: True
+Executed Proxy6.png
+301
+Proxy-7, pass: True
+Executed Proxy7.png
+301
+Proxy-8, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//www.palemoon.org/&c=UTF-8&d=The%20server%20at%20www.palemoon.org%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-9, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//palemoon.org/&c=UTF-8&d=The%20server%20at%20palemoon.org%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-10, pass: False
+Executed Proxy10.png
+301
+['142.93.31.20:3128', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '63.151.67.7:8080', '69.197.190.188:3128', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '178.128.178.169:3128']
+----------------------------
+http://adsabs.harvard.edu
+----------------------------
+Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//adsabs.harvard.edu/&c=UTF-8&d=The%20server%20at%20adsabs.harvard.edu%20is%20taking%20too%20long%20to%20respond.
+
+US
+
+Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//adsabs.harvard.edu/&c=UTF-8&d=The%20server%20at%20adsabs.harvard.edu%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-1, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//adsabs.harvard.edu/&c=UTF-8&d=The%20server%20at%20adsabs.harvard.edu%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-2, pass: True
+Executed Proxy2.png
+21
+Proxy-3, pass: False
+Executed Proxy3.png
+21
+Proxy-4, pass: False
+Executed Proxy4.png
+46
+Proxy-5, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//adsabs.harvard.edu/&c=UTF-8&d=The%20server%20at%20adsabs.harvard.edu%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: True
+Executed Proxy6.png
+52
+Proxy-7, pass: True
+Executed Proxy7.png
+55
+Proxy-8, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//adsabs.harvard.edu/&c=UTF-8&d=The%20server%20at%20adsabs.harvard.edu%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-9, pass: False
+Executed Proxy9.png
+55
+Proxy-10, pass: False
+Message: Reached error page: about:neterror?e=proxyConnectFailure&u=https%3A//ui.adsabs.harvard.edu/&c=UTF-8&d=Firefox%20is%20configured%20to%20use%20a%20proxy%20server%20that%20is%20refusing%20connections.
+
+['142.93.31.20:3128', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '63.151.67.7:8080', '69.197.190.188:3128', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '178.128.178.169:3128']
+----------------------------
+https://montypython.net
+----------------------------
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+US
+
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-1, pass: False
+Executed Proxy1.png
+418
+Proxy-2, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-3, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-4, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-5, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montycasinos.com/montypython/.html&c=UTF-8&d=The%20server%20at%20montycasinos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-7, pass: True
+Executed Proxy7.png
+418
+Proxy-8, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montycasinos.com/montypython/.html&c=UTF-8&d=The%20server%20at%20montycasinos.com%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-9, pass: False
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//montypython.net/&c=UTF-8&d=The%20server%20at%20montypython.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-10, pass: False
+Executed Proxy10.png
+418
+['142.93.31.20:3128', '138.68.42.77:3128', '68.188.63.149:8080', '69.160.192.139:8080', '63.151.67.7:8080', '69.197.190.188:3128', '142.93.16.168:3128', '158.51.201.233:8080', '34.94.40.85:80', '178.128.178.169:3128']
+----------------------------
+https://go4go.net
+----------------------------
+Normal
+409
+US
+
+Tor
+409
+Proxy-1, pass: False
+Executed Proxy1.png
+409
+Proxy-2, pass: False
+Executed Proxy2.png
+402
+Proxy-3, pass: False
+Executed Proxy3.png
+402
+Proxy-4, pass: True
+Executed Proxy4.png
+406
+Proxy-5, pass: True
+Message: Reached error page: about:neterror?e=netTimeout&u=https%3A//go4go.net/&c=UTF-8&d=The%20server%20at%20go4go.net%20is%20taking%20too%20long%20to%20respond.
+
+Proxy-6, pass: False
+Executed Proxy6.png
+409
+Proxy-7, pass: False
+Executed Proxy7.png
+401
+Proxy-8, pass: True
+Executed Proxy8.png
+407
+['47.90.132.228:8800', '68.188.63.149:8080', '178.128.178.169:3128', '142.93.16.168:3128', '69.197.190.188:3128', '69.160.192.139:8080', '158.51.201.233:8080', '138.68.42.77:3128']
